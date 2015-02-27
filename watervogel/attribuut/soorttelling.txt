@@ -23,12 +23,12 @@ Grote Zilverreiger	1992	wegm
 Grote Zilverreiger	1992	wegsm
 Grote Zilverreiger	1992	wem
 Grote Zilverreiger	1992	wems
-Blauwe reiger	1992	w
-Blauwe reiger	1992	weg
-Blauwe reiger	1992	wegm
-Blauwe reiger	1992	wegsm
-Blauwe reiger	1992	wem
-Blauwe reiger	1992	wems
+Blauwe Reiger	1992	w
+Blauwe Reiger	1992	weg
+Blauwe Reiger	1992	wegm
+Blauwe Reiger	1992	wegsm
+Blauwe Reiger	1992	wem
+Blauwe Reiger	1992	wems
 Knobbelzwaan	1992	w
 Knobbelzwaan	1992	weg
 Knobbelzwaan	1992	wegm
@@ -53,10 +53,10 @@ Kolgans	1992	w
 Kolgans	1992	wem
 Kolgans	1992	wems
 Kolgans	1992	zg
-Grauwe gans	1992	w
-Grauwe gans	1992	wem
-Grauwe gans	1992	wems
-Grauwe gans	1992	zg
+Grauwe Gans	1992	w
+Grauwe Gans	1992	wem
+Grauwe Gans	1992	wems
+Grauwe Gans	1992	zg
 Brandgans	1992	w
 Brandgans	1992	wem
 Brandgans	1992	wems
@@ -97,12 +97,12 @@ Wintertaling	1992	wegm
 Wintertaling	1992	wegsm
 Wintertaling	1992	wem
 Wintertaling	1992	wems
-Wilde eend	1992	w
-Wilde eend	1992	weg
-Wilde eend	1992	wegm
-Wilde eend	1992	wegsm
-Wilde eend	1992	wem
-Wilde eend	1992	wems
+Wilde Eend	1992	w
+Wilde Eend	1992	weg
+Wilde Eend	1992	wegm
+Wilde Eend	1992	wegsm
+Wilde Eend	1992	wem
+Wilde Eend	1992	wems
 Pijlstaart	1992	w
 Pijlstaart	1992	weg
 Pijlstaart	1992	wegm
