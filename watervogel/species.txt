@@ -1,0 +1,44 @@
+SpeciesID	Species	SpeciesNL	SpeciesEN
+70	Tachybaptus ruficollis	Dodaars	Little Grebe
+90	Podiceps cristatus	Fuut	Great-crested Grebe
+720	Phalacrocorax carbo	Aalscholver	Great Cormorant
+1210	Egretta alba	Grote Zilverreiger	Great White Egret
+1220	Ardea cinerea	Blauwe Reiger	Grey Heron
+1520	Cygnus olor	Knobbelzwaan	Mute Swan
+1530	Cygnus columbianus	Kleine Zwaan	Tundra Swan
+1574	Anser fabalis rossicus	Toendrarietgans	Bean Goose (rossicus)
+1580	Anser brachyrhynchus	Kleine Rietgans	Pink-footed Goose
+1590	Anser albifrons	Kolgans	White-fronted Goose
+1610	Anser anser	Grauwe Gans	Greylag Goose
+1660	Branta canadensis	Canadese Gans	Canada Goose
+1670	Branta leucopsis	Brandgans	Barnacle Goose
+1700	Alopochen aegyptiaca	Nijlgans	Egyptian Goose
+1730	Tadorna tadorna	Bergeend	Common Shelduck
+1790	Anas penelope	Smient	Eurasian Wigeon
+1820	Anas strepera	Krakeend	Gadwall
+1840	Anas crecca	Wintertaling	Common Teal
+1860	Anas platyrhynchos	Wilde Eend	Mallard
+1890	Anas acuta	Pijlstaart	Northern Pintail
+1940	Anas clypeata	Slobeend	Northern Shoveler
+1980	Aythya ferina	Tafeleend	Common Pochard
+2030	Aythya fuligula	Kuifeend	Tufted Duck
+2180	Bucephala clangula	Brilduiker	Common Goldeneye
+2200	Mergus albellus	Nonnetje	Smew
+2230	Mergus merganser	Grote Zaagbek	Goosander
+2250	Oxyura jamaicensis	Rosse Stekelstaart	Ruddy Duck
+4240	Gallinula chloropus	Waterhoen	Moorhen
+4290	Fulica atra	Meerkoet	Common Coot
+4500	Haematopus ostralegus	Scholekster	Oystercatcher
+4560	Recurvirostra avosetta	Kluut	Avocet
+4700	Charadrius hiaticula	Bontbekplevier	Great Ringed Plover
+4850	Pluvialis apricaria	Goudplevier	European Golden Plover
+4860	Pluvialis squatarola	Zilverplevier	Grey Plover
+4930	Vanellus vanellus	Kievit	Northern Lapwing
+4970	Calidris alba	Drieteenstrandloper	Sanderling
+5100	Calidris maritima	Paarse Strandloper	Purple Sandpiper
+5120	Calidris alpina	Bonte Strandloper	Dunlin
+5170	Philomachus pugnax	Kemphaan	Ruff
+5320	Limosa limosa	Grutto	Black-tailed Godwit
+5410	Numenius arquata	Wulp	Eurasian Curlew
+5460	Tringa totanus	Tureluur	Common Redshank
+5610	Arenaria interpres	Steenloper	Turnstone
