@@ -1,4 +1,4 @@
-LocationID	LocationName	SPA	Area	XLambert	YLambert
+LocationID	LocationName	SPA	Area	XBelgiumLambert72	YBelgiumLambert72
 RHOE_01.02	Ploegsteert (Argilières = RNOP)	1	98.6851449	46292.88905	157073.8476
 RHOE_01.03	Warneton (Pont Rouge)	0	10	48704	159079
 RHOE_01.04	Warneton/Ploegsteert - Etangs Deconinck	1	31.30676047	48024.53182	157566.4601
