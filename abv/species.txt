@@ -1,0 +1,217 @@
+SpeciesID	Species	SpeciesNL	SpeciesEN	SpeciesFR
+70	Tachybaptus ruficollis	Dodaars	Little Grebe	NA
+90	Podiceps cristatus	Fuut	Great Crested Grebe	NA
+120	Podiceps nigricollis	Geoorde fuut	Black-necked Grebe	NA
+720	Phalacrocorax carbo	Aalscholver	Great Cormorant	NA
+950	Botaurus stellaris	Roerdomp	Great Bittern	NA
+980	Ixobrychus minutus	Woudaap	Little bittern	NA
+1040	Nycticorax nycticorax	Kwak	Night Heron	NA
+1110	Bubulcus ibis	Koereiger	Cattle Egret	NA
+1190	Egretta garzetta	Kleine zilverreiger	Little Egret	NA
+1220	Ardeae cinerea	Blauwe reiger	Grey Heron	NA
+1340	Ciconia ciconia	Ooievaar	White Stork	NA
+1440	Platalea leucorodia	Lepelaar	Spoonbill	NA
+1520	Cygnus olor	Knobbelzwaan	Mute Swan	NA
+1560	Anser cygnoides	Zwaangans	Swan goose	NA
+1590	Anser albifrons	Kolgans	White-fronted Goose	NA
+1610	Anser anser	Grauwe gans	Greylag Goose	NA
+1619	Anser unox	Soepgans	Domestic goose	NA
+1620	Anser indicus	Indische gans	Bar-headed Goose	NA
+1660	Branta canadensis	Canadese gans	Canada Goose	NA
+1670	Branta leucopsis	Brandgans	Barnacle Goose	NA
+1690	Branta ruficollis	Roodhalsgans	Red-breasted Goose	NA
+1700	Alopochen aegyptiacus	Nijlgans	Egyptian Goose	NA
+1710	Tadorna ferruginea	Casarca	Ruddy Shelduck	NA
+1730	Tadorna tadorna	Bergeend	Shelduck	NA
+1750	Cairina moschata	Muskuseend	Muscovy duck	NA
+1770	Aix sponsa	Carolina-eend	Wood duck	NA
+1780	Aix galericulata	Mandarijneend	Mandarin Duck	NA
+1790	Anas penelope	Smient	Eurasian Wigeon	NA
+1820	Anas strepera	Krakeend	Gadwall	NA
+1840	Anas crecca	Wintertaling	Teal	NA
+1860	Anas platyrhynchos	Wilde eend	Mallard	NA
+1869	Anas unox	Soepeend	Domestic duck	NA
+1890	Anas acuta	Pijlstaart	Northern Pintail	NA
+1910	Anas querquedula	Zomertaling	Garganey	NA
+1940	Anas clypeata	Slobeend	Northern Shoveler	NA
+1960	Netta rufina	Krooneend	Red-crested Pochard	NA
+1980	Aythya ferina	Tafeleend	Pochard	NA
+2030	Aythya fuligula	Kuifeend	Tufted Duck	NA
+2250	Oxyura jamaicensis	Rosse stekelstaart	Ruddy duck	NA
+2310	Pernis apivorus	Wespendief	Honey buzzard	NA
+2380	Milvus migrans	Zwarte wouw	Black Kite	NA
+2390	Milvus milvus	Rode wouw	Red Kite	NA
+2600	Circus aeruginosus	Bruine kiekendief	Marsh Harrier	NA
+2610	Circus cyaneus	Blauwe kiekendief	Hen Harrier	NA
+2630	Circus pygargus	Grauwe kiekendief	Montagu's Harrier	NA
+2670	Accipiter gentilis	Havik	Northern Goshawk	NA
+2690	Accipiter nisus	Sperwer	Sparrowhawk	NA
+2870	Buteo buteo	Buizerd	Common Buzzard	NA
+3040	Falco tinnunculus	Torenvalk	Kestrel	NA
+3100	Falco subbuteo	Boomvalk	Hobby	NA
+3200	Falco peregrinus	Slechtvalk	Peregrine Falcon	NA
+3320	Tetrao tetrix	Korhoen	Black grouse	Tétras lyre
+3670	Perdix perdix	Patrijs	Grey Partridge	NA
+3700	Coturnix coturnix	Kwartel	Common Quail	NA
+3940	Phasianus colchicus	Fazant	Pheasant	NA
+4070	Rallus aquaticus	Waterral	Water Rail	NA
+4080	Porzana porzana	Porseleinhoen	Spotted Crake	NA
+4100	Porzana parva	Klein waterhoen	Little cake	NA
+4110	Porzana pusilla	Kleinst waterhoen	Baillon's crake	NA
+4210	Crex crex	Kwartelkoning	Corn Crake	NA
+4240	Gallinula chloropus	Waterhoen	Moorhen	NA
+4290	Fulica atra	Meerkoet	Common Coot	NA
+4500	Haematopus ostralegus	Scholekster	Oystercatcher	NA
+4550	Himantopus himantopus	Steltkluut	Black-winged stilt	NA
+4560	Recurvirostra avosetta	Kluut	Avocet	NA
+4690	Charadrius dubius	Kleine plevier	Little Ringed Plover	NA
+4700	Charadrius hiaticula	Bontbekplevier	Great Ringed Plover	NA
+4770	Charadrius alexandrinus	Strandplevier	Kentish Plover	NA
+4930	Vanellus vanellus	Kievit	Northern Lapwing	NA
+5120	Calidris alpina	Bonte strandloper	Dunlin	NA
+5170	Philomachus pugnax	Kemphaan	Ruff	NA
+5190	Gallinago gallinago	Watersnip	Snipe	NA
+5290	Scolopax rusticola	Houtsnip	Woodcock	NA
+5320	Limosa limosa	Grutto	Black-tailed Godwit	NA
+5410	Numenius arquata	Wulp	Curlew	NA
+5460	Tringa totanus	Tureluur	Redshank	NA
+5560	Actitis hypoleucos	Oeverloper	Common Sandpiper	NA
+5750	Larus melanocephalus	Zwartkopmeeuw	Mediterranean Gull	NA
+5820	Larus ridibundus	Kokmeeuw	Black-headed Gull	NA
+5900	Larus canus	Stormmeeuw	Common Gull	NA
+5910	Larus fuscus	Kleine mantelmeeuw	Lesser Black-backed Gull	NA
+5920	Larus argentatus	Zilvermeeuw	Herring Gull	NA
+5926	Larus michahellis	Geelpootmeeuw	Yellow-legged gull	NA
+6110	Sterna sandvicensis	Grote stern	Sandwich Tern	NA
+6150	Sterna hirundo	Visdief	Common Tern	NA
+6160	Sterna paradisaea	Noordse stern	Arctic Tern	NA
+6240	Sterna albifrons	Dwergstern	Little Tern	NA
+6270	Chlidonias niger	Zwarte stern	Black tern	NA
+6650	Columba livia	Stadsduif	Rock dove	NA
+6680	Columba oenas	Holenduif	Stock Dove	NA
+6700	Columba palumbus	Houtduif	Wood Pigeon	NA
+6840	Streptopelia decaocto	Turkse tortel	Collared Dove	NA
+6870	Streptopelia turtur	Tortel	Turtle Dove	NA
+7120	Psittacula krameri	Halsbandparkiet	Ring-necked parakeet	NA
+7240	Cuculus canorus	Koekoek	Cuckoo	NA
+7350	Tyto alba	Kerkuil	Barn Owl	NA
+7570	Athena noctua	Steenuil	Little Owl	NA
+7610	Strix aluco	Bosuil	Tawny Owl	NA
+7670	Asio otus	Ransuil	Long-eared Owl	NA
+7680	Asio flammeus	Velduil	Short-eared Owl	NA
+7780	Caprimulgus europaeus	Nachtzwaluw	Nightjar	NA
+7950	Apus apus	Gierzwaluw	Swift	NA
+8310	Alcedo atthis	Ijsvogel	Kingfisher	NA
+8400	Merops apiaster	Bijeneter	European Bee-eater	NA
+8460	Upupa epops	Hop	Hoopoe	NA
+8480	Jynx torquila	Draaihals	Wryneck	NA
+8560	Picus viridis	Groene specht	Green Woodpecker	NA
+8630	Dryocopus martius	Zwarte specht	Black Woodpecker	NA
+8760	Dendrocopus major	Grote bonte specht	Great Spotted Woodpecker	NA
+8830	Dendrocopus medius	Middelste Bonte Specht	Middle spotted woodpecker	NA
+8870	Dendrocopus minor	Kleine bonte specht	Lesser Spotted Woodpecker	NA
+9720	Galerida cristata	Kuifleeuwerik	Crested Lark	NA
+9740	Lululla arborea	Boomleeuwerik	Woodlark	NA
+9760	Alauda arvensis	Veldleeuwerik	Skylark	NA
+9810	Riparia riparia	Oeverzwaluw	Sand Martin	NA
+9920	Hirundo rustica	Boerenzwaluw	Barn Swallow	NA
+10010	Delichon urbica	Huiszwaluw	House Martin	NA
+10050	Anthus campestris	Duinpieper	Tawny pipit	NA
+10090	Anthus trivialis	Boompieper	Tree Pipit	NA
+10110	Anthus pratensis	Graspieper	Meadow Pipit	NA
+10170	Motacilla flava	Gele kwikstaart	Yellow Wagtail	NA
+10172	Motacilla flava flavissima	Engelse gele kwikstaart	Yellow wagtail (flavissima)	NA
+10190	Motacilla cinerea	Grote gele kwikstaart	Grey Wagtail	NA
+10200	Motacilla alba	Witte kwikstaart	Pied Wagtail	NA
+10202	Motacilla alba yarelli	Rouwkwikstaart	Pied wagtail	NA
+10500	Cinclus cinclus	Waterspreeuw	Dipper	NA
+10660	Troglodytes troglodytes	Winterkoning	Wren	NA
+10840	Prunella modularis	Heggenmus	Hedge Accentor	NA
+10990	Erithacus rubecula	Roodborst	Robin	NA
+11040	Luscinia megarhynchos	Nachtegaal	Nightingale	NA
+11060	Luscinia svecica	Blauwborst	Bluethroat	NA
+11210	Phoenicurus ochruros	Zwarte roodstaart	Black Redstart	NA
+11220	Phoenicurus phoenicurus	Gekraagde roodstaart	Redstart	NA
+11370	Saxicola rubetra	Paapje	Whinchat	NA
+11390	Saxicola torquata	Roodborsttapuit	Stonechat	NA
+11460	Oenanthe oenanthe	Tapuit	Northern Wheatear	NA
+11870	Turdus merula	Merel	Blackbird	NA
+11980	Turdus pilaris	Kramsvogel	Fieldfare	NA
+12000	Turdus philomelos	Zanglijster	Song thrush	NA
+12020	Turdus viscivorus	Grote lijster	Mistle thrush	NA
+12200	Cettia cetti	Cetti's zanger	Cetti's warbler	NA
+12260	Cisticola juncidis	Graszanger	Zitting cisticola	NA
+12360	Locustella naevia	Sprinkhaanzanger	Grashopper warbler	NA
+12380	Locustella luscinioides	Snor	Savi's warbler	NA
+12430	Acrocephalus schoenobaenus	Rietzanger	Sedge warbler	NA
+12500	Acrocephalus palustris	Bosrietzanger	Marsh warbler	NA
+12510	Acrocephalus scirpaceus	Kleine karekiet	Reed warbler	NA
+12530	Acrocephalus arundinaceu	Grote karekiet	Great reed warbler	NA
+12590	Hippolais icterina	Spotvogel	Icterine warbler	NA
+12600	Hippolais polyglotta	Orpheusspotvogel	Melodious warbler	NA
+12740	Sylvia curruca	Braamsluiper	Lesser whitethroat	NA
+12750	Sylvia communis	Grasmus	Whitethroat	NA
+12760	Sylvia borin	Tuinfluiter	Garden warbler	NA
+12770	Sylvia atricapilla	Zwartkop	Blackcap	NA
+13080	Phylloscopus sibilatrix	Fluiter	Wood warbler	NA
+13116	Phylloscopus collybita	Tjiftjaf	Chiffchaff	NA
+13120	Phylloscopus trochilus	Fitis	Willow warbler	NA
+13140	Regulus regulus	Goudhaan	Goldcrest	NA
+13150	Regulus ignicapillus	Vuurgoudhaantje	Goldcrest	NA
+13350	Muscicapa striata	Grauwe vliegenvanger	Spotted flycatcher	NA
+13490	Ficedula hypoleuca	Bonte vliegenvanger	Pied flycatcher	NA
+13640	Panurus biarmicus	Baardmannetje	Bearded tit	NA
+14370	Aegithalos caudatus	Staartmees	Long-tailed tit	NA
+14400	Parus palustris	Glanskop	Marsh tit	NA
+14420	Parus montanus	Matkop	Willow tit	NA
+14540	Parus cristatus	Kuifmees	Crested tit	NA
+14610	Parus ater	Zwarte mees	Coal tit	NA
+14620	Parus caeruleus	Pimpelmees	Blue tit	NA
+14640	Parus major	Koolmees	Great tit	NA
+14790	Sitta europaea	Boomklever	Nuthatch	NA
+14860	Certhia familiaris	Taigaboomkruiper	Eurasian Tree-creeper	NA
+14870	Certhia brachydactyla	Boomkruiper	Treecreeper	NA
+14900	Remiz pendulinus	Buidelmees	Penduline tit	NA
+15080	Oriolus oriolus	Wielewaal	Golden oriole	NA
+15150	Lanius collurio	Grauwe klauwier	Red-backed shrike	NA
+15200	Lanius excubitor	Klapekster	Great grey shrike	NA
+15230	Lanius senator	Roodkopklauwier	Woodchat shrike	NA
+15390	Garrulus glandarius	Gaai	Jay	NA
+15490	Pica pica	Ekster	Magpie	NA
+15600	Corvus monedula	Kauw	Jackdaw	NA
+15630	Corvus frugilegus	Roek	Rook	NA
+15670	Corvus corone	Zwarte kraai	Carrion crow	NA
+15820	Sturnus vulgaris	Spreeuw	Starling	NA
+15910	Passer domesticus	Huismus	House sparrow	NA
+15980	Passer montanus	Ringmus	Tree sparrow	NA
+16360	Fringilla coelebs	Vink	Chaffinch	NA
+16380	Fringilla montifringilla	Keep	Brambling	NA
+16400	Serinus serinus	Europese kanarie	Serin	NA
+16490	Carduelis chloris	Groenling	Greenfinch	NA
+16530	Carduelis carduelis	Putter	Goldfinch	NA
+16540	Carduelis spinus	Sijs	Siskin	NA
+16600	Carduelis cannabina	Kneu	Linnet	NA
+16630	Carduelis flammea	Barmsijs	Redpoll	NA
+16634	Carduelis….	Kleine barmsijs	Redpoll (cabaret)	NA
+16660	Loxia curvirostra	Kruisbek	Crossbill	NA
+16680	Loxia pytyopsittacus	Grote kruisbek	Parrot crossbill	NA
+16790	Carpodacus erythrinus	Roodmus	Scarlet rosefinch	NA
+17100	Pyrrhula pyrrhula	Goudvink	Bullfinch	NA
+17170	Coccothraustes coccothraustes	Appelvink	Hawfinch	NA
+18570	Emberiza citrinella	Geelgors	Yellowhammer	NA
+18660	Emberiza hortulana	Ortolaan	Ortolan bunting	NA
+18770	Emberiza schoeniclus	Rietgors	Reed bunting	NA
+18820	Miliaria calandra	Grauwe gors	Corn bunting	NA
+20380	Chloephaga picta	Magelhaengans	Magghelan goose	NA
+20800	Cignus atratus	Zwarte zwaan	Black swan	NA
+25700	Callonetta leucophrys	Ringtaling	Ringed teal	NA
+99989	Sylvia cantillans	Baardgrasmus	Subalpine warbler	Fauvette passerinette
+99990	Pluvialis apricaria	Goudplevier	Golden plover	Pluvier doré
+99991	Myiopsitta monachus	Monniksparkiet	Monk parakeet	Conure veuve
+99992	Locustella fluviatilis	Krekelzanger	River warbler	Locustelle fluviatile
+99994	Ciconia nigra	Zwarte ooievaar	Black stork	Cigogne noire
+99995	Bubo bubo	Oehoe	Eagle owl	Hibou grand-duc
+99996	Amandava amandava	Tijgervink	Red avadavat	Bengali rouge
+99997	Sylvia conspicillata	Brilgrasmus	NA	NA
+99998	Chlidonias hybridus	Witwangstern	NA	NA
+99999	Anser brachyrhynchus	Kleine rietgans	NA	NA
