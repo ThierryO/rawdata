@@ -1,0 +1,7 @@
+ID	Impute	SubsetMonths
+1	1	FALSE
+4	1	FALSE
+7	7	TRUE
+8	8	TRUE
+9	7	TRUE
+10	8	TRUE
