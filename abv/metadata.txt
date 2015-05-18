@@ -1,0 +1,5 @@
+Key	Value
+SchemeID	5
+FirstImportedYear	2007
+LastImportedYear	2014
+Duration	8
