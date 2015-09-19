@@ -1,1 +1,3 @@
 Cycle	Stratum	Weight
+NA	NA	NA
+NA	NA	NA
