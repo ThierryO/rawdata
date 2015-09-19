@@ -1,1 +1,10 @@
-Cycle	Stratum	Weight
+Year	Stratum	Weight
+2007	Bos	1
+2008	Bos	1
+2009	Landbouw	1
+2010	Bos	1
+2011	Bos	0.401323706377858
+2011	Heide en duin	0.598676293622142
+2012	Landbouw	1
+2013	Bos	1
+2014	Heide en duin	1

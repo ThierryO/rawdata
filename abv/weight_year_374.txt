@@ -1,1 +1,3 @@
-Cycle	Stratum	Weight
+Year	Stratum	Weight
+2007	Moeras en water	1
+2010	Moeras en water	1

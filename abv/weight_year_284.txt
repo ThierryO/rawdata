@@ -1,1 +1,3 @@
-Cycle	Stratum	Weight
+Year	Stratum	Weight
+2007	Suburbaan	1
+2010	Suburbaan	1

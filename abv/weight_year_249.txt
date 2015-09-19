@@ -1,1 +1,14 @@
-Cycle	Stratum	Weight
+Year	Stratum	Weight
+2007	Moeras en water	0.721087133355663
+2007	Suburbaan	0.278912866644337
+2008	Heide en duin	0.151143268308283
+2008	Moeras en water	0.848856731691717
+2009	Moeras en water	1
+2010	Heide en duin	0.126452248670506
+2010	Moeras en water	0.633127750310074
+2010	Suburbaan	0.24042000101942
+2011	Moeras en water	1
+2012	Moeras en water	1
+2013	Heide en duin	0.198457549365069
+2013	Moeras en water	0.801542450634931
+2014	Moeras en water	1

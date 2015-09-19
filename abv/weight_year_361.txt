@@ -1,1 +1,15 @@
-Cycle	Stratum	Weight
+Year	Stratum	Weight
+2007	Heide en duin	0.424963181148748
+2007	Moeras en water	0.575036818851252
+2008	Heide en duin	0.228846386636
+2008	Moeras en water	0.771153613364
+2009	Moeras en water	1
+2010	Heide en duin	0.333029058268675
+2010	Moeras en water	0.666970941731325
+2011	Heide en duin	0.221302360064253
+2011	Moeras en water	0.778697639935747
+2012	Moeras en water	1
+2013	Heide en duin	0.497582930488415
+2013	Moeras en water	0.502417069511585
+2014	Heide en duin	0.436523169728544
+2014	Moeras en water	0.563476830271456
