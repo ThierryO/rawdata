@@ -1,7 +1,5 @@
 Cycle	Stratum	Weight
-NA	NA	NA
-NA	NA	NA
-NA	NA	NA
-NA	NA	NA
-NA	NA	NA
-NA	NA	NA
+0	Suburbaan	0.346703395721237
+0	Urbaan	0.653296604278763
+1	Suburbaan	1
+2	Suburbaan	1

@@ -1,4 +1,4 @@
 Cycle	Stratum	Weight
-NA	NA	NA
-NA	NA	NA
-NA	NA	NA
+0	Bos	1
+1	Bos	1
+2	Bos	1

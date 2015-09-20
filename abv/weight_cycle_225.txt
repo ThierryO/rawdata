@@ -1,4 +1,4 @@
 Cycle	Stratum	Weight
-NA	NA	NA
-NA	NA	NA
-NA	NA	NA
+0	Landbouw	1
+1	Landbouw	1
+2	Landbouw	1

@@ -1,4 +1,4 @@
 Cycle	Stratum	Weight
-NA	NA	NA
-NA	NA	NA
-NA	NA	NA
+0	Suburbaan	1
+1	Suburbaan	1
+2	Suburbaan	1

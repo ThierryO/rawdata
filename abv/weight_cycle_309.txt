@@ -1,7 +1,7 @@
 Cycle	Stratum	Weight
-NA	NA	NA
-NA	NA	NA
-NA	NA	NA
-NA	NA	NA
-NA	NA	NA
-NA	NA	NA
+0	Heide en duin	0.378303795915864
+0	Moeras en water	0.621696204084136
+1	Heide en duin	0.383039767568549
+1	Moeras en water	0.616960232431451
+2	Heide en duin	0.362750644289396
+2	Moeras en water	0.637249355710604
