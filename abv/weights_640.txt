@@ -1,0 +1,5 @@
+Stratum	Weight
+Bos	0.0488581314371748
+Heide en duin	0.548620146733417
+Moeras en water	0.240199665319125
+Suburbaan	0.162322056510283

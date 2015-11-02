@@ -1,0 +1,4 @@
+Stratum	Weight
+Landbouw	0.610859506375127
+Moeras en water	0.273587461578112
+Suburbaan	0.115553032046761

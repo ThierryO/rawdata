@@ -1,4 +1,0 @@
-Cycle	Stratum	Weight
-0	Landbouw	1
-1	Landbouw	1
-2	Landbouw	1

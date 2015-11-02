@@ -1,0 +1,3 @@
+Stratum	Weight
+Bos	0.545921277809469
+Heide en duin	0.454078722190531

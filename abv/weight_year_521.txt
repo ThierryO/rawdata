@@ -1,7 +1,0 @@
-Year	Stratum	Weight
-2007	Suburbaan	0.363471971066908
-2007	Urbaan	0.636528028933092
-2008	Urbaan	1
-2009	Urbaan	1
-2010	Suburbaan	1
-2013	Suburbaan	1

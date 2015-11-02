@@ -1,0 +1,3 @@
+Stratum	Weight
+Bos	0.337096774193548
+Moeras en water	0.662903225806452

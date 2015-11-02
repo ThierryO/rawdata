@@ -1,4 +1,0 @@
-Cycle	Stratum	Weight
-0	Moeras en water	1
-1	Moeras en water	1
-2	Moeras en water	1

@@ -1,3 +1,0 @@
-Cycle	Stratum	Weight
-0	Suburbaan	1
-1	Suburbaan	1

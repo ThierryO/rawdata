@@ -1,4 +1,0 @@
-Year	Stratum	Weight
-2007	Landbouw	1
-2010	Landbouw	1
-2013	Landbouw	1

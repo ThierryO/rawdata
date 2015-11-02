@@ -1,0 +1,3 @@
+Stratum	Weight
+Moeras en water	0.47030063455737
+Suburbaan	0.52969936544263

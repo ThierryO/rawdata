@@ -1,9 +1,0 @@
-Cycle	Stratum	Weight
-0	Heide en duin	0.0957652806608893
-0	Moeras en water	0.786892863786753
-0	Suburbaan	0.117341855552358
-1	Heide en duin	0.0957386743577935
-1	Moeras en water	0.771029012984828
-1	Suburbaan	0.133232312657378
-2	Heide en duin	0.159485974851458
-2	Moeras en water	0.840514025148542

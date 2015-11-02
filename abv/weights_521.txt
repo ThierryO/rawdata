@@ -1,0 +1,3 @@
+Stratum	Weight
+Suburbaan	0.366424368293527
+Urbaan	0.633575631706473

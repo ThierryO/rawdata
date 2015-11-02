@@ -1,9 +1,0 @@
-Year	Stratum	Weight
-2007	Bos	1
-2008	Bos	1
-2009	Bos	1
-2010	Bos	1
-2011	Bos	1
-2012	Bos	1
-2013	Bos	1
-2014	Bos	1

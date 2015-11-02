@@ -1,7 +1,0 @@
-Cycle	Stratum	Weight
-0	Landbouw	0.946808194712298
-0	Moeras en water	0.0531918052877017
-1	Landbouw	0.930626542428433
-1	Moeras en water	0.0693734575715673
-2	Landbouw	0.969518946035715
-2	Moeras en water	0.0304810539642851

@@ -1,8 +1,0 @@
-Year	Stratum	Weight
-2007	Moeras en water	1
-2008	Moeras en water	1
-2009	Moeras en water	1
-2010	Moeras en water	1
-2011	Moeras en water	1
-2012	Moeras en water	1
-2014	Moeras en water	1

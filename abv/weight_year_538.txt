@@ -1,9 +1,0 @@
-Year	Stratum	Weight
-2007	Suburbaan	1
-2008	Heide en duin	1
-2010	Heide en duin	0.344676515537443
-2010	Suburbaan	0.655323484462557
-2011	Moeras en water	1
-2013	Heide en duin	0.331114808652246
-2013	Suburbaan	0.668885191347754
-2014	Moeras en water	1

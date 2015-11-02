@@ -1,7 +1,0 @@
-Cycle	Stratum	Weight
-0	Moeras en water	0.401412171574043
-0	Suburbaan	0.598587828425957
-1	Moeras en water	0.464686816914148
-1	Suburbaan	0.535313183085852
-2	Moeras en water	0.559310501247448
-2	Suburbaan	0.440689498752552
