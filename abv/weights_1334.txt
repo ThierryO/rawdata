@@ -1,2 +1,5 @@
 Stratum	Weight
-Suburbaan	1
+Heide en duin	0.0779979778196443
+Landbouw	0.548986459180089
+Moeras en water	0.0614690490367852
+Suburbaan	0.311546513963481

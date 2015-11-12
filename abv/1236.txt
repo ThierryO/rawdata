@@ -1,0 +1,3 @@
+ObservationID	Count
+16773	3
+41010	1

@@ -1,0 +1,3 @@
+ObservationID	Count
+37753	12
+41504	1

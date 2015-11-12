@@ -1,0 +1,5 @@
+ObservationID	Count
+5383	1
+5389	2
+21394	1
+21396	1

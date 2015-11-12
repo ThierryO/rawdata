@@ -1,0 +1,3 @@
+ObservationID	Count
+17262	2
+39167	1

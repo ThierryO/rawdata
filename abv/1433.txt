@@ -1,0 +1,3 @@
+ObservationID	Count
+25362	4
+39295	1

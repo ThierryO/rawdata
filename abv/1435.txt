@@ -1,0 +1,4 @@
+ObservationID	Count
+6239	1
+21674	2
+40669	2

@@ -1,0 +1,4 @@
+ObservationID	Count
+2716	6
+36827	1
+38337	1

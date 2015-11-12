@@ -1,0 +1,3 @@
+Stratum	Weight
+Bos	0.102233391815638
+Landbouw	0.897766608184362

@@ -1,0 +1,4 @@
+ObservationID	Count
+29104	1
+34003	1
+34009	2

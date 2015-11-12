@@ -1,0 +1,2 @@
+Stratum	Weight
+Landbouw	1
