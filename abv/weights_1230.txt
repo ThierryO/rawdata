@@ -1,3 +1,2 @@
 Stratum	Weight
-Heide en duin	0.00228631439425535
-Landbouw	0.997713685605745
+Landbouw	1

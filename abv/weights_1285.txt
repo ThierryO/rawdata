@@ -1,4 +1,0 @@
-Stratum	Weight
-Bos	0.192403536339539
-Heide en duin	0.240052061012968
-Moeras en water	0.567544402647493

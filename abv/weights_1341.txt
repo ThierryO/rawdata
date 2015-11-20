@@ -1,5 +1,2 @@
 Stratum	Weight
-Bos	0.00433037064256901
-Heide en duin	0.00270139109050543
-Landbouw	0.988710385793012
-Moeras en water	0.00425785247391354
+Landbouw	1

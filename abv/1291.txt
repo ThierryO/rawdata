@@ -1,14 +1,79 @@
-ObservationID	Count
-265	5
-267	4
-10489	30
-10490	2
-10492	1
-21009	1
-26930	2
-37739	1
-37758	1
-37813	3
-37815	2
-37816	2
-41395	1
+Stratum	ObservationID	Count
+Landbouw	2077	0
+Landbouw	2078	0
+Landbouw	2079	0
+Landbouw	2080	0
+Landbouw	2081	0
+Landbouw	2082	0
+Landbouw	2371	0
+Landbouw	2372	0
+Landbouw	2373	0
+Landbouw	2374	0
+Landbouw	2375	0
+Landbouw	2376	0
+Landbouw	18853	0
+Landbouw	18854	0
+Landbouw	18855	0
+Landbouw	18856	0
+Landbouw	18857	0
+Landbouw	18858	0
+Landbouw	21007	0
+Landbouw	21008	0
+Landbouw	21009	1
+Landbouw	21010	0
+Landbouw	21011	0
+Landbouw	21012	0
+Landbouw	23569	0
+Landbouw	23570	0
+Landbouw	23571	0
+Landbouw	23572	0
+Landbouw	23573	0
+Landbouw	23574	0
+Landbouw	27241	0
+Landbouw	27242	0
+Landbouw	27243	0
+Landbouw	27244	0
+Landbouw	27245	0
+Landbouw	27246	0
+Landbouw	27793	0
+Landbouw	27794	0
+Landbouw	27795	0
+Landbouw	27796	0
+Landbouw	27797	0
+Landbouw	27798	0
+Landbouw	30367	0
+Landbouw	30368	0
+Landbouw	30369	0
+Landbouw	30370	0
+Landbouw	30371	0
+Landbouw	30372	0
+Landbouw	37735	0
+Landbouw	37736	0
+Landbouw	37737	0
+Landbouw	37738	0
+Landbouw	37739	1
+Landbouw	37740	0
+Landbouw	37753	0
+Landbouw	37754	0
+Landbouw	37755	0
+Landbouw	37756	0
+Landbouw	37757	0
+Landbouw	37758	1
+Landbouw	37813	3
+Landbouw	37814	0
+Landbouw	37815	2
+Landbouw	37816	2
+Landbouw	37817	0
+Landbouw	37818	0
+Landbouw	41395	1
+Landbouw	41396	0
+Landbouw	41397	0
+Landbouw	41398	0
+Landbouw	41399	0
+Landbouw	41400	0
+Landbouw	41533	0
+Landbouw	41534	0
+Landbouw	41535	0
+Landbouw	41536	0
+Landbouw	41537	0
+Landbouw	41538	0

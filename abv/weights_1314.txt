@@ -1,3 +1,2 @@
 Stratum	Weight
-Heide en duin	0.240828025477707
-Moeras en water	0.759171974522293
+Moeras en water	1

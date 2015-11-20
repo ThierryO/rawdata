@@ -1,63 +1,823 @@
-ObservationID	Count
-10934	1
-10962	1
-11161	1
-11163	1
-13157	1
-15323	1
-15386	1
-15394	1
-16019	1
-16149	1
-16171	2
-16173	1
-16174	1
-16175	1
-16177	1
-16186	1
-16188	1
-16886	2
-16896	1
-16904	1
-16951	1
-17016	1
-17019	1
-17030	1
-17051	1
-17068	2
-17302	1
-18730	1
-18731	1
-22084	1
-22692	1
-25506	1
-25528	1
-25530	1
-26658	1
-26660	1
-26994	1
-31149	1
-35201	2
-35274	1
-35969	1
-36355	2
-36969	1
-38326	1
-38327	1
-38328	1
-38375	1
-38740	1
-39560	1
-39564	1
-40069	1
-40154	1
-40156	1
-40166	2
-40172	1
-40176	2
-40377	1
-40959	1
-41821	1
-41822	1
-42409	1
-42414	1
+Stratum	ObservationID	Count
+Bos	1423	0
+Bos	1424	0
+Bos	1425	0
+Bos	1426	0
+Bos	1427	0
+Bos	1428	0
+Bos	1429	0
+Bos	1430	0
+Bos	1431	0
+Bos	1432	0
+Bos	1433	0
+Bos	1434	0
+Bos	3577	0
+Bos	3578	0
+Bos	3579	0
+Bos	3580	0
+Bos	3581	0
+Bos	3582	0
+Bos	3589	0
+Bos	3590	0
+Bos	3591	0
+Bos	3592	0
+Bos	3593	0
+Bos	3594	0
+Bos	3697	0
+Bos	3698	0
+Bos	3699	0
+Bos	3700	0
+Bos	3701	0
+Bos	3702	0
+Bos	3703	0
+Bos	3704	0
+Bos	3705	0
+Bos	3706	0
+Bos	3707	0
+Bos	3708	0
+Bos	3715	0
+Bos	3716	0
+Bos	3717	0
+Bos	3718	0
+Bos	3719	0
+Bos	3720	0
+Bos	3799	0
+Bos	3800	0
+Bos	3801	0
+Bos	3802	0
+Bos	3803	0
+Bos	3804	0
+Bos	8449	0
+Bos	8450	0
+Bos	8451	0
+Bos	8452	0
+Bos	8453	0
+Bos	8454	0
+Bos	9541	0
+Bos	9542	0
+Bos	9543	0
+Bos	9544	0
+Bos	9545	0
+Bos	9546	0
+Bos	10561	0
+Bos	10562	0
+Bos	10563	0
+Bos	10564	0
+Bos	10565	0
+Bos	10566	0
+Bos	10645	0
+Bos	10646	0
+Bos	10647	0
+Bos	10648	0
+Bos	10649	0
+Bos	10650	0
+Bos	10879	0
+Bos	10880	0
+Bos	10881	0
+Bos	10882	0
+Bos	10883	0
+Bos	10884	0
+Bos	10891	0
+Bos	10892	0
+Bos	10893	0
+Bos	10894	0
+Bos	10895	0
+Bos	10896	0
+Bos	10933	0
+Bos	10934	1
+Bos	10935	0
+Bos	10936	0
+Bos	10937	0
+Bos	10938	0
+Bos	10957	0
+Bos	10958	0
+Bos	10959	0
+Bos	10960	0
+Bos	10961	0
+Bos	10962	1
+Bos	15385	0
+Bos	15386	1
+Bos	15387	0
+Bos	15388	0
+Bos	15389	0
+Bos	15390	0
+Bos	15391	0
+Bos	15392	0
+Bos	15393	0
+Bos	15394	1
+Bos	15395	0
+Bos	15396	0
+Bos	16141	0
+Bos	16142	0
+Bos	16143	0
+Bos	16144	0
+Bos	16145	0
+Bos	16146	0
+Bos	16147	0
+Bos	16148	0
+Bos	16149	1
+Bos	16150	0
+Bos	16151	0
+Bos	16152	0
+Bos	16165	0
+Bos	16166	0
+Bos	16167	0
+Bos	16168	0
+Bos	16169	0
+Bos	16170	0
+Bos	16171	2
+Bos	16172	0
+Bos	16173	1
+Bos	16174	1
+Bos	16175	1
+Bos	16176	0
+Bos	16177	1
+Bos	16178	0
+Bos	16179	0
+Bos	16180	0
+Bos	16181	0
+Bos	16182	0
+Bos	16183	0
+Bos	16184	0
+Bos	16185	0
+Bos	16186	1
+Bos	16187	0
+Bos	16188	1
+Bos	16885	0
+Bos	16886	2
+Bos	16887	0
+Bos	16888	0
+Bos	16889	0
+Bos	16890	0
+Bos	16891	0
+Bos	16892	0
+Bos	16893	0
+Bos	16894	0
+Bos	16895	0
+Bos	16896	1
+Bos	16897	0
+Bos	16898	0
+Bos	16899	0
+Bos	16900	0
+Bos	16901	0
+Bos	16902	0
+Bos	16903	0
+Bos	16904	1
+Bos	16905	0
+Bos	16906	0
+Bos	16907	0
+Bos	16908	0
+Bos	16951	1
+Bos	16952	0
+Bos	16953	0
+Bos	16954	0
+Bos	16955	0
+Bos	16956	0
+Bos	16969	0
+Bos	16970	0
+Bos	16971	0
+Bos	16972	0
+Bos	16973	0
+Bos	16974	0
+Bos	17011	0
+Bos	17012	0
+Bos	17013	0
+Bos	17014	0
+Bos	17015	0
+Bos	17016	1
+Bos	17017	0
+Bos	17018	0
+Bos	17019	1
+Bos	17020	0
+Bos	17021	0
+Bos	17022	0
+Bos	17029	0
+Bos	17030	1
+Bos	17031	0
+Bos	17032	0
+Bos	17033	0
+Bos	17034	0
+Bos	17047	0
+Bos	17048	0
+Bos	17049	0
+Bos	17050	0
+Bos	17051	1
+Bos	17052	0
+Bos	17053	0
+Bos	17054	0
+Bos	17055	0
+Bos	17056	0
+Bos	17057	0
+Bos	17058	0
+Bos	17065	0
+Bos	17066	0
+Bos	17067	0
+Bos	17068	2
+Bos	17069	0
+Bos	17070	0
+Bos	17299	0
+Bos	17300	0
+Bos	17301	0
+Bos	17302	1
+Bos	17303	0
+Bos	17304	0
+Bos	17305	0
+Bos	17306	0
+Bos	17307	0
+Bos	17308	0
+Bos	17309	0
+Bos	17310	0
+Bos	18727	0
+Bos	18728	0
+Bos	18729	0
+Bos	18730	1
+Bos	18731	1
+Bos	18732	0
+Bos	22687	0
+Bos	22688	0
+Bos	22689	0
+Bos	22690	0
+Bos	22691	0
+Bos	22692	1
+Bos	22693	0
+Bos	22694	0
+Bos	22695	0
+Bos	22696	0
+Bos	22697	0
+Bos	22698	0
+Bos	24175	0
+Bos	24176	0
+Bos	24177	0
+Bos	24178	0
+Bos	24179	0
+Bos	24180	0
+Bos	25525	0
+Bos	25526	0
+Bos	25527	0
+Bos	25528	1
+Bos	25529	0
+Bos	25530	1
+Bos	25531	0
+Bos	25532	0
+Bos	25533	0
+Bos	25534	0
+Bos	25535	0
+Bos	25536	0
+Bos	26575	0
+Bos	26576	0
+Bos	26577	0
+Bos	26578	0
+Bos	26579	0
+Bos	26580	0
+Bos	26587	0
+Bos	26588	0
+Bos	26589	0
+Bos	26590	0
+Bos	26591	0
+Bos	26592	0
+Bos	27643	0
+Bos	27644	0
+Bos	27645	0
+Bos	27646	0
+Bos	27647	0
+Bos	27648	0
+Bos	27655	0
+Bos	27656	0
+Bos	27657	0
+Bos	27658	0
+Bos	27659	0
+Bos	27660	0
+Bos	29485	0
+Bos	29486	0
+Bos	29487	0
+Bos	29488	0
+Bos	29489	0
+Bos	29490	0
+Bos	29491	0
+Bos	29492	0
+Bos	29493	0
+Bos	29494	0
+Bos	29495	0
+Bos	29496	0
+Bos	29497	0
+Bos	29498	0
+Bos	29499	0
+Bos	29500	0
+Bos	29501	0
+Bos	29502	0
+Bos	29503	0
+Bos	29504	0
+Bos	29505	0
+Bos	29506	0
+Bos	29507	0
+Bos	29508	0
+Bos	29677	0
+Bos	29678	0
+Bos	29679	0
+Bos	29680	0
+Bos	29681	0
+Bos	29682	0
+Bos	29689	0
+Bos	29690	0
+Bos	29691	0
+Bos	29692	0
+Bos	29693	0
+Bos	29694	0
+Bos	29713	0
+Bos	29714	0
+Bos	29715	0
+Bos	29716	0
+Bos	29717	0
+Bos	29718	0
+Bos	29725	0
+Bos	29726	0
+Bos	29727	0
+Bos	29728	0
+Bos	29729	0
+Bos	29730	0
+Bos	30373	0
+Bos	30374	0
+Bos	30375	0
+Bos	30376	0
+Bos	30377	0
+Bos	30378	0
+Bos	31057	0
+Bos	31058	0
+Bos	31059	0
+Bos	31060	0
+Bos	31061	0
+Bos	31062	0
+Bos	31291	0
+Bos	31292	0
+Bos	31293	0
+Bos	31294	0
+Bos	31295	0
+Bos	31296	0
+Bos	31297	0
+Bos	31298	0
+Bos	31299	0
+Bos	31300	0
+Bos	31301	0
+Bos	31302	0
+Bos	31321	0
+Bos	31322	0
+Bos	31323	0
+Bos	31324	0
+Bos	31325	0
+Bos	31326	0
+Bos	31891	0
+Bos	31892	0
+Bos	31893	0
+Bos	31894	0
+Bos	31895	0
+Bos	31896	0
+Bos	31897	0
+Bos	31898	0
+Bos	31899	0
+Bos	31900	0
+Bos	31901	0
+Bos	31902	0
+Bos	31975	0
+Bos	31976	0
+Bos	31977	0
+Bos	31978	0
+Bos	31979	0
+Bos	31980	0
+Bos	31981	0
+Bos	31982	0
+Bos	31983	0
+Bos	31984	0
+Bos	31985	0
+Bos	31986	0
+Bos	32011	0
+Bos	32012	0
+Bos	32013	0
+Bos	32014	0
+Bos	32015	0
+Bos	32016	0
+Bos	32947	0
+Bos	32948	0
+Bos	32949	0
+Bos	32950	0
+Bos	32951	0
+Bos	32952	0
+Bos	32965	0
+Bos	32966	0
+Bos	32967	0
+Bos	32968	0
+Bos	32969	0
+Bos	32970	0
+Bos	33019	0
+Bos	33020	0
+Bos	33021	0
+Bos	33022	0
+Bos	33023	0
+Bos	33024	0
+Bos	33037	0
+Bos	33038	0
+Bos	33039	0
+Bos	33040	0
+Bos	33041	0
+Bos	33042	0
+Bos	33283	0
+Bos	33284	0
+Bos	33285	0
+Bos	33286	0
+Bos	33287	0
+Bos	33288	0
+Bos	33289	0
+Bos	33290	0
+Bos	33291	0
+Bos	33292	0
+Bos	33293	0
+Bos	33294	0
+Bos	33301	0
+Bos	33302	0
+Bos	33303	0
+Bos	33304	0
+Bos	33305	0
+Bos	33306	0
+Bos	33307	0
+Bos	33308	0
+Bos	33309	0
+Bos	33310	0
+Bos	33311	0
+Bos	33312	0
+Bos	34909	0
+Bos	34910	0
+Bos	34911	0
+Bos	34912	0
+Bos	34913	0
+Bos	34914	0
+Bos	35551	0
+Bos	35552	0
+Bos	35553	0
+Bos	35554	0
+Bos	35555	0
+Bos	35556	0
+Bos	35737	0
+Bos	35738	0
+Bos	35739	0
+Bos	35740	0
+Bos	35741	0
+Bos	35742	0
+Bos	35743	0
+Bos	35744	0
+Bos	35745	0
+Bos	35746	0
+Bos	35747	0
+Bos	35748	0
+Bos	35947	0
+Bos	35948	0
+Bos	35949	0
+Bos	35950	0
+Bos	35951	0
+Bos	35952	0
+Bos	36031	0
+Bos	36032	0
+Bos	36033	0
+Bos	36034	0
+Bos	36035	0
+Bos	36036	0
+Bos	36355	2
+Bos	36356	0
+Bos	36357	0
+Bos	36358	0
+Bos	36359	0
+Bos	36360	0
+Bos	38293	0
+Bos	38294	0
+Bos	38295	0
+Bos	38296	0
+Bos	38297	0
+Bos	38298	0
+Bos	38323	0
+Bos	38324	0
+Bos	38325	0
+Bos	38326	1
+Bos	38327	1
+Bos	38328	1
+Bos	38737	0
+Bos	38738	0
+Bos	38739	0
+Bos	38740	1
+Bos	38741	0
+Bos	38742	0
+Bos	39265	0
+Bos	39266	0
+Bos	39267	0
+Bos	39268	0
+Bos	39269	0
+Bos	39270	0
+Bos	39559	0
+Bos	39560	1
+Bos	39561	0
+Bos	39562	0
+Bos	39563	0
+Bos	39564	1
+Bos	40069	1
+Bos	40070	0
+Bos	40071	0
+Bos	40072	0
+Bos	40073	0
+Bos	40074	0
+Bos	40075	0
+Bos	40076	0
+Bos	40077	0
+Bos	40078	0
+Bos	40079	0
+Bos	40080	0
+Bos	40153	0
+Bos	40154	1
+Bos	40155	0
+Bos	40156	1
+Bos	40157	0
+Bos	40158	0
+Bos	40159	0
+Bos	40160	0
+Bos	40161	0
+Bos	40162	0
+Bos	40163	0
+Bos	40164	0
+Bos	40165	0
+Bos	40166	2
+Bos	40167	0
+Bos	40168	0
+Bos	40169	0
+Bos	40170	0
+Bos	40171	0
+Bos	40172	1
+Bos	40173	0
+Bos	40174	0
+Bos	40175	0
+Bos	40176	2
+Bos	40375	0
+Bos	40376	0
+Bos	40377	1
+Bos	40378	0
+Bos	40379	0
+Bos	40380	0
+Bos	40387	0
+Bos	40388	0
+Bos	40389	0
+Bos	40390	0
+Bos	40391	0
+Bos	40392	0
+Bos	40957	0
+Bos	40958	0
+Bos	40959	1
+Bos	40960	0
+Bos	40961	0
+Bos	40962	0
+Bos	40963	0
+Bos	40964	0
+Bos	40965	0
+Bos	40966	0
+Bos	40967	0
+Bos	40968	0
+Bos	41029	0
+Bos	41030	0
+Bos	41031	0
+Bos	41032	0
+Bos	41033	0
+Bos	41034	0
+Bos	41749	0
+Bos	41750	0
+Bos	41751	0
+Bos	41752	0
+Bos	41753	0
+Bos	41754	0
+Bos	41785	0
+Bos	41786	0
+Bos	41787	0
+Bos	41788	0
+Bos	41789	0
+Bos	41790	0
+Bos	41929	0
+Bos	41930	0
+Bos	41931	0
+Bos	41932	0
+Bos	41933	0
+Bos	41934	0
+Bos	42175	0
+Bos	42176	0
+Bos	42177	0
+Bos	42178	0
+Bos	42179	0
+Bos	42180	0
+Bos	42487	0
+Bos	42488	0
+Bos	42489	0
+Bos	42490	0
+Bos	42491	0
+Bos	42492	0
+Bos	42637	0
+Bos	42638	0
+Bos	42639	0
+Bos	42640	0
+Bos	42641	0
+Bos	42642	0
+Bos	43921	0
+Bos	43922	0
+Bos	43923	0
+Bos	43924	0
+Bos	43925	0
+Bos	43926	0
+Bos	43927	0
+Bos	43928	0
+Bos	43929	0
+Bos	43930	0
+Bos	43931	0
+Bos	43932	0
+Bos	43939	0
+Bos	43940	0
+Bos	43941	0
+Bos	43942	0
+Bos	43943	0
+Bos	43944	0
+Bos	43945	0
+Bos	43946	0
+Bos	43947	0
+Bos	43948	0
+Bos	43949	0
+Bos	43950	0
+Heide en duin	1903	0
+Heide en duin	1904	0
+Heide en duin	1905	0
+Heide en duin	1906	0
+Heide en duin	1907	0
+Heide en duin	1908	0
+Heide en duin	1909	0
+Heide en duin	1910	0
+Heide en duin	1911	0
+Heide en duin	1912	0
+Heide en duin	1913	0
+Heide en duin	1914	0
+Heide en duin	3733	0
+Heide en duin	3734	0
+Heide en duin	3735	0
+Heide en duin	3736	0
+Heide en duin	3737	0
+Heide en duin	3738	0
+Heide en duin	3793	0
+Heide en duin	3794	0
+Heide en duin	3795	0
+Heide en duin	3796	0
+Heide en duin	3797	0
+Heide en duin	3798	0
+Heide en duin	4177	0
+Heide en duin	4178	0
+Heide en duin	4179	0
+Heide en duin	4180	0
+Heide en duin	4181	0
+Heide en duin	4182	0
+Heide en duin	4387	0
+Heide en duin	4388	0
+Heide en duin	4389	0
+Heide en duin	4390	0
+Heide en duin	4391	0
+Heide en duin	4392	0
+Heide en duin	11161	1
+Heide en duin	11162	0
+Heide en duin	11163	1
+Heide en duin	11164	0
+Heide en duin	11165	0
+Heide en duin	11166	0
+Heide en duin	14809	0
+Heide en duin	14810	0
+Heide en duin	14811	0
+Heide en duin	14812	0
+Heide en duin	14813	0
+Heide en duin	14814	0
+Heide en duin	16549	0
+Heide en duin	16550	0
+Heide en duin	16551	0
+Heide en duin	16552	0
+Heide en duin	16553	0
+Heide en duin	16554	0
+Heide en duin	16561	0
+Heide en duin	16562	0
+Heide en duin	16563	0
+Heide en duin	16564	0
+Heide en duin	16565	0
+Heide en duin	16566	0
+Heide en duin	25417	0
+Heide en duin	25418	0
+Heide en duin	25419	0
+Heide en duin	25420	0
+Heide en duin	25421	0
+Heide en duin	25422	0
+Heide en duin	25501	0
+Heide en duin	25502	0
+Heide en duin	25503	0
+Heide en duin	25504	0
+Heide en duin	25505	0
+Heide en duin	25506	1
+Heide en duin	25519	0
+Heide en duin	25520	0
+Heide en duin	25521	0
+Heide en duin	25522	0
+Heide en duin	25523	0
+Heide en duin	25524	0
+Heide en duin	25729	0
+Heide en duin	25730	0
+Heide en duin	25731	0
+Heide en duin	25732	0
+Heide en duin	25733	0
+Heide en duin	25734	0
+Heide en duin	26653	0
+Heide en duin	26654	0
+Heide en duin	26655	0
+Heide en duin	26656	0
+Heide en duin	26657	0
+Heide en duin	26658	1
+Heide en duin	26659	0
+Heide en duin	26660	1
+Heide en duin	26661	0
+Heide en duin	26662	0
+Heide en duin	26663	0
+Heide en duin	26664	0
+Heide en duin	29197	0
+Heide en duin	29198	0
+Heide en duin	29199	0
+Heide en duin	29200	0
+Heide en duin	29201	0
+Heide en duin	29202	0
+Heide en duin	31147	0
+Heide en duin	31148	0
+Heide en duin	31149	1
+Heide en duin	31150	0
+Heide en duin	31151	0
+Heide en duin	31152	0
+Heide en duin	31153	0
+Heide en duin	31154	0
+Heide en duin	31155	0
+Heide en duin	31156	0
+Heide en duin	31157	0
+Heide en duin	31158	0
+Heide en duin	35209	0
+Heide en duin	35210	0
+Heide en duin	35211	0
+Heide en duin	35212	0
+Heide en duin	35213	0
+Heide en duin	35214	0
+Heide en duin	35269	0
+Heide en duin	35270	0
+Heide en duin	35271	0
+Heide en duin	35272	0
+Heide en duin	35273	0
+Heide en duin	35274	1
+Heide en duin	38083	0
+Heide en duin	38084	0
+Heide en duin	38085	0
+Heide en duin	38086	0
+Heide en duin	38087	0
+Heide en duin	38088	0
+Heide en duin	38281	0
+Heide en duin	38282	0
+Heide en duin	38283	0
+Heide en duin	38284	0
+Heide en duin	38285	0
+Heide en duin	38286	0
+Heide en duin	38371	0
+Heide en duin	38372	0
+Heide en duin	38373	0
+Heide en duin	38374	0
+Heide en duin	38375	1
+Heide en duin	38376	0
+Heide en duin	38695	0
+Heide en duin	38696	0
+Heide en duin	38697	0
+Heide en duin	38698	0
+Heide en duin	38699	0
+Heide en duin	38700	0
+Heide en duin	38989	0
+Heide en duin	38990	0
+Heide en duin	38991	0
+Heide en duin	38992	0
+Heide en duin	38993	0
+Heide en duin	38994	0
+Heide en duin	39187	0
+Heide en duin	39188	0
+Heide en duin	39189	0
+Heide en duin	39190	0
+Heide en duin	39191	0
+Heide en duin	39192	0
+Heide en duin	39343	0
+Heide en duin	39344	0
+Heide en duin	39345	0
+Heide en duin	39346	0
+Heide en duin	39347	0
+Heide en duin	39348	0
+Heide en duin	41821	1
+Heide en duin	41822	1
+Heide en duin	41823	0
+Heide en duin	41824	0
+Heide en duin	41825	0
+Heide en duin	41826	0
+Heide en duin	42187	0
+Heide en duin	42188	0
+Heide en duin	42189	0
+Heide en duin	42190	0
+Heide en duin	42191	0
+Heide en duin	42192	0

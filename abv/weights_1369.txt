@@ -1,2 +1,0 @@
-Stratum	Weight
-Suburbaan	1

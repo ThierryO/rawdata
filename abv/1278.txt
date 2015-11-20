@@ -1,52 +1,434 @@
-ObservationID	Count
-1465	2
-1689	1
-3988	1
-4042	2
-4781	1
-4785	2
-14724	1
-14729	1
-15153	1
-20635	1
-21656	1
-24460	1
-24462	1
-26253	1
-29158	2
-29307	4
-30047	5
-30226	1
-30379	2
-30382	4
-30384	4
-30471	1
-30479	2
-31096	2
-31098	10
-33550	2
-33552	1
-33555	1
-33556	3
-33561	2
-33562	2
-33563	1
-34240	1
-34801	1
-34804	1
-35660	2
-36434	2
-36439	3
-36998	2
-37003	3
-37258	1
-39754	2
-39760	4
-39766	2
-39773	3
-41322	1
-41986	4
-41987	2
-41988	2
-42346	2
-42348	4
+Stratum	ObservationID	Count
+Heide en duin	1669	0
+Heide en duin	1670	0
+Heide en duin	1671	0
+Heide en duin	1672	0
+Heide en duin	1673	0
+Heide en duin	1674	0
+Heide en duin	1687	0
+Heide en duin	1688	0
+Heide en duin	1689	1
+Heide en duin	1690	0
+Heide en duin	1691	0
+Heide en duin	1692	0
+Heide en duin	1717	0
+Heide en duin	1718	0
+Heide en duin	1719	0
+Heide en duin	1720	0
+Heide en duin	1721	0
+Heide en duin	1722	0
+Heide en duin	9457	0
+Heide en duin	9458	0
+Heide en duin	9459	0
+Heide en duin	9460	0
+Heide en duin	9461	0
+Heide en duin	9462	0
+Heide en duin	17227	0
+Heide en duin	17228	0
+Heide en duin	17229	0
+Heide en duin	17230	0
+Heide en duin	17231	0
+Heide en duin	17232	0
+Heide en duin	17233	0
+Heide en duin	17234	0
+Heide en duin	17235	0
+Heide en duin	17236	0
+Heide en duin	17237	0
+Heide en duin	17238	0
+Heide en duin	17251	0
+Heide en duin	17252	0
+Heide en duin	17253	0
+Heide en duin	17254	0
+Heide en duin	17255	0
+Heide en duin	17256	0
+Heide en duin	21362	0
+Heide en duin	21364	0
+Heide en duin	21366	0
+Heide en duin	21386	0
+Heide en duin	21388	0
+Heide en duin	21390	0
+Heide en duin	21410	0
+Heide en duin	21412	0
+Heide en duin	21414	0
+Heide en duin	27271	0
+Heide en duin	27272	0
+Heide en duin	27273	0
+Heide en duin	27274	0
+Heide en duin	27275	0
+Heide en duin	27276	0
+Heide en duin	27277	0
+Heide en duin	27278	0
+Heide en duin	27279	0
+Heide en duin	27280	0
+Heide en duin	27281	0
+Heide en duin	27282	0
+Heide en duin	27283	0
+Heide en duin	27284	0
+Heide en duin	27285	0
+Heide en duin	27286	0
+Heide en duin	27287	0
+Heide en duin	27288	0
+Heide en duin	29077	0
+Heide en duin	29078	0
+Heide en duin	29079	0
+Heide en duin	29080	0
+Heide en duin	29081	0
+Heide en duin	29082	0
+Heide en duin	29155	0
+Heide en duin	29156	0
+Heide en duin	29157	0
+Heide en duin	29158	2
+Heide en duin	29159	0
+Heide en duin	29160	0
+Heide en duin	29305	0
+Heide en duin	29306	0
+Heide en duin	29307	4
+Heide en duin	29308	0
+Heide en duin	29309	0
+Heide en duin	29310	0
+Heide en duin	29791	0
+Heide en duin	29792	0
+Heide en duin	29793	0
+Heide en duin	29794	0
+Heide en duin	29795	0
+Heide en duin	29796	0
+Heide en duin	30043	0
+Heide en duin	30044	0
+Heide en duin	30045	0
+Heide en duin	30046	0
+Heide en duin	30047	5
+Heide en duin	30048	0
+Heide en duin	30379	2
+Heide en duin	30380	0
+Heide en duin	30381	0
+Heide en duin	30382	4
+Heide en duin	30383	0
+Heide en duin	30384	4
+Heide en duin	30481	0
+Heide en duin	30483	0
+Heide en duin	30484	0
+Heide en duin	30486	0
+Heide en duin	31093	0
+Heide en duin	31094	0
+Heide en duin	31095	0
+Heide en duin	31096	2
+Heide en duin	31097	0
+Heide en duin	31098	10
+Heide en duin	36433	0
+Heide en duin	36434	2
+Heide en duin	36435	0
+Heide en duin	36436	0
+Heide en duin	36437	0
+Heide en duin	36438	0
+Heide en duin	36439	3
+Heide en duin	36440	0
+Heide en duin	36441	0
+Heide en duin	36442	0
+Heide en duin	36443	0
+Heide en duin	36444	0
+Heide en duin	37843	0
+Heide en duin	37844	0
+Heide en duin	37845	0
+Heide en duin	37846	0
+Heide en duin	37847	0
+Heide en duin	37848	0
+Heide en duin	38335	0
+Heide en duin	38336	0
+Heide en duin	38337	0
+Heide en duin	38338	0
+Heide en duin	38339	0
+Heide en duin	38340	0
+Heide en duin	38353	0
+Heide en duin	38354	0
+Heide en duin	38355	0
+Heide en duin	38356	0
+Heide en duin	38357	0
+Heide en duin	38358	0
+Heide en duin	38359	0
+Heide en duin	38360	0
+Heide en duin	38361	0
+Heide en duin	38362	0
+Heide en duin	38363	0
+Heide en duin	38364	0
+Heide en duin	39205	0
+Heide en duin	39206	0
+Heide en duin	39207	0
+Heide en duin	39208	0
+Heide en duin	39209	0
+Heide en duin	39210	0
+Heide en duin	39367	0
+Heide en duin	39368	0
+Heide en duin	39369	0
+Heide en duin	39370	0
+Heide en duin	39371	0
+Heide en duin	39372	0
+Heide en duin	41317	0
+Heide en duin	41318	0
+Heide en duin	41319	0
+Heide en duin	41320	0
+Heide en duin	41321	0
+Heide en duin	41322	1
+Heide en duin	41983	0
+Heide en duin	41984	0
+Heide en duin	41985	0
+Heide en duin	41986	4
+Heide en duin	41987	2
+Heide en duin	41988	2
+Heide en duin	42343	0
+Heide en duin	42344	0
+Heide en duin	42345	0
+Heide en duin	42346	2
+Heide en duin	42347	0
+Heide en duin	42348	4
+Moeras en water	1825	0
+Moeras en water	1826	0
+Moeras en water	1827	0
+Moeras en water	1828	0
+Moeras en water	1829	0
+Moeras en water	1830	0
+Moeras en water	3841	0
+Moeras en water	3842	0
+Moeras en water	3843	0
+Moeras en water	3844	0
+Moeras en water	3845	0
+Moeras en water	3846	0
+Moeras en water	3847	0
+Moeras en water	3848	0
+Moeras en water	3849	0
+Moeras en water	3850	0
+Moeras en water	3851	0
+Moeras en water	3852	0
+Moeras en water	3853	0
+Moeras en water	3854	0
+Moeras en water	3855	0
+Moeras en water	3856	0
+Moeras en water	3857	0
+Moeras en water	3858	0
+Moeras en water	4039	0
+Moeras en water	4040	0
+Moeras en water	4041	0
+Moeras en water	4042	2
+Moeras en water	4043	0
+Moeras en water	4044	0
+Moeras en water	4045	0
+Moeras en water	4046	0
+Moeras en water	4047	0
+Moeras en water	4048	0
+Moeras en water	4049	0
+Moeras en water	4050	0
+Moeras en water	4051	0
+Moeras en water	4052	0
+Moeras en water	4053	0
+Moeras en water	4054	0
+Moeras en water	4055	0
+Moeras en water	4056	0
+Moeras en water	30223	0
+Moeras en water	30224	0
+Moeras en water	30225	0
+Moeras en water	30226	1
+Moeras en water	30227	0
+Moeras en water	30228	0
+Moeras en water	30265	0
+Moeras en water	30266	0
+Moeras en water	30267	0
+Moeras en water	30268	0
+Moeras en water	30269	0
+Moeras en water	30270	0
+Moeras en water	30271	0
+Moeras en water	30272	0
+Moeras en water	30273	0
+Moeras en water	30274	0
+Moeras en water	30275	0
+Moeras en water	30276	0
+Moeras en water	31555	0
+Moeras en water	31556	0
+Moeras en water	31557	0
+Moeras en water	31558	0
+Moeras en water	31559	0
+Moeras en water	31560	0
+Moeras en water	34801	1
+Moeras en water	34802	0
+Moeras en water	34803	0
+Moeras en water	34804	1
+Moeras en water	34805	0
+Moeras en water	34806	0
+Moeras en water	35659	0
+Moeras en water	35660	2
+Moeras en water	35661	0
+Moeras en water	35662	0
+Moeras en water	35663	0
+Moeras en water	35664	0
+Moeras en water	41767	0
+Moeras en water	41768	0
+Moeras en water	41769	0
+Moeras en water	41770	0
+Moeras en water	41771	0
+Moeras en water	41772	0
+Moeras en water	41839	0
+Moeras en water	41840	0
+Moeras en water	41841	0
+Moeras en water	41842	0
+Moeras en water	41843	0
+Moeras en water	41844	0
+Moeras en water	41851	0
+Moeras en water	41852	0
+Moeras en water	41853	0
+Moeras en water	41854	0
+Moeras en water	41855	0
+Moeras en water	41856	0
+Moeras en water	42493	0
+Moeras en water	42494	0
+Moeras en water	42495	0
+Moeras en water	42496	0
+Moeras en water	42497	0
+Moeras en water	42498	0
+Suburbaan	3969	0
+Suburbaan	3970	0
+Suburbaan	3971	0
+Suburbaan	3972	0
+Suburbaan	3975	0
+Suburbaan	3976	0
+Suburbaan	3977	0
+Suburbaan	3978	0
+Suburbaan	3981	0
+Suburbaan	3982	0
+Suburbaan	3983	0
+Suburbaan	3984	0
+Suburbaan	4771	0
+Suburbaan	4772	0
+Suburbaan	4773	0
+Suburbaan	4774	0
+Suburbaan	4775	0
+Suburbaan	4776	0
+Suburbaan	4777	0
+Suburbaan	4778	0
+Suburbaan	4779	0
+Suburbaan	4780	0
+Suburbaan	4781	1
+Suburbaan	4782	0
+Suburbaan	4783	0
+Suburbaan	4784	0
+Suburbaan	4785	2
+Suburbaan	4786	0
+Suburbaan	4787	0
+Suburbaan	4788	0
+Suburbaan	14719	0
+Suburbaan	14720	0
+Suburbaan	14721	0
+Suburbaan	14722	0
+Suburbaan	14723	0
+Suburbaan	14724	1
+Suburbaan	14725	0
+Suburbaan	14726	0
+Suburbaan	14727	0
+Suburbaan	14728	0
+Suburbaan	14729	1
+Suburbaan	14730	0
+Suburbaan	14791	0
+Suburbaan	14792	0
+Suburbaan	14793	0
+Suburbaan	14794	0
+Suburbaan	14795	0
+Suburbaan	14796	0
+Suburbaan	21865	0
+Suburbaan	21866	0
+Suburbaan	21867	0
+Suburbaan	21868	0
+Suburbaan	21869	0
+Suburbaan	21870	0
+Suburbaan	21895	0
+Suburbaan	21896	0
+Suburbaan	21897	0
+Suburbaan	21898	0
+Suburbaan	21899	0
+Suburbaan	21900	0
+Suburbaan	22825	0
+Suburbaan	22826	0
+Suburbaan	22827	0
+Suburbaan	22828	0
+Suburbaan	22829	0
+Suburbaan	22830	0
+Suburbaan	24409	0
+Suburbaan	24410	0
+Suburbaan	24411	0
+Suburbaan	24412	0
+Suburbaan	24413	0
+Suburbaan	24414	0
+Suburbaan	24457	0
+Suburbaan	24458	0
+Suburbaan	24459	0
+Suburbaan	24460	1
+Suburbaan	24461	0
+Suburbaan	24462	1
+Suburbaan	24469	0
+Suburbaan	24470	0
+Suburbaan	24471	0
+Suburbaan	24472	0
+Suburbaan	24473	0
+Suburbaan	24474	0
+Suburbaan	24811	0
+Suburbaan	24812	0
+Suburbaan	24813	0
+Suburbaan	24814	0
+Suburbaan	24815	0
+Suburbaan	24816	0
+Suburbaan	25807	0
+Suburbaan	25808	0
+Suburbaan	25809	0
+Suburbaan	25810	0
+Suburbaan	25811	0
+Suburbaan	25812	0
+Suburbaan	30471	1
+Suburbaan	30472	0
+Suburbaan	30473	0
+Suburbaan	30474	0
+Suburbaan	30477	0
+Suburbaan	30478	0
+Suburbaan	30479	2
+Suburbaan	30480	0
+Suburbaan	33391	0
+Suburbaan	33392	0
+Suburbaan	33393	0
+Suburbaan	33394	0
+Suburbaan	33395	0
+Suburbaan	33396	0
+Suburbaan	33403	0
+Suburbaan	33404	0
+Suburbaan	33405	0
+Suburbaan	33406	0
+Suburbaan	33407	0
+Suburbaan	33408	0
+Suburbaan	34237	0
+Suburbaan	34238	0
+Suburbaan	34239	0
+Suburbaan	34240	1
+Suburbaan	34241	0
+Suburbaan	34242	0
+Suburbaan	34269	0
+Suburbaan	34270	0
+Suburbaan	34731	0
+Suburbaan	34732	0
+Suburbaan	35113	0
+Suburbaan	35114	0
+Suburbaan	35115	0
+Suburbaan	35116	0
+Suburbaan	35117	0
+Suburbaan	35118	0
+Suburbaan	37741	0
+Suburbaan	37742	0
+Suburbaan	37743	0
+Suburbaan	37744	0
+Suburbaan	37745	0
+Suburbaan	37746	0
+Suburbaan	38221	0
+Suburbaan	38222	0
+Suburbaan	38223	0
+Suburbaan	38224	0
+Suburbaan	38225	0
+Suburbaan	38226	0
+Suburbaan	38917	0
+Suburbaan	38918	0
+Suburbaan	38919	0
+Suburbaan	38920	0
+Suburbaan	38921	0
+Suburbaan	38922	0

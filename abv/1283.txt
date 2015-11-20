@@ -1,401 +1,3345 @@
-ObservationID	Count
-958	2
-1999	29
-2005	6
-2035	8
-2047	6
-2376	14
-2382	20
-2387	2
-2577	4
-2578	5
-2715	2
-2716	1
-2717	2
-2939	1
-3333	6
-3334	3
-3335	8
-3336	9
-3397	3
-3398	2
-3481	6
-3485	2
-3517	6
-3520	5
-3532	6
-3535	4
-3537	6
-3538	4
-3844	49
-3845	2
-3846	20
-3850	91
-3852	85
-3856	13
-3969	2
-4000	2
-4040	3
-4043	3
-4044	1
-4600	1
-4771	65
-4773	185
-4775	62
-4776	195
-4777	6
-4779	28
-4781	2
-4782	12
-4804	2
-4810	2
-6286	2
-8549	2
-8717	19
-8718	7
-8719	2
-8722	3
-9460	2
-9462	2
-9927	8
-9929	4
-10123	4
-10124	14
-10126	28
-10128	3
-10129	2
-10130	10
-10131	1
-10132	8
-10133	1
-10705	7
-10707	7
-10709	17
-10710	50
-10725	1
-10731	1
-14392	2
-14497	1
-14527	1
-14533	12
-14831	1
-15461	3
-16665	2
-17001	3
-17002	1
-17036	1
-17040	8
-17073	18
-17141	2
-17314	6
-17315	2
-17327	5
-17332	9
-17334	4
-17347	4
-17349	6
-17350	12
-17942	1
-17965	4
-17968	2
-18127	2
-18130	6
-18133	1
-18136	3
-18163	21
-18169	4
-18781	2
-18799	27
-18823	3
-18886	14
-18887	21
-18891	3
-18895	10
-18897	2
-18899	1
-19421	2
-19426	1
-23569	2
-23570	2
-23574	2
-23818	4
-25620	4
-26285	2
-26701	2
-26702	2
-26707	2
-26725	6
-26726	4
-26729	27
-26730	3
-26731	6
-26732	4
-26733	9
-26735	12
-26736	2
-26737	9
-27012	3
-27127	9
-27168	4
-27191	2
-27205	1
-27225	16
-27227	4
-27265	1
-27661	5
-27664	6
-27667	5
-27673	1
-27679	3
-27685	4
-27691	3
-27718	2
-27719	2
-27722	4
-27724	2
-28020	2
-28345	1
-28346	1
-28824	1
-28830	2
-29077	2
-29078	6
-29080	2
-29082	2
-29296	24
-29297	37
-29301	3
-29302	7
-29303	12
-29304	9
-29308	1
-29310	19
-29375	2
-29379	2
-29792	2
-29794	2
-29796	2
-29891	2
-29892	2
-29995	2
-29997	3
-30014	1
-30047	1
-30224	4
-30225	11
-30226	38
-30227	31
-30228	1
-30266	12
-30291	2
-30292	2
-30294	2
-30505	2
-30639	54
-30640	3
-31187	2
-31193	2
-31556	1
-31557	1
-31558	195
-31560	6
-31861	1
-31862	8
-31863	7
-31870	2
-32007	1
-32010	1
-32434	1
-32436	5
-34066	5
-34070	1
-34197	1
-34199	3
-34285	2
-34286	32
-34289	6
-34290	4
-34398	2
-34437	2
-34544	3
-34545	5
-34546	6
-34547	9
-34548	34
-34673	1
-34674	3
-34748	7
-34750	13
-34752	11
-34830	2
-34831	4
-34832	6
-34834	4
-34835	15
-34983	1
-35052	6
-35053	4
-35452	2
-35527	6
-35661	1
-35677	5
-35773	3
-35775	2
-35778	10
-35786	5
-35796	6
-36240	12
-36472	2
-36505	4
-36507	4
-36509	4
-36510	1
-36522	4
-36535	7
-36536	2
-36537	3
-36539	7
-36657	2
-36660	4
-36666	2
-36962	10
-36964	2
-37066	2
-37075	2
-37076	1
-37077	1
-37081	4
-37085	2
-37290	8
-37291	2
-37465	19
-37467	2
-37470	2
-37742	4
-37743	22
-37745	4
-37771	2
-37783	2
-37843	2
-37847	2
-37940	5
-37947	4
-38069	5
-38072	1
-38083	2
-38125	2
-38221	1
-38223	2
-38225	1
-38226	2
-38354	3
-38356	4
-38358	2
-38471	7
-38472	2
-38938	2
-38950	2
-39267	2
-39289	1
-39295	6
-39371	1
-39491	7
-39570	1
-39691	1
-39693	4
-39696	20
-39797	30
-40091	1
-40508	1
-40540	2
-40611	2
-40614	23
-40619	21
-40622	3
-40625	4
-40626	2
-40628	2
-40638	26
-40665	1
-40670	94
-40671	24
-40675	1
-40676	7
-40699	1
-40700	1
-40701	2
-41125	6
-41130	21
-41322	29
-41406	3
-41503	2
-41505	2
-41508	2
-41556	7
-41768	2
-41769	12
-41770	56
-41771	12
-41772	75
-41840	2
-41842	75
-41843	1
-41844	30
-41853	2
-41854	94
-41855	4
-41856	50
-41959	1
-42043	2
-42044	17
-42052	2
-42130	1
-42493	2
-42495	1
-42496	36
-42497	37
-42498	10
-42533	4
-42653	1
-42688	3
-42730	4
-42731	2
-42735	3
-42753	2
-42788	3
-43213	5
-43214	15
-43226	2
-43238	3
-43381	114
-43386	2
-43605	2
-43607	1
-43608	2
-43747	2
-43750	2
-43751	2
-43752	4
-43793	4
-43801	32
-43815	3
-43817	2
-43876	4
-44048	2
-44049	2
-44057	1
-45361	30
-45362	16
-45373	3
-45374	7
-45375	19
-45376	2
-45377	3
-45378	2
-45466	1
-45468	4
-45558	2
-46165	2
-46166	2
-46170	4
-46182	50
+Stratum	ObservationID	Count
+Bos	1387	0
+Bos	1388	0
+Bos	1389	0
+Bos	1390	0
+Bos	1391	0
+Bos	1392	0
+Bos	2935	0
+Bos	2936	0
+Bos	2937	0
+Bos	2938	0
+Bos	2939	1
+Bos	2940	0
+Bos	2941	0
+Bos	2942	0
+Bos	2943	0
+Bos	2944	0
+Bos	2945	0
+Bos	2946	0
+Bos	3397	3
+Bos	3398	2
+Bos	3399	0
+Bos	3400	0
+Bos	3401	0
+Bos	3402	0
+Bos	3403	0
+Bos	3404	0
+Bos	3405	0
+Bos	3406	0
+Bos	3407	0
+Bos	3408	0
+Bos	3409	0
+Bos	3410	0
+Bos	3411	0
+Bos	3412	0
+Bos	3413	0
+Bos	3414	0
+Bos	7075	0
+Bos	7076	0
+Bos	7077	0
+Bos	7078	0
+Bos	7079	0
+Bos	7080	0
+Bos	7081	0
+Bos	7082	0
+Bos	7083	0
+Bos	7084	0
+Bos	7085	0
+Bos	7086	0
+Bos	7105	0
+Bos	7106	0
+Bos	7107	0
+Bos	7108	0
+Bos	7109	0
+Bos	7110	0
+Bos	9433	0
+Bos	9434	0
+Bos	9435	0
+Bos	9436	0
+Bos	9437	0
+Bos	9438	0
+Bos	9499	0
+Bos	9500	0
+Bos	9501	0
+Bos	9502	0
+Bos	9503	0
+Bos	9504	0
+Bos	9559	0
+Bos	9560	0
+Bos	9561	0
+Bos	9562	0
+Bos	9563	0
+Bos	9564	0
+Bos	14497	1
+Bos	14498	0
+Bos	14499	0
+Bos	14500	0
+Bos	14501	0
+Bos	14502	0
+Bos	14527	1
+Bos	14528	0
+Bos	14529	0
+Bos	14530	0
+Bos	14531	0
+Bos	14532	0
+Bos	14533	12
+Bos	14534	0
+Bos	14535	0
+Bos	14536	0
+Bos	14537	0
+Bos	14538	0
+Bos	16993	0
+Bos	16994	0
+Bos	16995	0
+Bos	16996	0
+Bos	16997	0
+Bos	16998	0
+Bos	17029	0
+Bos	17030	0
+Bos	17031	0
+Bos	17032	0
+Bos	17033	0
+Bos	17034	0
+Bos	17065	0
+Bos	17066	0
+Bos	17067	0
+Bos	17068	0
+Bos	17069	0
+Bos	17070	0
+Bos	18607	0
+Bos	18608	0
+Bos	18609	0
+Bos	18610	0
+Bos	18611	0
+Bos	18612	0
+Bos	18619	0
+Bos	18620	0
+Bos	18621	0
+Bos	18622	0
+Bos	18623	0
+Bos	18624	0
+Bos	18637	0
+Bos	18638	0
+Bos	18639	0
+Bos	18640	0
+Bos	18641	0
+Bos	18642	0
+Bos	18721	0
+Bos	18722	0
+Bos	18723	0
+Bos	18724	0
+Bos	18725	0
+Bos	18726	0
+Bos	18727	0
+Bos	18728	0
+Bos	18729	0
+Bos	18730	0
+Bos	18731	0
+Bos	18732	0
+Bos	19207	0
+Bos	19208	0
+Bos	19209	0
+Bos	19210	0
+Bos	19211	0
+Bos	19212	0
+Bos	19225	0
+Bos	19226	0
+Bos	19227	0
+Bos	19228	0
+Bos	19229	0
+Bos	19230	0
+Bos	19231	0
+Bos	19232	0
+Bos	19233	0
+Bos	19234	0
+Bos	19235	0
+Bos	19236	0
+Bos	25711	0
+Bos	25712	0
+Bos	25713	0
+Bos	25714	0
+Bos	25715	0
+Bos	25716	0
+Bos	26701	2
+Bos	26702	2
+Bos	26703	0
+Bos	26704	0
+Bos	26705	0
+Bos	26706	0
+Bos	26707	2
+Bos	26708	0
+Bos	26709	0
+Bos	26710	0
+Bos	26711	0
+Bos	26712	0
+Bos	26713	0
+Bos	26714	0
+Bos	26715	0
+Bos	26716	0
+Bos	26717	0
+Bos	26718	0
+Bos	27469	0
+Bos	27470	0
+Bos	27471	0
+Bos	27472	0
+Bos	27473	0
+Bos	27474	0
+Bos	27475	0
+Bos	27476	0
+Bos	27477	0
+Bos	27478	0
+Bos	27479	0
+Bos	27480	0
+Bos	27481	0
+Bos	27482	0
+Bos	27483	0
+Bos	27484	0
+Bos	27485	0
+Bos	27486	0
+Bos	31867	0
+Bos	31868	0
+Bos	31869	0
+Bos	31870	2
+Bos	31871	0
+Bos	31872	0
+Bos	31975	0
+Bos	31976	0
+Bos	31977	0
+Bos	31978	0
+Bos	31979	0
+Bos	31980	0
+Bos	32011	0
+Bos	32012	0
+Bos	32013	0
+Bos	32014	0
+Bos	32015	0
+Bos	32016	0
+Bos	33595	0
+Bos	33596	0
+Bos	33597	0
+Bos	33598	0
+Bos	33599	0
+Bos	33600	0
+Bos	33601	0
+Bos	33602	0
+Bos	33603	0
+Bos	33604	0
+Bos	33605	0
+Bos	33606	0
+Bos	33607	0
+Bos	33608	0
+Bos	33609	0
+Bos	33610	0
+Bos	33611	0
+Bos	33612	0
+Bos	34981	0
+Bos	34982	0
+Bos	34983	1
+Bos	34984	0
+Bos	34985	0
+Bos	34986	0
+Bos	35005	0
+Bos	35006	0
+Bos	35007	0
+Bos	35008	0
+Bos	35009	0
+Bos	35010	0
+Bos	35347	0
+Bos	35348	0
+Bos	35349	0
+Bos	35350	0
+Bos	35351	0
+Bos	35352	0
+Bos	35773	3
+Bos	35774	0
+Bos	35775	2
+Bos	35776	0
+Bos	35777	0
+Bos	35778	10
+Bos	35791	0
+Bos	35792	0
+Bos	35793	0
+Bos	35794	0
+Bos	35795	0
+Bos	35796	6
+Bos	36031	0
+Bos	36032	0
+Bos	36033	0
+Bos	36034	0
+Bos	36035	0
+Bos	36036	0
+Bos	36157	0
+Bos	36158	0
+Bos	36159	0
+Bos	36160	0
+Bos	36161	0
+Bos	36162	0
+Bos	36169	0
+Bos	36170	0
+Bos	36171	0
+Bos	36172	0
+Bos	36173	0
+Bos	36174	0
+Bos	37465	19
+Bos	37466	0
+Bos	37467	2
+Bos	37468	0
+Bos	37469	0
+Bos	37470	2
+Bos	37939	0
+Bos	37940	5
+Bos	37941	0
+Bos	37942	0
+Bos	37943	0
+Bos	37944	0
+Bos	38509	0
+Bos	38510	0
+Bos	38511	0
+Bos	38512	0
+Bos	38513	0
+Bos	38514	0
+Bos	39175	0
+Bos	39176	0
+Bos	39177	0
+Bos	39178	0
+Bos	39179	0
+Bos	39180	0
+Bos	39265	0
+Bos	39266	0
+Bos	39267	2
+Bos	39268	0
+Bos	39269	0
+Bos	39270	0
+Bos	40177	0
+Bos	40178	0
+Bos	40179	0
+Bos	40180	0
+Bos	40181	0
+Bos	40182	0
+Bos	40183	0
+Bos	40184	0
+Bos	40185	0
+Bos	40186	0
+Bos	40187	0
+Bos	40188	0
+Bos	40189	0
+Bos	40190	0
+Bos	40191	0
+Bos	40192	0
+Bos	40193	0
+Bos	40194	0
+Bos	41023	0
+Bos	41024	0
+Bos	41025	0
+Bos	41026	0
+Bos	41027	0
+Bos	41028	0
+Bos	41029	0
+Bos	41030	0
+Bos	41031	0
+Bos	41032	0
+Bos	41033	0
+Bos	41034	0
+Bos	43681	0
+Bos	43682	0
+Bos	43683	0
+Bos	43684	0
+Bos	43685	0
+Bos	43686	0
+Bos	43693	0
+Bos	43694	0
+Bos	43695	0
+Bos	43696	0
+Bos	43697	0
+Bos	43698	0
+Bos	43699	0
+Bos	43700	0
+Bos	43701	0
+Bos	43702	0
+Bos	43703	0
+Bos	43704	0
+Bos	44947	0
+Bos	44948	0
+Bos	44949	0
+Bos	44950	0
+Bos	44951	0
+Bos	44952	0
+Heide en duin	1669	0
+Heide en duin	1670	0
+Heide en duin	1671	0
+Heide en duin	1672	0
+Heide en duin	1673	0
+Heide en duin	1674	0
+Heide en duin	1687	0
+Heide en duin	1688	0
+Heide en duin	1689	0
+Heide en duin	1690	0
+Heide en duin	1691	0
+Heide en duin	1692	0
+Heide en duin	1717	0
+Heide en duin	1718	0
+Heide en duin	1719	0
+Heide en duin	1720	0
+Heide en duin	1721	0
+Heide en duin	1722	0
+Heide en duin	3553	0
+Heide en duin	3554	0
+Heide en duin	3555	0
+Heide en duin	3556	0
+Heide en duin	3557	0
+Heide en duin	3558	0
+Heide en duin	3559	0
+Heide en duin	3560	0
+Heide en duin	3561	0
+Heide en duin	3562	0
+Heide en duin	3563	0
+Heide en duin	3564	0
+Heide en duin	3571	0
+Heide en duin	3572	0
+Heide en duin	3573	0
+Heide en duin	3574	0
+Heide en duin	3575	0
+Heide en duin	3576	0
+Heide en duin	5359	0
+Heide en duin	5360	0
+Heide en duin	5361	0
+Heide en duin	5362	0
+Heide en duin	5365	0
+Heide en duin	5366	0
+Heide en duin	5367	0
+Heide en duin	5368	0
+Heide en duin	6733	0
+Heide en duin	6734	0
+Heide en duin	6735	0
+Heide en duin	6736	0
+Heide en duin	9457	0
+Heide en duin	9458	0
+Heide en duin	9459	0
+Heide en duin	9460	2
+Heide en duin	9461	0
+Heide en duin	9462	2
+Heide en duin	11155	0
+Heide en duin	11156	0
+Heide en duin	11157	0
+Heide en duin	11158	0
+Heide en duin	11159	0
+Heide en duin	11160	0
+Heide en duin	11161	0
+Heide en duin	11162	0
+Heide en duin	11163	0
+Heide en duin	11164	0
+Heide en duin	11165	0
+Heide en duin	11166	0
+Heide en duin	14809	0
+Heide en duin	14810	0
+Heide en duin	14811	0
+Heide en duin	14812	0
+Heide en duin	14813	0
+Heide en duin	14814	0
+Heide en duin	16663	0
+Heide en duin	16664	0
+Heide en duin	16665	2
+Heide en duin	16666	0
+Heide en duin	16667	0
+Heide en duin	16668	0
+Heide en duin	16711	0
+Heide en duin	16712	0
+Heide en duin	16713	0
+Heide en duin	16714	0
+Heide en duin	16715	0
+Heide en duin	16716	0
+Heide en duin	16753	0
+Heide en duin	16754	0
+Heide en duin	16755	0
+Heide en duin	16756	0
+Heide en duin	16757	0
+Heide en duin	16758	0
+Heide en duin	16909	0
+Heide en duin	16910	0
+Heide en duin	16911	0
+Heide en duin	16912	0
+Heide en duin	16913	0
+Heide en duin	16914	0
+Heide en duin	16921	0
+Heide en duin	16922	0
+Heide en duin	16923	0
+Heide en duin	16924	0
+Heide en duin	16925	0
+Heide en duin	16926	0
+Heide en duin	16933	0
+Heide en duin	16934	0
+Heide en duin	16935	0
+Heide en duin	16936	0
+Heide en duin	16937	0
+Heide en duin	16938	0
+Heide en duin	17131	0
+Heide en duin	17132	0
+Heide en duin	17133	0
+Heide en duin	17134	0
+Heide en duin	17135	0
+Heide en duin	17136	0
+Heide en duin	17137	0
+Heide en duin	17138	0
+Heide en duin	17139	0
+Heide en duin	17140	0
+Heide en duin	17141	2
+Heide en duin	17142	0
+Heide en duin	17155	0
+Heide en duin	17156	0
+Heide en duin	17157	0
+Heide en duin	17158	0
+Heide en duin	17159	0
+Heide en duin	17160	0
+Heide en duin	17227	0
+Heide en duin	17228	0
+Heide en duin	17229	0
+Heide en duin	17230	0
+Heide en duin	17231	0
+Heide en duin	17232	0
+Heide en duin	17233	0
+Heide en duin	17234	0
+Heide en duin	17235	0
+Heide en duin	17236	0
+Heide en duin	17237	0
+Heide en duin	17238	0
+Heide en duin	17251	0
+Heide en duin	17252	0
+Heide en duin	17253	0
+Heide en duin	17254	0
+Heide en duin	17255	0
+Heide en duin	17256	0
+Heide en duin	23863	0
+Heide en duin	23864	0
+Heide en duin	23865	0
+Heide en duin	23866	0
+Heide en duin	23867	0
+Heide en duin	23868	0
+Heide en duin	26929	0
+Heide en duin	26930	0
+Heide en duin	26931	0
+Heide en duin	26932	0
+Heide en duin	26933	0
+Heide en duin	26934	0
+Heide en duin	26935	0
+Heide en duin	26936	0
+Heide en duin	26937	0
+Heide en duin	26938	0
+Heide en duin	26939	0
+Heide en duin	26940	0
+Heide en duin	26941	0
+Heide en duin	26942	0
+Heide en duin	26943	0
+Heide en duin	26944	0
+Heide en duin	26945	0
+Heide en duin	26946	0
+Heide en duin	27271	0
+Heide en duin	27272	0
+Heide en duin	27273	0
+Heide en duin	27274	0
+Heide en duin	27275	0
+Heide en duin	27276	0
+Heide en duin	27277	0
+Heide en duin	27278	0
+Heide en duin	27279	0
+Heide en duin	27280	0
+Heide en duin	27281	0
+Heide en duin	27282	0
+Heide en duin	27283	0
+Heide en duin	27284	0
+Heide en duin	27285	0
+Heide en duin	27286	0
+Heide en duin	27287	0
+Heide en duin	27288	0
+Heide en duin	28069	0
+Heide en duin	28070	0
+Heide en duin	28071	0
+Heide en duin	28072	0
+Heide en duin	28073	0
+Heide en duin	28074	0
+Heide en duin	28075	0
+Heide en duin	28076	0
+Heide en duin	28077	0
+Heide en duin	28078	0
+Heide en duin	28079	0
+Heide en duin	28080	0
+Heide en duin	28087	0
+Heide en duin	28088	0
+Heide en duin	28089	0
+Heide en duin	28090	0
+Heide en duin	28091	0
+Heide en duin	28092	0
+Heide en duin	29077	2
+Heide en duin	29078	6
+Heide en duin	29079	0
+Heide en duin	29080	2
+Heide en duin	29081	0
+Heide en duin	29082	2
+Heide en duin	29155	0
+Heide en duin	29156	0
+Heide en duin	29157	0
+Heide en duin	29158	0
+Heide en duin	29159	0
+Heide en duin	29160	0
+Heide en duin	29197	0
+Heide en duin	29198	0
+Heide en duin	29199	0
+Heide en duin	29200	0
+Heide en duin	29201	0
+Heide en duin	29202	0
+Heide en duin	29305	0
+Heide en duin	29306	0
+Heide en duin	29307	0
+Heide en duin	29308	1
+Heide en duin	29309	0
+Heide en duin	29310	19
+Heide en duin	29791	0
+Heide en duin	29792	2
+Heide en duin	29793	0
+Heide en duin	29794	2
+Heide en duin	29795	0
+Heide en duin	29796	2
+Heide en duin	30043	0
+Heide en duin	30044	0
+Heide en duin	30045	0
+Heide en duin	30046	0
+Heide en duin	30047	1
+Heide en duin	30048	0
+Heide en duin	30061	0
+Heide en duin	30062	0
+Heide en duin	30063	0
+Heide en duin	30064	0
+Heide en duin	30065	0
+Heide en duin	30066	0
+Heide en duin	30379	0
+Heide en duin	30380	0
+Heide en duin	30381	0
+Heide en duin	30382	0
+Heide en duin	30383	0
+Heide en duin	30384	0
+Heide en duin	30463	0
+Heide en duin	30464	0
+Heide en duin	30465	0
+Heide en duin	30466	0
+Heide en duin	30467	0
+Heide en duin	30468	0
+Heide en duin	30949	0
+Heide en duin	30950	0
+Heide en duin	30951	0
+Heide en duin	30952	0
+Heide en duin	30953	0
+Heide en duin	30954	0
+Heide en duin	31093	0
+Heide en duin	31094	0
+Heide en duin	31095	0
+Heide en duin	31096	0
+Heide en duin	31097	0
+Heide en duin	31098	0
+Heide en duin	32377	0
+Heide en duin	32378	0
+Heide en duin	32379	0
+Heide en duin	32380	0
+Heide en duin	32381	0
+Heide en duin	32382	0
+Heide en duin	32383	0
+Heide en duin	32384	0
+Heide en duin	32385	0
+Heide en duin	32386	0
+Heide en duin	32387	0
+Heide en duin	32388	0
+Heide en duin	32389	0
+Heide en duin	32390	0
+Heide en duin	32391	0
+Heide en duin	32392	0
+Heide en duin	32393	0
+Heide en duin	32394	0
+Heide en duin	32431	0
+Heide en duin	32432	0
+Heide en duin	32433	0
+Heide en duin	32434	1
+Heide en duin	32435	0
+Heide en duin	32436	5
+Heide en duin	32443	0
+Heide en duin	32444	0
+Heide en duin	32445	0
+Heide en duin	32446	0
+Heide en duin	32447	0
+Heide en duin	32448	0
+Heide en duin	37747	0
+Heide en duin	37748	0
+Heide en duin	37749	0
+Heide en duin	37750	0
+Heide en duin	37751	0
+Heide en duin	37752	0
+Heide en duin	37771	2
+Heide en duin	37772	0
+Heide en duin	37773	0
+Heide en duin	37774	0
+Heide en duin	37775	0
+Heide en duin	37776	0
+Heide en duin	37843	2
+Heide en duin	37844	0
+Heide en duin	37845	0
+Heide en duin	37846	0
+Heide en duin	37847	2
+Heide en duin	37848	0
+Heide en duin	38083	2
+Heide en duin	38084	0
+Heide en duin	38085	0
+Heide en duin	38086	0
+Heide en duin	38087	0
+Heide en duin	38088	0
+Heide en duin	38335	0
+Heide en duin	38336	0
+Heide en duin	38337	0
+Heide en duin	38338	0
+Heide en duin	38339	0
+Heide en duin	38340	0
+Heide en duin	38353	0
+Heide en duin	38354	3
+Heide en duin	38355	0
+Heide en duin	38356	4
+Heide en duin	38357	0
+Heide en duin	38358	2
+Heide en duin	38359	0
+Heide en duin	38360	0
+Heide en duin	38361	0
+Heide en duin	38362	0
+Heide en duin	38363	0
+Heide en duin	38364	0
+Heide en duin	38425	0
+Heide en duin	38426	0
+Heide en duin	38427	0
+Heide en duin	38428	0
+Heide en duin	38429	0
+Heide en duin	38430	0
+Heide en duin	38695	0
+Heide en duin	38696	0
+Heide en duin	38697	0
+Heide en duin	38698	0
+Heide en duin	38699	0
+Heide en duin	38700	0
+Heide en duin	38719	0
+Heide en duin	38720	0
+Heide en duin	38721	0
+Heide en duin	38722	0
+Heide en duin	38723	0
+Heide en duin	38724	0
+Heide en duin	39205	0
+Heide en duin	39206	0
+Heide en duin	39207	0
+Heide en duin	39208	0
+Heide en duin	39209	0
+Heide en duin	39210	0
+Heide en duin	39367	0
+Heide en duin	39368	0
+Heide en duin	39369	0
+Heide en duin	39370	0
+Heide en duin	39371	1
+Heide en duin	39372	0
+Heide en duin	39565	0
+Heide en duin	39566	0
+Heide en duin	39567	0
+Heide en duin	39568	0
+Heide en duin	39569	0
+Heide en duin	39570	1
+Heide en duin	39571	0
+Heide en duin	39572	0
+Heide en duin	39573	0
+Heide en duin	39574	0
+Heide en duin	39575	0
+Heide en duin	39576	0
+Heide en duin	39577	0
+Heide en duin	39578	0
+Heide en duin	39579	0
+Heide en duin	39580	0
+Heide en duin	39581	0
+Heide en duin	39582	0
+Heide en duin	40699	1
+Heide en duin	40700	1
+Heide en duin	40701	2
+Heide en duin	40702	0
+Heide en duin	40703	0
+Heide en duin	40704	0
+Heide en duin	40705	0
+Heide en duin	40706	0
+Heide en duin	40707	0
+Heide en duin	40708	0
+Heide en duin	40709	0
+Heide en duin	40710	0
+Heide en duin	40711	0
+Heide en duin	40712	0
+Heide en duin	40713	0
+Heide en duin	40714	0
+Heide en duin	40715	0
+Heide en duin	40716	0
+Heide en duin	41317	0
+Heide en duin	41318	0
+Heide en duin	41319	0
+Heide en duin	41320	0
+Heide en duin	41321	0
+Heide en duin	41322	29
+Heide en duin	41383	0
+Heide en duin	41384	0
+Heide en duin	41385	0
+Heide en duin	41386	0
+Heide en duin	41387	0
+Heide en duin	41388	0
+Heide en duin	41797	0
+Heide en duin	41798	0
+Heide en duin	41799	0
+Heide en duin	41800	0
+Heide en duin	41801	0
+Heide en duin	41802	0
+Heide en duin	41983	0
+Heide en duin	41984	0
+Heide en duin	41985	0
+Heide en duin	41986	0
+Heide en duin	41987	0
+Heide en duin	41988	0
+Heide en duin	42343	0
+Heide en duin	42344	0
+Heide en duin	42345	0
+Heide en duin	42346	0
+Heide en duin	42347	0
+Heide en duin	42348	0
+Heide en duin	45463	0
+Heide en duin	45464	0
+Heide en duin	45465	0
+Heide en duin	45466	1
+Heide en duin	45467	0
+Heide en duin	45468	4
+Heide en duin	46165	2
+Heide en duin	46166	2
+Heide en duin	46167	0
+Heide en duin	46168	0
+Heide en duin	46169	0
+Heide en duin	46170	4
+Heide en duin	46177	0
+Heide en duin	46178	0
+Heide en duin	46179	0
+Heide en duin	46180	0
+Heide en duin	46181	0
+Heide en duin	46182	50
+Heide en duin	46189	0
+Heide en duin	46190	0
+Heide en duin	46191	0
+Heide en duin	46192	0
+Heide en duin	46193	0
+Heide en duin	46194	0
+Landbouw	505	0
+Landbouw	506	0
+Landbouw	507	0
+Landbouw	508	0
+Landbouw	509	0
+Landbouw	510	0
+Landbouw	511	0
+Landbouw	512	0
+Landbouw	513	0
+Landbouw	514	0
+Landbouw	515	0
+Landbouw	516	0
+Landbouw	517	0
+Landbouw	518	0
+Landbouw	519	0
+Landbouw	520	0
+Landbouw	521	0
+Landbouw	522	0
+Landbouw	877	0
+Landbouw	878	0
+Landbouw	879	0
+Landbouw	880	0
+Landbouw	881	0
+Landbouw	882	0
+Landbouw	883	0
+Landbouw	884	0
+Landbouw	885	0
+Landbouw	886	0
+Landbouw	887	0
+Landbouw	888	0
+Landbouw	889	0
+Landbouw	890	0
+Landbouw	891	0
+Landbouw	892	0
+Landbouw	893	0
+Landbouw	894	0
+Landbouw	1999	29
+Landbouw	2000	0
+Landbouw	2001	0
+Landbouw	2002	0
+Landbouw	2003	0
+Landbouw	2004	0
+Landbouw	2005	6
+Landbouw	2006	0
+Landbouw	2007	0
+Landbouw	2008	0
+Landbouw	2009	0
+Landbouw	2010	0
+Landbouw	2017	0
+Landbouw	2018	0
+Landbouw	2019	0
+Landbouw	2020	0
+Landbouw	2021	0
+Landbouw	2022	0
+Landbouw	2023	0
+Landbouw	2024	0
+Landbouw	2025	0
+Landbouw	2026	0
+Landbouw	2027	0
+Landbouw	2028	0
+Landbouw	2029	0
+Landbouw	2030	0
+Landbouw	2031	0
+Landbouw	2032	0
+Landbouw	2033	0
+Landbouw	2034	0
+Landbouw	2035	8
+Landbouw	2036	0
+Landbouw	2038	0
+Landbouw	2039	0
+Landbouw	2040	0
+Landbouw	2047	6
+Landbouw	2048	0
+Landbouw	2050	0
+Landbouw	2051	0
+Landbouw	2052	0
+Landbouw	2053	0
+Landbouw	2054	0
+Landbouw	2056	0
+Landbouw	2057	0
+Landbouw	2058	0
+Landbouw	2077	0
+Landbouw	2078	0
+Landbouw	2079	0
+Landbouw	2080	0
+Landbouw	2081	0
+Landbouw	2082	0
+Landbouw	2083	0
+Landbouw	2084	0
+Landbouw	2085	0
+Landbouw	2086	0
+Landbouw	2087	0
+Landbouw	2088	0
+Landbouw	2089	0
+Landbouw	2090	0
+Landbouw	2091	0
+Landbouw	2092	0
+Landbouw	2093	0
+Landbouw	2094	0
+Landbouw	2197	0
+Landbouw	2198	0
+Landbouw	2199	0
+Landbouw	2200	0
+Landbouw	2201	0
+Landbouw	2202	0
+Landbouw	2371	0
+Landbouw	2372	0
+Landbouw	2373	0
+Landbouw	2374	0
+Landbouw	2375	0
+Landbouw	2376	14
+Landbouw	2377	0
+Landbouw	2378	0
+Landbouw	2379	0
+Landbouw	2380	0
+Landbouw	2381	0
+Landbouw	2382	20
+Landbouw	2383	0
+Landbouw	2384	0
+Landbouw	2385	0
+Landbouw	2386	0
+Landbouw	2387	2
+Landbouw	2388	0
+Landbouw	2575	0
+Landbouw	2576	0
+Landbouw	2577	4
+Landbouw	2578	5
+Landbouw	2579	0
+Landbouw	2580	0
+Landbouw	2581	0
+Landbouw	2582	0
+Landbouw	2583	0
+Landbouw	2584	0
+Landbouw	2585	0
+Landbouw	2586	0
+Landbouw	2653	0
+Landbouw	2654	0
+Landbouw	2655	0
+Landbouw	2656	0
+Landbouw	2657	0
+Landbouw	2658	0
+Landbouw	3481	6
+Landbouw	3482	0
+Landbouw	3484	0
+Landbouw	3485	2
+Landbouw	3487	0
+Landbouw	3488	0
+Landbouw	3490	0
+Landbouw	3491	0
+Landbouw	3493	0
+Landbouw	3494	0
+Landbouw	3496	0
+Landbouw	3497	0
+Landbouw	8545	0
+Landbouw	8546	0
+Landbouw	8547	0
+Landbouw	8548	0
+Landbouw	8549	2
+Landbouw	8550	0
+Landbouw	8551	0
+Landbouw	8553	0
+Landbouw	8554	0
+Landbouw	8555	0
+Landbouw	8556	0
+Landbouw	8563	0
+Landbouw	8565	0
+Landbouw	8566	0
+Landbouw	8567	0
+Landbouw	8568	0
+Landbouw	8713	0
+Landbouw	8714	0
+Landbouw	8715	0
+Landbouw	8716	0
+Landbouw	8717	19
+Landbouw	8718	7
+Landbouw	8719	2
+Landbouw	8720	0
+Landbouw	8721	0
+Landbouw	8722	3
+Landbouw	8723	0
+Landbouw	8724	0
+Landbouw	10501	0
+Landbouw	10502	0
+Landbouw	10503	0
+Landbouw	10504	0
+Landbouw	10505	0
+Landbouw	10506	0
+Landbouw	10579	0
+Landbouw	10580	0
+Landbouw	10581	0
+Landbouw	10582	0
+Landbouw	10583	0
+Landbouw	10584	0
+Landbouw	14311	0
+Landbouw	14313	0
+Landbouw	14315	0
+Landbouw	14316	0
+Landbouw	14389	0
+Landbouw	14390	0
+Landbouw	14391	0
+Landbouw	14392	2
+Landbouw	14393	0
+Landbouw	14394	0
+Landbouw	14407	0
+Landbouw	14408	0
+Landbouw	14409	0
+Landbouw	14410	0
+Landbouw	14411	0
+Landbouw	14412	0
+Landbouw	14425	0
+Landbouw	14426	0
+Landbouw	14427	0
+Landbouw	14428	0
+Landbouw	14429	0
+Landbouw	14430	0
+Landbouw	14827	0
+Landbouw	14829	0
+Landbouw	14831	1
+Landbouw	14832	0
+Landbouw	15703	0
+Landbouw	15705	0
+Landbouw	15707	0
+Landbouw	15708	0
+Landbouw	16999	0
+Landbouw	17000	0
+Landbouw	17001	3
+Landbouw	17002	1
+Landbouw	17003	0
+Landbouw	17004	0
+Landbouw	17035	0
+Landbouw	17036	1
+Landbouw	17037	0
+Landbouw	17038	0
+Landbouw	17039	0
+Landbouw	17040	8
+Landbouw	17071	0
+Landbouw	17072	0
+Landbouw	17073	18
+Landbouw	17074	0
+Landbouw	17075	0
+Landbouw	17076	0
+Landbouw	17479	0
+Landbouw	17480	0
+Landbouw	17481	0
+Landbouw	17482	0
+Landbouw	17483	0
+Landbouw	17484	0
+Landbouw	17485	0
+Landbouw	17486	0
+Landbouw	17487	0
+Landbouw	17488	0
+Landbouw	17489	0
+Landbouw	17490	0
+Landbouw	17491	0
+Landbouw	17492	0
+Landbouw	17493	0
+Landbouw	17494	0
+Landbouw	17495	0
+Landbouw	17496	0
+Landbouw	17659	0
+Landbouw	17660	0
+Landbouw	17661	0
+Landbouw	17662	0
+Landbouw	17663	0
+Landbouw	17664	0
+Landbouw	17671	0
+Landbouw	17672	0
+Landbouw	17673	0
+Landbouw	17674	0
+Landbouw	17675	0
+Landbouw	17676	0
+Landbouw	18127	2
+Landbouw	18128	0
+Landbouw	18129	0
+Landbouw	18130	6
+Landbouw	18131	0
+Landbouw	18132	0
+Landbouw	18133	1
+Landbouw	18134	0
+Landbouw	18135	0
+Landbouw	18136	3
+Landbouw	18137	0
+Landbouw	18138	0
+Landbouw	18139	0
+Landbouw	18140	0
+Landbouw	18141	0
+Landbouw	18142	0
+Landbouw	18143	0
+Landbouw	18144	0
+Landbouw	18157	0
+Landbouw	18158	0
+Landbouw	18159	0
+Landbouw	18160	0
+Landbouw	18161	0
+Landbouw	18162	0
+Landbouw	18163	21
+Landbouw	18164	0
+Landbouw	18165	0
+Landbouw	18166	0
+Landbouw	18167	0
+Landbouw	18168	0
+Landbouw	18169	4
+Landbouw	18170	0
+Landbouw	18171	0
+Landbouw	18172	0
+Landbouw	18173	0
+Landbouw	18174	0
+Landbouw	18181	0
+Landbouw	18182	0
+Landbouw	18183	0
+Landbouw	18184	0
+Landbouw	18185	0
+Landbouw	18186	0
+Landbouw	18187	0
+Landbouw	18188	0
+Landbouw	18189	0
+Landbouw	18190	0
+Landbouw	18191	0
+Landbouw	18192	0
+Landbouw	18193	0
+Landbouw	18194	0
+Landbouw	18195	0
+Landbouw	18196	0
+Landbouw	18197	0
+Landbouw	18198	0
+Landbouw	18799	27
+Landbouw	18800	0
+Landbouw	18801	0
+Landbouw	18802	0
+Landbouw	18803	0
+Landbouw	18804	0
+Landbouw	18823	3
+Landbouw	18824	0
+Landbouw	18825	0
+Landbouw	18826	0
+Landbouw	18827	0
+Landbouw	18828	0
+Landbouw	18829	0
+Landbouw	18830	0
+Landbouw	18831	0
+Landbouw	18832	0
+Landbouw	18833	0
+Landbouw	18834	0
+Landbouw	18847	0
+Landbouw	18848	0
+Landbouw	18849	0
+Landbouw	18850	0
+Landbouw	18851	0
+Landbouw	18852	0
+Landbouw	18859	0
+Landbouw	18860	0
+Landbouw	18861	0
+Landbouw	18862	0
+Landbouw	18863	0
+Landbouw	18864	0
+Landbouw	18871	0
+Landbouw	18872	0
+Landbouw	18873	0
+Landbouw	18874	0
+Landbouw	18875	0
+Landbouw	18876	0
+Landbouw	18883	0
+Landbouw	18884	0
+Landbouw	18885	0
+Landbouw	18886	14
+Landbouw	18887	21
+Landbouw	18888	0
+Landbouw	18889	0
+Landbouw	18890	0
+Landbouw	18891	3
+Landbouw	18892	0
+Landbouw	18893	0
+Landbouw	18894	0
+Landbouw	18895	10
+Landbouw	18896	0
+Landbouw	18897	2
+Landbouw	18898	0
+Landbouw	18899	1
+Landbouw	18900	0
+Landbouw	18901	0
+Landbouw	18902	0
+Landbouw	18903	0
+Landbouw	18904	0
+Landbouw	18905	0
+Landbouw	18906	0
+Landbouw	18907	0
+Landbouw	18908	0
+Landbouw	18909	0
+Landbouw	18910	0
+Landbouw	18911	0
+Landbouw	18912	0
+Landbouw	18913	0
+Landbouw	18914	0
+Landbouw	18915	0
+Landbouw	18916	0
+Landbouw	18917	0
+Landbouw	18918	0
+Landbouw	19411	0
+Landbouw	19412	0
+Landbouw	19413	0
+Landbouw	19414	0
+Landbouw	19415	0
+Landbouw	19416	0
+Landbouw	19417	0
+Landbouw	19418	0
+Landbouw	19419	0
+Landbouw	19420	0
+Landbouw	19421	2
+Landbouw	19422	0
+Landbouw	19423	0
+Landbouw	19424	0
+Landbouw	19425	0
+Landbouw	19426	1
+Landbouw	19427	0
+Landbouw	19428	0
+Landbouw	20731	0
+Landbouw	20732	0
+Landbouw	20733	0
+Landbouw	20734	0
+Landbouw	20735	0
+Landbouw	20736	0
+Landbouw	20737	0
+Landbouw	20738	0
+Landbouw	20739	0
+Landbouw	20740	0
+Landbouw	20741	0
+Landbouw	20742	0
+Landbouw	20743	0
+Landbouw	20744	0
+Landbouw	20745	0
+Landbouw	20746	0
+Landbouw	20747	0
+Landbouw	20748	0
+Landbouw	22555	0
+Landbouw	22556	0
+Landbouw	22557	0
+Landbouw	22558	0
+Landbouw	22559	0
+Landbouw	22560	0
+Landbouw	22561	0
+Landbouw	22562	0
+Landbouw	22563	0
+Landbouw	22564	0
+Landbouw	22565	0
+Landbouw	22566	0
+Landbouw	22567	0
+Landbouw	22568	0
+Landbouw	22569	0
+Landbouw	22570	0
+Landbouw	22571	0
+Landbouw	22572	0
+Landbouw	23569	2
+Landbouw	23570	2
+Landbouw	23571	0
+Landbouw	23572	0
+Landbouw	23573	0
+Landbouw	23574	2
+Landbouw	23677	0
+Landbouw	23678	0
+Landbouw	23679	0
+Landbouw	23680	0
+Landbouw	23681	0
+Landbouw	23682	0
+Landbouw	23815	0
+Landbouw	23816	0
+Landbouw	23818	4
+Landbouw	23819	0
+Landbouw	23820	0
+Landbouw	24067	0
+Landbouw	24068	0
+Landbouw	24070	0
+Landbouw	24071	0
+Landbouw	24072	0
+Landbouw	24391	0
+Landbouw	24392	0
+Landbouw	24393	0
+Landbouw	24394	0
+Landbouw	24395	0
+Landbouw	24396	0
+Landbouw	25387	0
+Landbouw	25388	0
+Landbouw	25389	0
+Landbouw	25390	0
+Landbouw	25391	0
+Landbouw	25392	0
+Landbouw	25609	0
+Landbouw	25610	0
+Landbouw	25611	0
+Landbouw	25612	0
+Landbouw	25613	0
+Landbouw	25614	0
+Landbouw	25615	0
+Landbouw	25616	0
+Landbouw	25617	0
+Landbouw	25618	0
+Landbouw	25619	0
+Landbouw	25620	4
+Landbouw	25843	0
+Landbouw	25844	0
+Landbouw	25845	0
+Landbouw	25846	0
+Landbouw	25847	0
+Landbouw	25848	0
+Landbouw	26281	0
+Landbouw	26282	0
+Landbouw	26283	0
+Landbouw	26284	0
+Landbouw	26285	2
+Landbouw	26286	0
+Landbouw	26287	0
+Landbouw	26288	0
+Landbouw	26289	0
+Landbouw	26290	0
+Landbouw	26291	0
+Landbouw	26292	0
+Landbouw	26293	0
+Landbouw	26294	0
+Landbouw	26295	0
+Landbouw	26296	0
+Landbouw	26297	0
+Landbouw	26298	0
+Landbouw	26299	0
+Landbouw	26300	0
+Landbouw	26301	0
+Landbouw	26302	0
+Landbouw	26303	0
+Landbouw	26304	0
+Landbouw	26305	0
+Landbouw	26306	0
+Landbouw	26307	0
+Landbouw	26308	0
+Landbouw	26309	0
+Landbouw	26310	0
+Landbouw	26311	0
+Landbouw	26312	0
+Landbouw	26313	0
+Landbouw	26314	0
+Landbouw	26315	0
+Landbouw	26316	0
+Landbouw	27001	0
+Landbouw	27002	0
+Landbouw	27003	0
+Landbouw	27004	0
+Landbouw	27005	0
+Landbouw	27006	0
+Landbouw	27007	0
+Landbouw	27008	0
+Landbouw	27009	0
+Landbouw	27010	0
+Landbouw	27011	0
+Landbouw	27012	3
+Landbouw	27013	0
+Landbouw	27014	0
+Landbouw	27015	0
+Landbouw	27016	0
+Landbouw	27017	0
+Landbouw	27018	0
+Landbouw	27037	0
+Landbouw	27038	0
+Landbouw	27039	0
+Landbouw	27040	0
+Landbouw	27041	0
+Landbouw	27042	0
+Landbouw	27043	0
+Landbouw	27044	0
+Landbouw	27045	0
+Landbouw	27046	0
+Landbouw	27047	0
+Landbouw	27048	0
+Landbouw	27049	0
+Landbouw	27050	0
+Landbouw	27051	0
+Landbouw	27052	0
+Landbouw	27053	0
+Landbouw	27054	0
+Landbouw	27127	9
+Landbouw	27128	0
+Landbouw	27130	0
+Landbouw	27131	0
+Landbouw	27133	0
+Landbouw	27134	0
+Landbouw	27136	0
+Landbouw	27137	0
+Landbouw	27139	0
+Landbouw	27140	0
+Landbouw	27142	0
+Landbouw	27143	0
+Landbouw	27163	0
+Landbouw	27164	0
+Landbouw	27165	0
+Landbouw	27166	0
+Landbouw	27167	0
+Landbouw	27168	4
+Landbouw	27187	0
+Landbouw	27188	0
+Landbouw	27189	0
+Landbouw	27190	0
+Landbouw	27191	2
+Landbouw	27192	0
+Landbouw	27193	0
+Landbouw	27194	0
+Landbouw	27195	0
+Landbouw	27196	0
+Landbouw	27197	0
+Landbouw	27198	0
+Landbouw	27199	0
+Landbouw	27200	0
+Landbouw	27201	0
+Landbouw	27202	0
+Landbouw	27203	0
+Landbouw	27204	0
+Landbouw	27205	1
+Landbouw	27206	0
+Landbouw	27207	0
+Landbouw	27208	0
+Landbouw	27209	0
+Landbouw	27210	0
+Landbouw	27211	0
+Landbouw	27212	0
+Landbouw	27213	0
+Landbouw	27214	0
+Landbouw	27215	0
+Landbouw	27216	0
+Landbouw	27217	0
+Landbouw	27218	0
+Landbouw	27219	0
+Landbouw	27220	0
+Landbouw	27221	0
+Landbouw	27222	0
+Landbouw	27223	0
+Landbouw	27224	0
+Landbouw	27225	16
+Landbouw	27226	0
+Landbouw	27227	4
+Landbouw	27228	0
+Landbouw	27229	0
+Landbouw	27230	0
+Landbouw	27231	0
+Landbouw	27232	0
+Landbouw	27233	0
+Landbouw	27234	0
+Landbouw	27235	0
+Landbouw	27236	0
+Landbouw	27237	0
+Landbouw	27238	0
+Landbouw	27239	0
+Landbouw	27240	0
+Landbouw	27241	0
+Landbouw	27242	0
+Landbouw	27243	0
+Landbouw	27244	0
+Landbouw	27245	0
+Landbouw	27246	0
+Landbouw	27247	0
+Landbouw	27248	0
+Landbouw	27249	0
+Landbouw	27250	0
+Landbouw	27251	0
+Landbouw	27252	0
+Landbouw	27253	0
+Landbouw	27254	0
+Landbouw	27255	0
+Landbouw	27256	0
+Landbouw	27257	0
+Landbouw	27258	0
+Landbouw	27259	0
+Landbouw	27260	0
+Landbouw	27261	0
+Landbouw	27262	0
+Landbouw	27263	0
+Landbouw	27264	0
+Landbouw	27265	1
+Landbouw	27266	0
+Landbouw	27267	0
+Landbouw	27268	0
+Landbouw	27269	0
+Landbouw	27270	0
+Landbouw	27661	5
+Landbouw	27662	0
+Landbouw	27663	0
+Landbouw	27664	6
+Landbouw	27665	0
+Landbouw	27666	0
+Landbouw	27667	5
+Landbouw	27668	0
+Landbouw	27669	0
+Landbouw	27670	0
+Landbouw	27671	0
+Landbouw	27672	0
+Landbouw	27673	1
+Landbouw	27674	0
+Landbouw	27675	0
+Landbouw	27676	0
+Landbouw	27677	0
+Landbouw	27678	0
+Landbouw	27679	3
+Landbouw	27680	0
+Landbouw	27681	0
+Landbouw	27682	0
+Landbouw	27683	0
+Landbouw	27684	0
+Landbouw	27685	4
+Landbouw	27686	0
+Landbouw	27687	0
+Landbouw	27688	0
+Landbouw	27689	0
+Landbouw	27690	0
+Landbouw	27691	3
+Landbouw	27692	0
+Landbouw	27693	0
+Landbouw	27694	0
+Landbouw	27695	0
+Landbouw	27696	0
+Landbouw	27715	0
+Landbouw	27716	0
+Landbouw	27717	0
+Landbouw	27718	2
+Landbouw	27719	2
+Landbouw	27720	0
+Landbouw	27721	0
+Landbouw	27722	4
+Landbouw	27723	0
+Landbouw	27724	2
+Landbouw	27725	0
+Landbouw	27726	0
+Landbouw	27727	0
+Landbouw	27728	0
+Landbouw	27729	0
+Landbouw	27730	0
+Landbouw	27731	0
+Landbouw	27732	0
+Landbouw	27733	0
+Landbouw	27734	0
+Landbouw	27735	0
+Landbouw	27736	0
+Landbouw	27737	0
+Landbouw	27738	0
+Landbouw	27739	0
+Landbouw	27740	0
+Landbouw	27741	0
+Landbouw	27742	0
+Landbouw	27743	0
+Landbouw	27744	0
+Landbouw	27745	0
+Landbouw	27746	0
+Landbouw	27747	0
+Landbouw	27748	0
+Landbouw	27749	0
+Landbouw	27750	0
+Landbouw	28345	1
+Landbouw	28346	1
+Landbouw	28347	0
+Landbouw	28348	0
+Landbouw	28349	0
+Landbouw	28350	0
+Landbouw	29641	0
+Landbouw	29642	0
+Landbouw	29643	0
+Landbouw	29644	0
+Landbouw	29645	0
+Landbouw	29646	0
+Landbouw	29923	0
+Landbouw	29924	0
+Landbouw	29925	0
+Landbouw	29926	0
+Landbouw	29927	0
+Landbouw	29928	0
+Landbouw	29995	2
+Landbouw	29996	0
+Landbouw	29997	3
+Landbouw	29998	0
+Landbouw	29999	0
+Landbouw	30000	0
+Landbouw	30007	0
+Landbouw	30008	0
+Landbouw	30009	0
+Landbouw	30010	0
+Landbouw	30011	0
+Landbouw	30012	0
+Landbouw	30013	0
+Landbouw	30014	1
+Landbouw	30015	0
+Landbouw	30016	0
+Landbouw	30017	0
+Landbouw	30018	0
+Landbouw	30019	0
+Landbouw	30020	0
+Landbouw	30021	0
+Landbouw	30022	0
+Landbouw	30023	0
+Landbouw	30024	0
+Landbouw	30187	0
+Landbouw	30188	0
+Landbouw	30189	0
+Landbouw	30190	0
+Landbouw	30191	0
+Landbouw	30192	0
+Landbouw	30505	2
+Landbouw	30506	0
+Landbouw	30507	0
+Landbouw	30508	0
+Landbouw	30509	0
+Landbouw	30510	0
+Landbouw	30565	0
+Landbouw	30566	0
+Landbouw	30567	0
+Landbouw	30568	0
+Landbouw	30569	0
+Landbouw	30570	0
+Landbouw	30733	0
+Landbouw	30734	0
+Landbouw	30735	0
+Landbouw	30736	0
+Landbouw	30737	0
+Landbouw	30738	0
+Landbouw	31027	0
+Landbouw	31028	0
+Landbouw	31029	0
+Landbouw	31030	0
+Landbouw	31031	0
+Landbouw	31032	0
+Landbouw	31135	0
+Landbouw	31136	0
+Landbouw	31137	0
+Landbouw	31138	0
+Landbouw	31139	0
+Landbouw	31140	0
+Landbouw	31183	0
+Landbouw	31184	0
+Landbouw	31185	0
+Landbouw	31186	0
+Landbouw	31187	2
+Landbouw	31189	0
+Landbouw	31191	0
+Landbouw	31192	0
+Landbouw	31193	2
+Landbouw	31195	0
+Landbouw	31196	0
+Landbouw	31197	0
+Landbouw	31198	0
+Landbouw	31199	0
+Landbouw	31303	0
+Landbouw	31304	0
+Landbouw	31305	0
+Landbouw	31306	0
+Landbouw	31307	0
+Landbouw	31308	0
+Landbouw	31603	0
+Landbouw	31604	0
+Landbouw	31605	0
+Landbouw	31606	0
+Landbouw	31607	0
+Landbouw	31608	0
+Landbouw	31699	0
+Landbouw	31700	0
+Landbouw	31701	0
+Landbouw	31702	0
+Landbouw	31703	0
+Landbouw	31704	0
+Landbouw	31861	1
+Landbouw	31862	8
+Landbouw	31863	7
+Landbouw	31864	0
+Landbouw	31865	0
+Landbouw	31866	0
+Landbouw	31927	0
+Landbouw	31928	0
+Landbouw	31929	0
+Landbouw	31930	0
+Landbouw	31931	0
+Landbouw	31932	0
+Landbouw	31933	0
+Landbouw	31934	0
+Landbouw	31935	0
+Landbouw	31936	0
+Landbouw	31937	0
+Landbouw	31938	0
+Landbouw	31939	0
+Landbouw	31940	0
+Landbouw	31941	0
+Landbouw	31942	0
+Landbouw	31943	0
+Landbouw	31944	0
+Landbouw	31969	0
+Landbouw	31970	0
+Landbouw	31971	0
+Landbouw	31972	0
+Landbouw	31973	0
+Landbouw	31974	0
+Landbouw	32005	0
+Landbouw	32006	0
+Landbouw	32007	1
+Landbouw	32008	0
+Landbouw	32009	0
+Landbouw	32010	1
+Landbouw	32575	0
+Landbouw	32576	0
+Landbouw	32577	0
+Landbouw	32578	0
+Landbouw	32579	0
+Landbouw	32580	0
+Landbouw	32582	0
+Landbouw	32587	0
+Landbouw	32588	0
+Landbouw	32589	0
+Landbouw	32590	0
+Landbouw	32591	0
+Landbouw	32592	0
+Landbouw	33715	0
+Landbouw	33716	0
+Landbouw	33717	0
+Landbouw	33718	0
+Landbouw	33719	0
+Landbouw	33720	0
+Landbouw	33739	0
+Landbouw	33740	0
+Landbouw	33741	0
+Landbouw	33742	0
+Landbouw	33743	0
+Landbouw	33744	0
+Landbouw	34057	0
+Landbouw	34058	0
+Landbouw	34059	0
+Landbouw	34060	0
+Landbouw	34061	0
+Landbouw	34062	0
+Landbouw	34063	0
+Landbouw	34064	0
+Landbouw	34065	0
+Landbouw	34066	5
+Landbouw	34067	0
+Landbouw	34068	0
+Landbouw	34069	0
+Landbouw	34070	1
+Landbouw	34071	0
+Landbouw	34072	0
+Landbouw	34073	0
+Landbouw	34074	0
+Landbouw	34075	0
+Landbouw	34076	0
+Landbouw	34077	0
+Landbouw	34078	0
+Landbouw	34079	0
+Landbouw	34080	0
+Landbouw	34153	0
+Landbouw	34154	0
+Landbouw	34155	0
+Landbouw	34156	0
+Landbouw	34157	0
+Landbouw	34158	0
+Landbouw	34285	2
+Landbouw	34286	32
+Landbouw	34287	0
+Landbouw	34288	0
+Landbouw	34289	6
+Landbouw	34290	4
+Landbouw	34291	0
+Landbouw	34292	0
+Landbouw	34293	0
+Landbouw	34294	0
+Landbouw	34295	0
+Landbouw	34296	0
+Landbouw	34435	0
+Landbouw	34436	0
+Landbouw	34437	2
+Landbouw	34439	0
+Landbouw	34440	0
+Landbouw	34465	0
+Landbouw	34466	0
+Landbouw	34467	0
+Landbouw	34468	0
+Landbouw	34469	0
+Landbouw	34470	0
+Landbouw	34471	0
+Landbouw	34472	0
+Landbouw	34473	0
+Landbouw	34474	0
+Landbouw	34475	0
+Landbouw	34476	0
+Landbouw	34789	0
+Landbouw	34790	0
+Landbouw	34791	0
+Landbouw	34792	0
+Landbouw	34793	0
+Landbouw	34794	0
+Landbouw	34795	0
+Landbouw	34796	0
+Landbouw	34797	0
+Landbouw	34798	0
+Landbouw	34799	0
+Landbouw	34800	0
+Landbouw	34831	4
+Landbouw	34832	6
+Landbouw	34833	0
+Landbouw	34834	4
+Landbouw	34835	15
+Landbouw	34836	0
+Landbouw	35065	0
+Landbouw	35066	0
+Landbouw	35067	0
+Landbouw	35069	0
+Landbouw	35070	0
+Landbouw	35131	0
+Landbouw	35132	0
+Landbouw	35133	0
+Landbouw	35134	0
+Landbouw	35135	0
+Landbouw	35136	0
+Landbouw	35341	0
+Landbouw	35342	0
+Landbouw	35343	0
+Landbouw	35344	0
+Landbouw	35345	0
+Landbouw	35346	0
+Landbouw	35527	6
+Landbouw	35528	0
+Landbouw	35529	0
+Landbouw	35531	0
+Landbouw	35532	0
+Landbouw	35677	5
+Landbouw	35678	0
+Landbouw	35679	0
+Landbouw	35680	0
+Landbouw	35681	0
+Landbouw	35682	0
+Landbouw	35683	0
+Landbouw	35684	0
+Landbouw	35685	0
+Landbouw	35686	0
+Landbouw	35687	0
+Landbouw	35688	0
+Landbouw	35719	0
+Landbouw	35720	0
+Landbouw	35721	0
+Landbouw	35722	0
+Landbouw	35723	0
+Landbouw	35724	0
+Landbouw	35785	0
+Landbouw	35786	5
+Landbouw	35787	0
+Landbouw	35788	0
+Landbouw	35789	0
+Landbouw	35790	0
+Landbouw	35797	0
+Landbouw	35799	0
+Landbouw	35801	0
+Landbouw	35802	0
+Landbouw	36457	0
+Landbouw	36458	0
+Landbouw	36459	0
+Landbouw	36460	0
+Landbouw	36461	0
+Landbouw	36462	0
+Landbouw	36469	0
+Landbouw	36470	0
+Landbouw	36471	0
+Landbouw	36472	2
+Landbouw	36473	0
+Landbouw	36474	0
+Landbouw	36487	0
+Landbouw	36488	0
+Landbouw	36489	0
+Landbouw	36490	0
+Landbouw	36491	0
+Landbouw	36492	0
+Landbouw	36505	4
+Landbouw	36506	0
+Landbouw	36507	4
+Landbouw	36508	0
+Landbouw	36509	4
+Landbouw	36510	1
+Landbouw	36517	0
+Landbouw	36518	0
+Landbouw	36519	0
+Landbouw	36520	0
+Landbouw	36521	0
+Landbouw	36522	4
+Landbouw	36535	7
+Landbouw	36536	2
+Landbouw	36537	3
+Landbouw	36538	0
+Landbouw	36539	7
+Landbouw	36540	0
+Landbouw	37075	2
+Landbouw	37076	1
+Landbouw	37077	1
+Landbouw	37078	0
+Landbouw	37079	0
+Landbouw	37080	0
+Landbouw	37081	4
+Landbouw	37082	0
+Landbouw	37083	0
+Landbouw	37084	0
+Landbouw	37085	2
+Landbouw	37086	0
+Landbouw	37087	0
+Landbouw	37088	0
+Landbouw	37089	0
+Landbouw	37090	0
+Landbouw	37091	0
+Landbouw	37092	0
+Landbouw	37735	0
+Landbouw	37736	0
+Landbouw	37737	0
+Landbouw	37738	0
+Landbouw	37739	0
+Landbouw	37740	0
+Landbouw	37753	0
+Landbouw	37754	0
+Landbouw	37755	0
+Landbouw	37756	0
+Landbouw	37757	0
+Landbouw	37758	0
+Landbouw	37945	0
+Landbouw	37946	0
+Landbouw	37947	4
+Landbouw	37948	0
+Landbouw	37949	0
+Landbouw	37950	0
+Landbouw	38065	0
+Landbouw	38066	0
+Landbouw	38067	0
+Landbouw	38068	0
+Landbouw	38069	5
+Landbouw	38070	0
+Landbouw	38071	0
+Landbouw	38072	1
+Landbouw	38073	0
+Landbouw	38074	0
+Landbouw	38075	0
+Landbouw	38076	0
+Landbouw	38125	2
+Landbouw	38126	0
+Landbouw	38128	0
+Landbouw	38129	0
+Landbouw	38130	0
+Landbouw	38233	0
+Landbouw	38234	0
+Landbouw	38235	0
+Landbouw	38236	0
+Landbouw	38237	0
+Landbouw	38238	0
+Landbouw	38239	0
+Landbouw	38240	0
+Landbouw	38242	0
+Landbouw	38243	0
+Landbouw	38244	0
+Landbouw	38329	0
+Landbouw	38330	0
+Landbouw	38331	0
+Landbouw	38332	0
+Landbouw	38333	0
+Landbouw	38334	0
+Landbouw	38467	0
+Landbouw	38468	0
+Landbouw	38469	0
+Landbouw	38470	0
+Landbouw	38471	7
+Landbouw	38472	2
+Landbouw	38473	0
+Landbouw	38474	0
+Landbouw	38475	0
+Landbouw	38476	0
+Landbouw	38477	0
+Landbouw	38478	0
+Landbouw	38935	0
+Landbouw	38936	0
+Landbouw	38937	0
+Landbouw	38938	2
+Landbouw	38939	0
+Landbouw	38940	0
+Landbouw	38947	0
+Landbouw	38948	0
+Landbouw	38949	0
+Landbouw	38950	2
+Landbouw	38951	0
+Landbouw	38952	0
+Landbouw	38959	0
+Landbouw	38960	0
+Landbouw	38961	0
+Landbouw	38962	0
+Landbouw	38963	0
+Landbouw	38964	0
+Landbouw	39193	0
+Landbouw	39194	0
+Landbouw	39195	0
+Landbouw	39196	0
+Landbouw	39197	0
+Landbouw	39198	0
+Landbouw	39199	0
+Landbouw	39200	0
+Landbouw	39201	0
+Landbouw	39202	0
+Landbouw	39203	0
+Landbouw	39204	0
+Landbouw	39259	0
+Landbouw	39260	0
+Landbouw	39261	0
+Landbouw	39262	0
+Landbouw	39263	0
+Landbouw	39264	0
+Landbouw	39289	1
+Landbouw	39290	0
+Landbouw	39291	0
+Landbouw	39292	0
+Landbouw	39293	0
+Landbouw	39294	0
+Landbouw	39295	6
+Landbouw	39296	0
+Landbouw	39297	0
+Landbouw	39298	0
+Landbouw	39299	0
+Landbouw	39300	0
+Landbouw	39301	0
+Landbouw	39302	0
+Landbouw	39303	0
+Landbouw	39304	0
+Landbouw	39305	0
+Landbouw	39306	0
+Landbouw	39403	0
+Landbouw	39404	0
+Landbouw	39405	0
+Landbouw	39406	0
+Landbouw	39407	0
+Landbouw	39408	0
+Landbouw	39487	0
+Landbouw	39488	0
+Landbouw	39489	0
+Landbouw	39490	0
+Landbouw	39491	7
+Landbouw	39492	0
+Landbouw	39493	0
+Landbouw	39494	0
+Landbouw	39495	0
+Landbouw	39496	0
+Landbouw	39497	0
+Landbouw	39498	0
+Landbouw	39793	0
+Landbouw	39794	0
+Landbouw	39796	0
+Landbouw	39797	30
+Landbouw	39799	0
+Landbouw	39800	0
+Landbouw	39801	0
+Landbouw	39802	0
+Landbouw	39803	0
+Landbouw	39805	0
+Landbouw	39806	0
+Landbouw	39807	0
+Landbouw	39808	0
+Landbouw	39809	0
+Landbouw	39981	0
+Landbouw	39983	0
+Landbouw	39987	0
+Landbouw	39989	0
+Landbouw	39993	0
+Landbouw	39995	0
+Landbouw	40219	0
+Landbouw	40220	0
+Landbouw	40221	0
+Landbouw	40222	0
+Landbouw	40223	0
+Landbouw	40224	0
+Landbouw	40237	0
+Landbouw	40238	0
+Landbouw	40239	0
+Landbouw	40240	0
+Landbouw	40241	0
+Landbouw	40242	0
+Landbouw	40249	0
+Landbouw	40250	0
+Landbouw	40251	0
+Landbouw	40252	0
+Landbouw	40253	0
+Landbouw	40254	0
+Landbouw	41059	0
+Landbouw	41060	0
+Landbouw	41061	0
+Landbouw	41062	0
+Landbouw	41063	0
+Landbouw	41064	0
+Landbouw	41401	0
+Landbouw	41402	0
+Landbouw	41403	0
+Landbouw	41404	0
+Landbouw	41405	0
+Landbouw	41406	3
+Landbouw	41503	2
+Landbouw	41504	0
+Landbouw	41505	2
+Landbouw	41506	0
+Landbouw	41507	0
+Landbouw	41508	2
+Landbouw	41515	0
+Landbouw	41516	0
+Landbouw	41517	0
+Landbouw	41518	0
+Landbouw	41519	0
+Landbouw	41520	0
+Landbouw	41629	0
+Landbouw	41630	0
+Landbouw	41631	0
+Landbouw	41632	0
+Landbouw	41633	0
+Landbouw	41634	0
+Landbouw	41863	0
+Landbouw	41864	0
+Landbouw	41865	0
+Landbouw	41866	0
+Landbouw	41867	0
+Landbouw	41868	0
+Landbouw	41875	0
+Landbouw	41876	0
+Landbouw	41877	0
+Landbouw	41878	0
+Landbouw	41879	0
+Landbouw	41880	0
+Landbouw	41959	1
+Landbouw	41960	0
+Landbouw	41961	0
+Landbouw	41962	0
+Landbouw	41963	0
+Landbouw	41964	0
+Landbouw	41965	0
+Landbouw	41966	0
+Landbouw	41967	0
+Landbouw	41968	0
+Landbouw	41969	0
+Landbouw	41970	0
+Landbouw	42043	2
+Landbouw	42044	17
+Landbouw	42045	0
+Landbouw	42046	0
+Landbouw	42047	0
+Landbouw	42048	0
+Landbouw	42049	0
+Landbouw	42050	0
+Landbouw	42051	0
+Landbouw	42052	2
+Landbouw	42053	0
+Landbouw	42054	0
+Landbouw	42085	0
+Landbouw	42086	0
+Landbouw	42087	0
+Landbouw	42088	0
+Landbouw	42089	0
+Landbouw	42090	0
+Landbouw	42091	0
+Landbouw	42092	0
+Landbouw	42093	0
+Landbouw	42094	0
+Landbouw	42095	0
+Landbouw	42096	0
+Landbouw	42121	0
+Landbouw	42122	0
+Landbouw	42123	0
+Landbouw	42124	0
+Landbouw	42125	0
+Landbouw	42126	0
+Landbouw	42127	0
+Landbouw	42128	0
+Landbouw	42129	0
+Landbouw	42130	1
+Landbouw	42131	0
+Landbouw	42132	0
+Landbouw	42529	0
+Landbouw	42531	0
+Landbouw	42532	0
+Landbouw	42533	4
+Landbouw	42534	0
+Landbouw	42535	0
+Landbouw	42537	0
+Landbouw	42538	0
+Landbouw	42539	0
+Landbouw	42540	0
+Landbouw	42541	0
+Landbouw	42543	0
+Landbouw	42544	0
+Landbouw	42545	0
+Landbouw	42546	0
+Landbouw	42547	0
+Landbouw	42549	0
+Landbouw	42550	0
+Landbouw	42551	0
+Landbouw	42552	0
+Landbouw	42643	0
+Landbouw	42644	0
+Landbouw	42645	0
+Landbouw	42646	0
+Landbouw	42647	0
+Landbouw	42648	0
+Landbouw	42649	0
+Landbouw	42650	0
+Landbouw	42651	0
+Landbouw	42652	0
+Landbouw	42653	1
+Landbouw	42654	0
+Landbouw	42655	0
+Landbouw	42656	0
+Landbouw	42657	0
+Landbouw	42658	0
+Landbouw	42659	0
+Landbouw	42660	0
+Landbouw	42685	0
+Landbouw	42686	0
+Landbouw	42687	0
+Landbouw	42688	3
+Landbouw	42689	0
+Landbouw	42690	0
+Landbouw	42871	0
+Landbouw	42872	0
+Landbouw	42873	0
+Landbouw	42874	0
+Landbouw	42875	0
+Landbouw	42876	0
+Landbouw	42877	0
+Landbouw	42878	0
+Landbouw	42879	0
+Landbouw	42880	0
+Landbouw	42881	0
+Landbouw	42882	0
+Landbouw	42901	0
+Landbouw	42902	0
+Landbouw	42903	0
+Landbouw	42904	0
+Landbouw	42905	0
+Landbouw	42906	0
+Landbouw	42925	0
+Landbouw	42926	0
+Landbouw	42927	0
+Landbouw	42928	0
+Landbouw	42929	0
+Landbouw	42930	0
+Landbouw	42979	0
+Landbouw	42980	0
+Landbouw	42981	0
+Landbouw	42982	0
+Landbouw	42983	0
+Landbouw	42984	0
+Landbouw	42985	0
+Landbouw	42986	0
+Landbouw	42987	0
+Landbouw	42988	0
+Landbouw	42989	0
+Landbouw	42990	0
+Landbouw	43029	0
+Landbouw	43031	0
+Landbouw	43213	5
+Landbouw	43214	15
+Landbouw	43215	0
+Landbouw	43216	0
+Landbouw	43217	0
+Landbouw	43218	0
+Landbouw	43225	0
+Landbouw	43226	2
+Landbouw	43227	0
+Landbouw	43228	0
+Landbouw	43229	0
+Landbouw	43230	0
+Landbouw	43237	0
+Landbouw	43238	3
+Landbouw	43239	0
+Landbouw	43240	0
+Landbouw	43241	0
+Landbouw	43242	0
+Landbouw	43645	0
+Landbouw	43646	0
+Landbouw	43647	0
+Landbouw	43648	0
+Landbouw	43649	0
+Landbouw	43650	0
+Landbouw	43651	0
+Landbouw	43652	0
+Landbouw	43653	0
+Landbouw	43654	0
+Landbouw	43655	0
+Landbouw	43656	0
+Landbouw	43801	32
+Landbouw	43802	0
+Landbouw	43803	0
+Landbouw	43804	0
+Landbouw	43805	0
+Landbouw	43806	0
+Landbouw	43813	0
+Landbouw	43814	0
+Landbouw	43815	3
+Landbouw	43816	0
+Landbouw	43817	2
+Landbouw	43818	0
+Landbouw	43873	0
+Landbouw	43874	0
+Landbouw	43875	0
+Landbouw	43876	4
+Landbouw	43877	0
+Landbouw	43878	0
+Landbouw	43879	0
+Landbouw	43880	0
+Landbouw	43881	0
+Landbouw	43882	0
+Landbouw	43883	0
+Landbouw	43884	0
+Landbouw	44047	0
+Landbouw	44048	2
+Landbouw	44049	2
+Landbouw	44050	0
+Landbouw	44051	0
+Landbouw	44052	0
+Landbouw	44053	0
+Landbouw	44054	0
+Landbouw	44055	0
+Landbouw	44056	0
+Landbouw	44057	1
+Landbouw	44058	0
+Landbouw	44059	0
+Landbouw	44060	0
+Landbouw	44061	0
+Landbouw	44062	0
+Landbouw	44063	0
+Landbouw	44064	0
+Landbouw	44077	0
+Landbouw	44078	0
+Landbouw	44079	0
+Landbouw	44080	0
+Landbouw	44081	0
+Landbouw	44082	0
+Landbouw	44107	0
+Landbouw	44108	0
+Landbouw	44109	0
+Landbouw	44110	0
+Landbouw	44111	0
+Landbouw	44112	0
+Landbouw	45361	30
+Landbouw	45362	16
+Landbouw	45363	0
+Landbouw	45364	0
+Landbouw	45365	0
+Landbouw	45366	0
+Landbouw	45367	0
+Landbouw	45368	0
+Landbouw	45369	0
+Landbouw	45370	0
+Landbouw	45371	0
+Landbouw	45372	0
+Landbouw	45373	3
+Landbouw	45374	7
+Landbouw	45375	19
+Landbouw	45376	2
+Landbouw	45377	3
+Landbouw	45378	2
+Landbouw	45547	0
+Landbouw	45548	0
+Landbouw	45549	0
+Landbouw	45550	0
+Landbouw	45551	0
+Landbouw	45552	0
+Landbouw	45553	0
+Landbouw	45554	0
+Landbouw	45555	0
+Landbouw	45556	0
+Landbouw	45557	0
+Landbouw	45558	2
+Landbouw	45559	0
+Landbouw	45560	0
+Landbouw	45561	0
+Landbouw	45562	0
+Landbouw	45563	0
+Landbouw	45564	0
+Moeras en water	1825	0
+Moeras en water	1826	0
+Moeras en water	1827	0
+Moeras en water	1828	0
+Moeras en water	1829	0
+Moeras en water	1830	0
+Moeras en water	2425	0
+Moeras en water	2426	0
+Moeras en water	2427	0
+Moeras en water	2428	0
+Moeras en water	2429	0
+Moeras en water	2430	0
+Moeras en water	2437	0
+Moeras en water	2438	0
+Moeras en water	2439	0
+Moeras en water	2440	0
+Moeras en water	2441	0
+Moeras en water	2442	0
+Moeras en water	2713	0
+Moeras en water	2714	0
+Moeras en water	2715	2
+Moeras en water	2716	1
+Moeras en water	2717	2
+Moeras en water	2718	0
+Moeras en water	3517	6
+Moeras en water	3518	0
+Moeras en water	3519	0
+Moeras en water	3520	5
+Moeras en water	3521	0
+Moeras en water	3522	0
+Moeras en water	3529	0
+Moeras en water	3530	0
+Moeras en water	3531	0
+Moeras en water	3532	6
+Moeras en water	3533	0
+Moeras en water	3534	0
+Moeras en water	3535	4
+Moeras en water	3536	0
+Moeras en water	3537	6
+Moeras en water	3538	4
+Moeras en water	3539	0
+Moeras en water	3540	0
+Moeras en water	3841	0
+Moeras en water	3842	0
+Moeras en water	3843	0
+Moeras en water	3844	49
+Moeras en water	3845	2
+Moeras en water	3846	20
+Moeras en water	3847	0
+Moeras en water	3848	0
+Moeras en water	3849	0
+Moeras en water	3850	91
+Moeras en water	3851	0
+Moeras en water	3852	85
+Moeras en water	3853	0
+Moeras en water	3854	0
+Moeras en water	3855	0
+Moeras en water	3856	13
+Moeras en water	3857	0
+Moeras en water	3858	0
+Moeras en water	4021	0
+Moeras en water	4022	0
+Moeras en water	4023	0
+Moeras en water	4024	0
+Moeras en water	4025	0
+Moeras en water	4026	0
+Moeras en water	4027	0
+Moeras en water	4028	0
+Moeras en water	4029	0
+Moeras en water	4030	0
+Moeras en water	4031	0
+Moeras en water	4032	0
+Moeras en water	4033	0
+Moeras en water	4034	0
+Moeras en water	4035	0
+Moeras en water	4036	0
+Moeras en water	4037	0
+Moeras en water	4038	0
+Moeras en water	4039	0
+Moeras en water	4040	3
+Moeras en water	4041	0
+Moeras en water	4042	0
+Moeras en water	4043	3
+Moeras en water	4044	1
+Moeras en water	4045	0
+Moeras en water	4046	0
+Moeras en water	4047	0
+Moeras en water	4048	0
+Moeras en water	4049	0
+Moeras en water	4050	0
+Moeras en water	4051	0
+Moeras en water	4052	0
+Moeras en water	4053	0
+Moeras en water	4054	0
+Moeras en water	4055	0
+Moeras en water	4056	0
+Moeras en water	4519	0
+Moeras en water	4520	0
+Moeras en water	4521	0
+Moeras en water	4522	0
+Moeras en water	4523	0
+Moeras en water	4524	0
+Moeras en water	6271	0
+Moeras en water	6272	0
+Moeras en water	6273	0
+Moeras en water	6274	0
+Moeras en water	6275	0
+Moeras en water	6276	0
+Moeras en water	6277	0
+Moeras en water	6278	0
+Moeras en water	6279	0
+Moeras en water	6280	0
+Moeras en water	6281	0
+Moeras en water	6282	0
+Moeras en water	6283	0
+Moeras en water	6284	0
+Moeras en water	6285	0
+Moeras en water	6286	2
+Moeras en water	6287	0
+Moeras en water	6288	0
+Moeras en water	6301	0
+Moeras en water	6302	0
+Moeras en water	6303	0
+Moeras en water	6304	0
+Moeras en water	6305	0
+Moeras en water	6306	0
+Moeras en water	6307	0
+Moeras en water	6308	0
+Moeras en water	6309	0
+Moeras en water	6310	0
+Moeras en water	6311	0
+Moeras en water	6312	0
+Moeras en water	6313	0
+Moeras en water	6314	0
+Moeras en water	6315	0
+Moeras en water	6316	0
+Moeras en water	6317	0
+Moeras en water	6318	0
+Moeras en water	16585	0
+Moeras en water	16586	0
+Moeras en water	16587	0
+Moeras en water	16588	0
+Moeras en water	16589	0
+Moeras en water	16590	0
+Moeras en water	16591	0
+Moeras en water	16592	0
+Moeras en water	16593	0
+Moeras en water	16594	0
+Moeras en water	16595	0
+Moeras en water	16596	0
+Moeras en water	16597	0
+Moeras en water	16598	0
+Moeras en water	16599	0
+Moeras en water	16600	0
+Moeras en water	16601	0
+Moeras en water	16602	0
+Moeras en water	16603	0
+Moeras en water	16604	0
+Moeras en water	16605	0
+Moeras en water	16606	0
+Moeras en water	16607	0
+Moeras en water	16608	0
+Moeras en water	16609	0
+Moeras en water	16610	0
+Moeras en water	16611	0
+Moeras en water	16612	0
+Moeras en water	16613	0
+Moeras en water	16614	0
+Moeras en water	16615	0
+Moeras en water	16616	0
+Moeras en water	16617	0
+Moeras en water	16618	0
+Moeras en water	16619	0
+Moeras en water	16620	0
+Moeras en water	17311	0
+Moeras en water	17312	0
+Moeras en water	17313	0
+Moeras en water	17314	6
+Moeras en water	17315	2
+Moeras en water	17316	0
+Moeras en water	17359	0
+Moeras en water	17360	0
+Moeras en water	17361	0
+Moeras en water	17362	0
+Moeras en water	17363	0
+Moeras en water	17364	0
+Moeras en water	17371	0
+Moeras en water	17372	0
+Moeras en water	17373	0
+Moeras en water	17374	0
+Moeras en water	17375	0
+Moeras en water	17376	0
+Moeras en water	17599	0
+Moeras en water	17600	0
+Moeras en water	17601	0
+Moeras en water	17602	0
+Moeras en water	17603	0
+Moeras en water	17604	0
+Moeras en water	17605	0
+Moeras en water	17606	0
+Moeras en water	17607	0
+Moeras en water	17608	0
+Moeras en water	17609	0
+Moeras en water	17610	0
+Moeras en water	17611	0
+Moeras en water	17612	0
+Moeras en water	17613	0
+Moeras en water	17614	0
+Moeras en water	17615	0
+Moeras en water	17616	0
+Moeras en water	17683	0
+Moeras en water	17684	0
+Moeras en water	17685	0
+Moeras en water	17686	0
+Moeras en water	17687	0
+Moeras en water	17688	0
+Moeras en water	17689	0
+Moeras en water	17690	0
+Moeras en water	17691	0
+Moeras en water	17692	0
+Moeras en water	17693	0
+Moeras en water	17694	0
+Moeras en water	17695	0
+Moeras en water	17696	0
+Moeras en water	17697	0
+Moeras en water	17698	0
+Moeras en water	17699	0
+Moeras en water	17700	0
+Moeras en water	17893	0
+Moeras en water	17894	0
+Moeras en water	17895	0
+Moeras en water	17896	0
+Moeras en water	17897	0
+Moeras en water	17898	0
+Moeras en water	17899	0
+Moeras en water	17900	0
+Moeras en water	17901	0
+Moeras en water	17902	0
+Moeras en water	17903	0
+Moeras en water	17904	0
+Moeras en water	19057	0
+Moeras en water	19058	0
+Moeras en water	19059	0
+Moeras en water	19060	0
+Moeras en water	19061	0
+Moeras en water	19062	0
+Moeras en water	19063	0
+Moeras en water	19064	0
+Moeras en water	19065	0
+Moeras en water	19066	0
+Moeras en water	19067	0
+Moeras en water	19068	0
+Moeras en water	19069	0
+Moeras en water	19070	0
+Moeras en water	19071	0
+Moeras en water	19072	0
+Moeras en water	19073	0
+Moeras en water	19074	0
+Moeras en water	19627	0
+Moeras en water	19628	0
+Moeras en water	19629	0
+Moeras en water	19630	0
+Moeras en water	19631	0
+Moeras en water	19632	0
+Moeras en water	19633	0
+Moeras en water	19634	0
+Moeras en water	19635	0
+Moeras en water	19636	0
+Moeras en water	19637	0
+Moeras en water	19638	0
+Moeras en water	19639	0
+Moeras en water	19640	0
+Moeras en water	19641	0
+Moeras en water	19642	0
+Moeras en water	19643	0
+Moeras en water	19644	0
+Moeras en water	20287	0
+Moeras en water	20288	0
+Moeras en water	20289	0
+Moeras en water	20290	0
+Moeras en water	20291	0
+Moeras en water	20292	0
+Moeras en water	20299	0
+Moeras en water	20300	0
+Moeras en water	20301	0
+Moeras en water	20302	0
+Moeras en water	20303	0
+Moeras en water	20304	0
+Moeras en water	20317	0
+Moeras en water	20318	0
+Moeras en water	20319	0
+Moeras en water	20320	0
+Moeras en water	20321	0
+Moeras en water	20322	0
+Moeras en water	20329	0
+Moeras en water	20330	0
+Moeras en water	20331	0
+Moeras en water	20332	0
+Moeras en water	20333	0
+Moeras en water	20334	0
+Moeras en water	20341	0
+Moeras en water	20342	0
+Moeras en water	20343	0
+Moeras en water	20344	0
+Moeras en water	20345	0
+Moeras en water	20346	0
+Moeras en water	23173	0
+Moeras en water	23174	0
+Moeras en water	23175	0
+Moeras en water	23176	0
+Moeras en water	23177	0
+Moeras en water	23178	0
+Moeras en water	23179	0
+Moeras en water	23180	0
+Moeras en water	23181	0
+Moeras en water	23182	0
+Moeras en water	23183	0
+Moeras en water	23184	0
+Moeras en water	26731	6
+Moeras en water	26732	4
+Moeras en water	26733	9
+Moeras en water	26734	0
+Moeras en water	26735	12
+Moeras en water	26736	2
+Moeras en water	26737	9
+Moeras en water	26738	0
+Moeras en water	26739	0
+Moeras en water	26740	0
+Moeras en water	26741	0
+Moeras en water	26742	0
+Moeras en water	28003	0
+Moeras en water	28004	0
+Moeras en water	28005	0
+Moeras en water	28006	0
+Moeras en water	28007	0
+Moeras en water	28008	0
+Moeras en water	28015	0
+Moeras en water	28016	0
+Moeras en water	28017	0
+Moeras en water	28018	0
+Moeras en water	28019	0
+Moeras en water	28020	2
+Moeras en water	28027	0
+Moeras en water	28028	0
+Moeras en water	28029	0
+Moeras en water	28030	0
+Moeras en water	28031	0
+Moeras en water	28032	0
+Moeras en water	28819	0
+Moeras en water	28820	0
+Moeras en water	28821	0
+Moeras en water	28822	0
+Moeras en water	28823	0
+Moeras en water	28824	1
+Moeras en water	28825	0
+Moeras en water	28826	0
+Moeras en water	28827	0
+Moeras en water	28828	0
+Moeras en water	28829	0
+Moeras en water	28830	2
+Moeras en water	28831	0
+Moeras en water	28832	0
+Moeras en water	28833	0
+Moeras en water	28834	0
+Moeras en water	28835	0
+Moeras en water	28836	0
+Moeras en water	29293	0
+Moeras en water	29294	0
+Moeras en water	29295	0
+Moeras en water	29296	24
+Moeras en water	29297	37
+Moeras en water	29298	0
+Moeras en water	29299	0
+Moeras en water	29300	0
+Moeras en water	29301	3
+Moeras en water	29302	7
+Moeras en water	29303	12
+Moeras en water	29304	9
+Moeras en water	29371	0
+Moeras en water	29372	0
+Moeras en water	29373	0
+Moeras en water	29374	0
+Moeras en water	29375	2
+Moeras en water	29376	0
+Moeras en water	29377	0
+Moeras en water	29378	0
+Moeras en water	29379	2
+Moeras en water	29380	0
+Moeras en water	29381	0
+Moeras en water	29382	0
+Moeras en water	29383	0
+Moeras en water	29384	0
+Moeras en water	29385	0
+Moeras en water	29386	0
+Moeras en water	29387	0
+Moeras en water	29388	0
+Moeras en water	29887	0
+Moeras en water	29888	0
+Moeras en water	29889	0
+Moeras en water	29890	0
+Moeras en water	29891	2
+Moeras en water	29892	2
+Moeras en water	30223	0
+Moeras en water	30224	4
+Moeras en water	30225	11
+Moeras en water	30226	38
+Moeras en water	30227	31
+Moeras en water	30228	1
+Moeras en water	30265	0
+Moeras en water	30266	12
+Moeras en water	30267	0
+Moeras en water	30268	0
+Moeras en water	30269	0
+Moeras en water	30270	0
+Moeras en water	30271	0
+Moeras en water	30272	0
+Moeras en water	30273	0
+Moeras en water	30274	0
+Moeras en water	30275	0
+Moeras en water	30276	0
+Moeras en water	30283	0
+Moeras en water	30284	0
+Moeras en water	30285	0
+Moeras en water	30286	0
+Moeras en water	30287	0
+Moeras en water	30288	0
+Moeras en water	30289	0
+Moeras en water	30290	0
+Moeras en water	30291	2
+Moeras en water	30292	2
+Moeras en water	30293	0
+Moeras en water	30294	2
+Moeras en water	30637	0
+Moeras en water	30638	0
+Moeras en water	30639	54
+Moeras en water	30640	3
+Moeras en water	30641	0
+Moeras en water	30642	0
+Moeras en water	30649	0
+Moeras en water	30650	0
+Moeras en water	30651	0
+Moeras en water	30652	0
+Moeras en water	30653	0
+Moeras en water	30654	0
+Moeras en water	30793	0
+Moeras en water	30794	0
+Moeras en water	30795	0
+Moeras en water	30796	0
+Moeras en water	30797	0
+Moeras en water	30798	0
+Moeras en water	30829	0
+Moeras en water	30830	0
+Moeras en water	30831	0
+Moeras en water	30832	0
+Moeras en water	30833	0
+Moeras en water	30834	0
+Moeras en water	31225	0
+Moeras en water	31226	0
+Moeras en water	31227	0
+Moeras en water	31228	0
+Moeras en water	31229	0
+Moeras en water	31230	0
+Moeras en water	31531	0
+Moeras en water	31532	0
+Moeras en water	31533	0
+Moeras en water	31534	0
+Moeras en water	31535	0
+Moeras en water	31536	0
+Moeras en water	31555	0
+Moeras en water	31556	1
+Moeras en water	31557	1
+Moeras en water	31558	195
+Moeras en water	31559	0
+Moeras en water	31560	6
+Moeras en water	33331	0
+Moeras en water	33332	0
+Moeras en water	33333	0
+Moeras en water	33334	0
+Moeras en water	33335	0
+Moeras en water	33336	0
+Moeras en water	33337	0
+Moeras en water	33338	0
+Moeras en water	33339	0
+Moeras en water	33340	0
+Moeras en water	33341	0
+Moeras en water	33342	0
+Moeras en water	33343	0
+Moeras en water	33344	0
+Moeras en water	33345	0
+Moeras en water	33346	0
+Moeras en water	33347	0
+Moeras en water	33348	0
+Moeras en water	34195	0
+Moeras en water	34196	0
+Moeras en water	34197	1
+Moeras en water	34198	0
+Moeras en water	34199	3
+Moeras en water	34200	0
+Moeras en water	34393	0
+Moeras en water	34394	0
+Moeras en water	34395	0
+Moeras en water	34396	0
+Moeras en water	34397	0
+Moeras en water	34398	2
+Moeras en water	34801	0
+Moeras en water	34802	0
+Moeras en water	34803	0
+Moeras en water	34804	0
+Moeras en water	34805	0
+Moeras en water	34806	0
+Moeras en water	34825	0
+Moeras en water	34826	0
+Moeras en water	34827	0
+Moeras en water	34828	0
+Moeras en water	34829	0
+Moeras en water	34830	2
+Moeras en water	35047	0
+Moeras en water	35048	0
+Moeras en water	35049	0
+Moeras en water	35050	0
+Moeras en water	35051	0
+Moeras en water	35052	6
+Moeras en water	35053	4
+Moeras en water	35054	0
+Moeras en water	35055	0
+Moeras en water	35056	0
+Moeras en water	35057	0
+Moeras en water	35058	0
+Moeras en water	35227	0
+Moeras en water	35228	0
+Moeras en water	35229	0
+Moeras en water	35230	0
+Moeras en water	35231	0
+Moeras en water	35232	0
+Moeras en water	35449	0
+Moeras en water	35450	0
+Moeras en water	35451	0
+Moeras en water	35452	2
+Moeras en water	35453	0
+Moeras en water	35454	0
+Moeras en water	35461	0
+Moeras en water	35462	0
+Moeras en water	35463	0
+Moeras en water	35464	0
+Moeras en water	35465	0
+Moeras en water	35466	0
+Moeras en water	35659	0
+Moeras en water	35660	0
+Moeras en water	35661	1
+Moeras en water	35662	0
+Moeras en water	35663	0
+Moeras en water	35664	0
+Moeras en water	35869	0
+Moeras en water	35870	0
+Moeras en water	35871	0
+Moeras en water	35872	0
+Moeras en water	35873	0
+Moeras en water	35874	0
+Moeras en water	36223	0
+Moeras en water	36224	0
+Moeras en water	36225	0
+Moeras en water	36226	0
+Moeras en water	36227	0
+Moeras en water	36228	0
+Moeras en water	36229	0
+Moeras en water	36230	0
+Moeras en water	36231	0
+Moeras en water	36232	0
+Moeras en water	36233	0
+Moeras en water	36234	0
+Moeras en water	36235	0
+Moeras en water	36236	0
+Moeras en water	36237	0
+Moeras en water	36238	0
+Moeras en water	36239	0
+Moeras en water	36240	12
+Moeras en water	36655	0
+Moeras en water	36656	0
+Moeras en water	36657	2
+Moeras en water	36658	0
+Moeras en water	36659	0
+Moeras en water	36660	4
+Moeras en water	36661	0
+Moeras en water	36662	0
+Moeras en water	36663	0
+Moeras en water	36664	0
+Moeras en water	36665	0
+Moeras en water	36666	2
+Moeras en water	36667	0
+Moeras en water	36668	0
+Moeras en water	36669	0
+Moeras en water	36670	0
+Moeras en water	36671	0
+Moeras en water	36672	0
+Moeras en water	37285	0
+Moeras en water	37286	0
+Moeras en water	37287	0
+Moeras en water	37288	0
+Moeras en water	37289	0
+Moeras en water	37290	8
+Moeras en water	37291	2
+Moeras en water	37292	0
+Moeras en water	37293	0
+Moeras en water	37294	0
+Moeras en water	37295	0
+Moeras en water	37296	0
+Moeras en water	37297	0
+Moeras en water	37298	0
+Moeras en water	37299	0
+Moeras en water	37300	0
+Moeras en water	37301	0
+Moeras en water	37302	0
+Moeras en water	37849	0
+Moeras en water	37850	0
+Moeras en water	37851	0
+Moeras en water	37852	0
+Moeras en water	37853	0
+Moeras en water	37854	0
+Moeras en water	38029	0
+Moeras en water	38030	0
+Moeras en water	38031	0
+Moeras en water	38032	0
+Moeras en water	38033	0
+Moeras en water	38034	0
+Moeras en water	38617	0
+Moeras en water	38618	0
+Moeras en water	38619	0
+Moeras en water	38620	0
+Moeras en water	38621	0
+Moeras en water	38622	0
+Moeras en water	39691	1
+Moeras en water	39692	0
+Moeras en water	39693	4
+Moeras en water	39694	0
+Moeras en water	39695	0
+Moeras en water	39696	20
+Moeras en water	40027	0
+Moeras en water	40028	0
+Moeras en water	40029	0
+Moeras en water	40030	0
+Moeras en water	40031	0
+Moeras en water	40032	0
+Moeras en water	40033	0
+Moeras en water	40034	0
+Moeras en water	40035	0
+Moeras en water	40036	0
+Moeras en water	40037	0
+Moeras en water	40038	0
+Moeras en water	40081	0
+Moeras en water	40082	0
+Moeras en water	40083	0
+Moeras en water	40084	0
+Moeras en water	40085	0
+Moeras en water	40086	0
+Moeras en water	40087	0
+Moeras en water	40088	0
+Moeras en water	40089	0
+Moeras en water	40090	0
+Moeras en water	40091	1
+Moeras en water	40092	0
+Moeras en water	40093	0
+Moeras en water	40094	0
+Moeras en water	40095	0
+Moeras en water	40096	0
+Moeras en water	40097	0
+Moeras en water	40098	0
+Moeras en water	40507	0
+Moeras en water	40508	1
+Moeras en water	40509	0
+Moeras en water	40510	0
+Moeras en water	40511	0
+Moeras en water	40512	0
+Moeras en water	40519	0
+Moeras en water	40520	0
+Moeras en water	40521	0
+Moeras en water	40522	0
+Moeras en water	40523	0
+Moeras en water	40524	0
+Moeras en water	40537	0
+Moeras en water	40538	0
+Moeras en water	40539	0
+Moeras en water	40540	2
+Moeras en water	40541	0
+Moeras en water	40542	0
+Moeras en water	40663	0
+Moeras en water	40664	0
+Moeras en water	40665	1
+Moeras en water	40666	0
+Moeras en water	40667	0
+Moeras en water	40668	0
+Moeras en water	40669	0
+Moeras en water	40670	94
+Moeras en water	40671	24
+Moeras en water	40672	0
+Moeras en water	40673	0
+Moeras en water	40674	0
+Moeras en water	40675	1
+Moeras en water	40676	7
+Moeras en water	40677	0
+Moeras en water	40678	0
+Moeras en water	40679	0
+Moeras en water	40680	0
+Moeras en water	41125	6
+Moeras en water	41126	0
+Moeras en water	41127	0
+Moeras en water	41128	0
+Moeras en water	41129	0
+Moeras en water	41130	21
+Moeras en water	41155	0
+Moeras en water	41156	0
+Moeras en water	41157	0
+Moeras en water	41158	0
+Moeras en water	41159	0
+Moeras en water	41160	0
+Moeras en water	41161	0
+Moeras en water	41162	0
+Moeras en water	41163	0
+Moeras en water	41164	0
+Moeras en water	41165	0
+Moeras en water	41166	0
+Moeras en water	41167	0
+Moeras en water	41168	0
+Moeras en water	41169	0
+Moeras en water	41170	0
+Moeras en water	41171	0
+Moeras en water	41172	0
+Moeras en water	41755	0
+Moeras en water	41757	0
+Moeras en water	41758	0
+Moeras en water	41759	0
+Moeras en water	41760	0
+Moeras en water	41767	0
+Moeras en water	41768	2
+Moeras en water	41769	12
+Moeras en water	41770	56
+Moeras en water	41771	12
+Moeras en water	41772	75
+Moeras en water	41839	0
+Moeras en water	41840	2
+Moeras en water	41841	0
+Moeras en water	41842	75
+Moeras en water	41843	1
+Moeras en water	41844	30
+Moeras en water	41851	0
+Moeras en water	41852	0
+Moeras en water	41853	2
+Moeras en water	41854	94
+Moeras en water	41855	4
+Moeras en water	41856	50
+Moeras en water	42253	0
+Moeras en water	42254	0
+Moeras en water	42255	0
+Moeras en water	42256	0
+Moeras en water	42257	0
+Moeras en water	42258	0
+Moeras en water	42493	2
+Moeras en water	42494	0
+Moeras en water	42495	1
+Moeras en water	42496	36
+Moeras en water	42497	37
+Moeras en water	42498	10
+Moeras en water	42727	0
+Moeras en water	42728	0
+Moeras en water	42729	0
+Moeras en water	42730	4
+Moeras en water	42731	2
+Moeras en water	42732	0
+Moeras en water	42733	0
+Moeras en water	42734	0
+Moeras en water	42735	3
+Moeras en water	42736	0
+Moeras en water	42737	0
+Moeras en water	42738	0
+Moeras en water	42751	0
+Moeras en water	42752	0
+Moeras en water	42753	2
+Moeras en water	42754	0
+Moeras en water	42755	0
+Moeras en water	42756	0
+Moeras en water	42787	0
+Moeras en water	42788	3
+Moeras en water	42789	0
+Moeras en water	42790	0
+Moeras en water	42791	0
+Moeras en water	42792	0
+Moeras en water	43381	114
+Moeras en water	43382	0
+Moeras en water	43383	0
+Moeras en water	43384	0
+Moeras en water	43385	0
+Moeras en water	43386	2
+Moeras en water	43603	0
+Moeras en water	43604	0
+Moeras en water	43605	2
+Moeras en water	43606	0
+Moeras en water	43607	1
+Moeras en water	43608	2
+Moeras en water	43609	0
+Moeras en water	43610	0
+Moeras en water	43611	0
+Moeras en water	43612	0
+Moeras en water	43613	0
+Moeras en water	43614	0
+Moeras en water	43615	0
+Moeras en water	43616	0
+Moeras en water	43617	0
+Moeras en water	43618	0
+Moeras en water	43619	0
+Moeras en water	43620	0
+Moeras en water	43747	2
+Moeras en water	43748	0
+Moeras en water	43749	0
+Moeras en water	43750	2
+Moeras en water	43751	2
+Moeras en water	43752	4
+Moeras en water	43753	0
+Moeras en water	43754	0
+Moeras en water	43755	0
+Moeras en water	43756	0
+Moeras en water	43757	0
+Moeras en water	43758	0
+Moeras en water	43759	0
+Moeras en water	43760	0
+Moeras en water	43761	0
+Moeras en water	43762	0
+Moeras en water	43763	0
+Moeras en water	43764	0
+Suburbaan	3969	2
+Suburbaan	3970	0
+Suburbaan	3971	0
+Suburbaan	3972	0
+Suburbaan	3975	0
+Suburbaan	3976	0
+Suburbaan	3977	0
+Suburbaan	3978	0
+Suburbaan	3981	0
+Suburbaan	3982	0
+Suburbaan	3983	0
+Suburbaan	3984	0
+Suburbaan	4771	65
+Suburbaan	4772	0
+Suburbaan	4773	185
+Suburbaan	4774	0
+Suburbaan	4775	62
+Suburbaan	4776	195
+Suburbaan	4777	6
+Suburbaan	4778	0
+Suburbaan	4779	28
+Suburbaan	4780	0
+Suburbaan	4781	2
+Suburbaan	4782	12
+Suburbaan	4783	0
+Suburbaan	4784	0
+Suburbaan	4785	0
+Suburbaan	4786	0
+Suburbaan	4787	0
+Suburbaan	4788	0
+Suburbaan	9889	0
+Suburbaan	9891	0
+Suburbaan	9893	0
+Suburbaan	9925	0
+Suburbaan	9927	8
+Suburbaan	9929	4
+Suburbaan	9985	0
+Suburbaan	9987	0
+Suburbaan	9989	0
+Suburbaan	23125	0
+Suburbaan	23126	0
+Suburbaan	23127	0
+Suburbaan	23128	0
+Suburbaan	23129	0
+Suburbaan	23130	0
+Suburbaan	24811	0
+Suburbaan	24812	0
+Suburbaan	24813	0
+Suburbaan	24814	0
+Suburbaan	24815	0
+Suburbaan	24816	0
+Suburbaan	25807	0
+Suburbaan	25808	0
+Suburbaan	25809	0
+Suburbaan	25810	0
+Suburbaan	25811	0
+Suburbaan	25812	0
+Suburbaan	28729	0
+Suburbaan	28730	0
+Suburbaan	28731	0
+Suburbaan	28732	0
+Suburbaan	28733	0
+Suburbaan	28734	0
+Suburbaan	28735	0
+Suburbaan	28736	0
+Suburbaan	28737	0
+Suburbaan	28738	0
+Suburbaan	28739	0
+Suburbaan	28740	0
+Suburbaan	28741	0
+Suburbaan	28742	0
+Suburbaan	28743	0
+Suburbaan	28744	0
+Suburbaan	28745	0
+Suburbaan	28746	0
+Suburbaan	30205	0
+Suburbaan	30207	0
+Suburbaan	30209	0
+Suburbaan	30471	0
+Suburbaan	30472	0
+Suburbaan	30473	0
+Suburbaan	30474	0
+Suburbaan	30477	0
+Suburbaan	30478	0
+Suburbaan	30479	0
+Suburbaan	30480	0
+Suburbaan	31675	0
+Suburbaan	31677	0
+Suburbaan	31679	0
+Suburbaan	37741	0
+Suburbaan	37742	4
+Suburbaan	37743	22
+Suburbaan	37744	0
+Suburbaan	37745	4
+Suburbaan	37746	0
+Suburbaan	38221	1
+Suburbaan	38222	0
+Suburbaan	38223	2
+Suburbaan	38224	0
+Suburbaan	38225	1
+Suburbaan	38226	2
+Suburbaan	38257	0
+Suburbaan	38258	0
+Suburbaan	38259	0
+Suburbaan	38260	0
+Suburbaan	38261	0
+Suburbaan	38262	0
+Suburbaan	38917	0
+Suburbaan	38918	0
+Suburbaan	38919	0
+Suburbaan	38920	0
+Suburbaan	38921	0
+Suburbaan	38922	0
+Suburbaan	41581	0
+Suburbaan	41583	0
+Suburbaan	41585	0
+Suburbaan	42079	0
+Suburbaan	42080	0
+Suburbaan	42081	0
+Suburbaan	42082	0
+Suburbaan	42083	0
+Suburbaan	42084	0

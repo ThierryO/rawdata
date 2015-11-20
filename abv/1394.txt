@@ -1,3 +1,0 @@
-ObservationID	Count
-21747	1
-29850	1
