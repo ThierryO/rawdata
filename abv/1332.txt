@@ -1,223 +1,223 @@
-Stratum	ObservationID	Count
-Landbouw	3877	0
-Landbouw	3878	0
-Landbouw	3879	0
-Landbouw	3880	0
-Landbouw	3881	0
-Landbouw	3882	0
-Landbouw	3889	0
-Landbouw	3890	0
-Landbouw	3891	1
-Landbouw	3892	0
-Landbouw	3893	0
-Landbouw	3894	0
-Landbouw	4099	0
-Landbouw	4100	0
-Landbouw	4101	0
-Landbouw	4102	1
-Landbouw	4103	0
-Landbouw	4104	0
-Landbouw	4111	0
-Landbouw	4112	0
-Landbouw	4113	0
-Landbouw	4114	0
-Landbouw	4115	0
-Landbouw	4116	0
-Landbouw	15547	0
-Landbouw	15548	1
-Landbouw	15549	0
-Landbouw	15550	0
-Landbouw	15551	0
-Landbouw	15552	0
-Landbouw	15559	0
-Landbouw	15560	0
-Landbouw	15561	0
-Landbouw	15562	0
-Landbouw	15563	0
-Landbouw	15564	0
-Landbouw	18127	0
-Landbouw	18128	0
-Landbouw	18129	0
-Landbouw	18130	0
-Landbouw	18131	0
-Landbouw	18132	0
-Landbouw	18139	0
-Landbouw	18140	0
-Landbouw	18141	0
-Landbouw	18142	0
-Landbouw	18143	0
-Landbouw	18144	0
-Landbouw	19471	0
-Landbouw	19472	0
-Landbouw	19473	1
-Landbouw	19474	0
-Landbouw	19475	1
-Landbouw	19476	0
-Landbouw	19495	0
-Landbouw	19496	0
-Landbouw	19497	0
-Landbouw	19498	0
-Landbouw	19499	0
-Landbouw	19500	0
-Landbouw	23287	0
-Landbouw	23288	0
-Landbouw	23289	0
-Landbouw	23290	0
-Landbouw	23291	0
-Landbouw	23292	0
-Landbouw	29017	0
-Landbouw	29018	0
-Landbouw	29019	0
-Landbouw	29020	0
-Landbouw	29021	0
-Landbouw	29022	0
-Landbouw	29923	1
-Landbouw	29924	0
-Landbouw	29925	0
-Landbouw	29926	0
-Landbouw	29927	0
-Landbouw	29928	0
-Landbouw	31351	0
-Landbouw	31352	0
-Landbouw	31353	0
-Landbouw	31354	0
-Landbouw	31355	0
-Landbouw	31356	0
-Landbouw	31603	0
-Landbouw	31604	0
-Landbouw	31605	0
-Landbouw	31606	0
-Landbouw	31607	0
-Landbouw	31608	0
-Landbouw	34921	0
-Landbouw	34922	0
-Landbouw	34923	0
-Landbouw	34924	0
-Landbouw	34925	0
-Landbouw	34926	0
-Landbouw	35419	0
-Landbouw	35420	0
-Landbouw	35421	0
-Landbouw	35422	0
-Landbouw	35423	0
-Landbouw	35424	0
-Landbouw	36409	0
-Landbouw	36410	0
-Landbouw	36411	0
-Landbouw	36412	0
-Landbouw	36413	0
-Landbouw	36414	0
-Landbouw	36421	0
-Landbouw	36422	0
-Landbouw	36423	0
-Landbouw	36424	0
-Landbouw	36425	0
-Landbouw	36426	0
-Landbouw	38605	0
-Landbouw	38606	0
-Landbouw	38607	0
-Landbouw	38608	2
-Landbouw	38609	0
-Landbouw	38610	1
-Landbouw	38965	0
-Landbouw	38966	0
-Landbouw	38967	0
-Landbouw	38968	0
-Landbouw	38969	0
-Landbouw	38970	0
-Landbouw	38983	0
-Landbouw	38984	0
-Landbouw	38985	0
-Landbouw	38986	0
-Landbouw	38987	0
-Landbouw	38988	0
-Landbouw	41629	0
-Landbouw	41630	0
-Landbouw	41631	0
-Landbouw	41632	0
-Landbouw	41633	0
-Landbouw	41634	0
-Landbouw	42871	0
-Landbouw	42872	0
-Landbouw	42873	0
-Landbouw	42874	0
-Landbouw	42875	0
-Landbouw	42876	0
-Moeras en water	4021	0
-Moeras en water	4022	0
-Moeras en water	4023	0
-Moeras en water	4024	0
-Moeras en water	4025	0
-Moeras en water	4026	0
-Moeras en water	4033	0
-Moeras en water	4034	0
-Moeras en water	4035	1
-Moeras en water	4036	0
-Moeras en water	4037	0
-Moeras en water	4038	0
-Moeras en water	4039	0
-Moeras en water	4040	0
-Moeras en water	4041	0
-Moeras en water	4042	0
-Moeras en water	4043	0
-Moeras en water	4044	0
-Moeras en water	4051	0
-Moeras en water	4052	1
-Moeras en water	4053	0
-Moeras en water	4054	1
-Moeras en water	4055	0
-Moeras en water	4056	0
-Moeras en water	16603	0
-Moeras en water	16604	0
-Moeras en water	16605	0
-Moeras en water	16606	0
-Moeras en water	16607	0
-Moeras en water	16608	0
-Moeras en water	16615	0
-Moeras en water	16616	0
-Moeras en water	16617	0
-Moeras en water	16618	0
-Moeras en water	16619	0
-Moeras en water	16620	0
-Moeras en water	30265	0
-Moeras en water	30266	0
-Moeras en water	30267	0
-Moeras en water	30268	0
-Moeras en water	30269	0
-Moeras en water	30270	0
-Moeras en water	30271	0
-Moeras en water	30272	0
-Moeras en water	30273	0
-Moeras en water	30274	0
-Moeras en water	30275	0
-Moeras en water	30276	0
-Moeras en water	30283	0
-Moeras en water	30284	0
-Moeras en water	30285	0
-Moeras en water	30286	0
-Moeras en water	30287	0
-Moeras en water	30288	0
-Moeras en water	30289	0
-Moeras en water	30290	0
-Moeras en water	30291	0
-Moeras en water	30292	0
-Moeras en water	30293	0
-Moeras en water	30294	0
-Moeras en water	37849	0
-Moeras en water	37850	0
-Moeras en water	37851	0
-Moeras en water	37852	0
-Moeras en water	37853	0
-Moeras en water	37854	0
-Moeras en water	39691	0
-Moeras en water	39692	0
-Moeras en water	39693	0
-Moeras en water	39694	0
-Moeras en water	39695	0
-Moeras en water	39696	1
-Moeras en water	43381	0
-Moeras en water	43382	0
-Moeras en water	43383	0
-Moeras en water	43384	0
-Moeras en water	43385	0
-Moeras en water	43386	0
+ObservationID	Count
+3877	0
+3878	0
+3879	0
+3880	0
+3881	0
+3882	0
+3889	0
+3890	0
+3891	1
+3892	0
+3893	0
+3894	0
+4021	0
+4022	0
+4023	0
+4024	0
+4025	0
+4026	0
+4033	0
+4034	0
+4035	1
+4036	0
+4037	0
+4038	0
+4039	0
+4040	0
+4041	0
+4042	0
+4043	0
+4044	0
+4051	0
+4052	1
+4053	0
+4054	1
+4055	0
+4056	0
+4099	0
+4100	0
+4101	0
+4102	1
+4103	0
+4104	0
+4111	0
+4112	0
+4113	0
+4114	0
+4115	0
+4116	0
+15547	0
+15548	1
+15549	0
+15550	0
+15551	0
+15552	0
+15559	0
+15560	0
+15561	0
+15562	0
+15563	0
+15564	0
+16603	0
+16604	0
+16605	0
+16606	0
+16607	0
+16608	0
+16615	0
+16616	0
+16617	0
+16618	0
+16619	0
+16620	0
+18127	0
+18128	0
+18129	0
+18130	0
+18131	0
+18132	0
+18139	0
+18140	0
+18141	0
+18142	0
+18143	0
+18144	0
+19471	0
+19472	0
+19473	1
+19474	0
+19475	1
+19476	0
+19495	0
+19496	0
+19497	0
+19498	0
+19499	0
+19500	0
+23287	0
+23288	0
+23289	0
+23290	0
+23291	0
+23292	0
+29017	0
+29018	0
+29019	0
+29020	0
+29021	0
+29022	0
+29923	1
+29924	0
+29925	0
+29926	0
+29927	0
+29928	0
+30265	0
+30266	0
+30267	0
+30268	0
+30269	0
+30270	0
+30271	0
+30272	0
+30273	0
+30274	0
+30275	0
+30276	0
+30283	0
+30284	0
+30285	0
+30286	0
+30287	0
+30288	0
+30289	0
+30290	0
+30291	0
+30292	0
+30293	0
+30294	0
+31351	0
+31352	0
+31353	0
+31354	0
+31355	0
+31356	0
+31603	0
+31604	0
+31605	0
+31606	0
+31607	0
+31608	0
+34921	0
+34922	0
+34923	0
+34924	0
+34925	0
+34926	0
+35419	0
+35420	0
+35421	0
+35422	0
+35423	0
+35424	0
+36409	0
+36410	0
+36411	0
+36412	0
+36413	0
+36414	0
+36421	0
+36422	0
+36423	0
+36424	0
+36425	0
+36426	0
+37849	0
+37850	0
+37851	0
+37852	0
+37853	0
+37854	0
+38605	0
+38606	0
+38607	0
+38608	2
+38609	0
+38610	1
+38965	0
+38966	0
+38967	0
+38968	0
+38969	0
+38970	0
+38983	0
+38984	0
+38985	0
+38986	0
+38987	0
+38988	0
+39691	0
+39692	0
+39693	0
+39694	0
+39695	0
+39696	1
+41629	0
+41630	0
+41631	0
+41632	0
+41633	0
+41634	0
+42871	0
+42872	0
+42873	0
+42874	0
+42875	0
+42876	0
+43381	0
+43382	0
+43383	0
+43384	0
+43385	0
+43386	0

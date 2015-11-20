@@ -1,3 +1,3 @@
 Stratum	Weight
-Landbouw	0.946336164027236
-Moeras en water	0.0536638359727641
+Landbouw	0.940618046821176
+Moeras en water	0.0593819531788242

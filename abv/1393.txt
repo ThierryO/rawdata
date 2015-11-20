@@ -1,53 +1,53 @@
-Stratum	ObservationID	Count
-Landbouw	3565	0
-Landbouw	3566	0
-Landbouw	3567	0
-Landbouw	3568	0
-Landbouw	3569	0
-Landbouw	3570	0
-Landbouw	4423	0
-Landbouw	4424	0
-Landbouw	4425	0
-Landbouw	4426	0
-Landbouw	4427	0
-Landbouw	4428	0
-Landbouw	15571	0
-Landbouw	15572	0
-Landbouw	15573	0
-Landbouw	15574	0
-Landbouw	15575	0
-Landbouw	15576	1
-Landbouw	29209	2
-Landbouw	29210	0
-Landbouw	29211	0
-Landbouw	29214	0
-Landbouw	29941	0
-Landbouw	29942	0
-Landbouw	29943	0
-Landbouw	29944	0
-Landbouw	29945	0
-Landbouw	29946	0
-Landbouw	33925	0
-Landbouw	33926	0
-Landbouw	33927	0
-Landbouw	33928	0
-Landbouw	33929	0
-Landbouw	33930	0
-Landbouw	38215	0
-Landbouw	38216	0
-Landbouw	38217	0
-Landbouw	38218	0
-Landbouw	38219	0
-Landbouw	38220	1
-Landbouw	38449	0
-Landbouw	38450	0
-Landbouw	38451	0
-Landbouw	38452	0
-Landbouw	38453	2
-Landbouw	38454	0
-Landbouw	42061	0
-Landbouw	42062	0
-Landbouw	42063	0
-Landbouw	42064	0
-Landbouw	42065	0
-Landbouw	42066	0
+ObservationID	Count
+3565	0
+3566	0
+3567	0
+3568	0
+3569	0
+3570	0
+4423	0
+4424	0
+4425	0
+4426	0
+4427	0
+4428	0
+15571	0
+15572	0
+15573	0
+15574	0
+15575	0
+15576	1
+29209	2
+29210	0
+29211	0
+29214	0
+29941	0
+29942	0
+29943	0
+29944	0
+29945	0
+29946	0
+33925	0
+33926	0
+33927	0
+33928	0
+33929	0
+33930	0
+38215	0
+38216	0
+38217	0
+38218	0
+38219	0
+38220	1
+38449	0
+38450	0
+38451	0
+38452	0
+38453	2
+38454	0
+42061	0
+42062	0
+42063	0
+42064	0
+42065	0
+42066	0

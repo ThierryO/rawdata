@@ -1,105 +1,105 @@
-Stratum	ObservationID	Count
-Suburbaan	3931	2
-Suburbaan	3932	1
-Suburbaan	3933	0
-Suburbaan	3934	1
-Suburbaan	3935	0
-Suburbaan	3936	0
-Suburbaan	3937	0
-Suburbaan	3938	0
-Suburbaan	3939	1
-Suburbaan	3940	1
-Suburbaan	3941	1
-Suburbaan	3942	3
-Suburbaan	3943	0
-Suburbaan	3944	2
-Suburbaan	3945	3
-Suburbaan	3946	4
-Suburbaan	3947	1
-Suburbaan	3948	2
-Suburbaan	3949	0
-Suburbaan	3950	0
-Suburbaan	3951	0
-Suburbaan	3952	0
-Suburbaan	3953	0
-Suburbaan	3954	0
-Suburbaan	3955	0
-Suburbaan	3956	0
-Suburbaan	3957	0
-Suburbaan	3958	0
-Suburbaan	3959	0
-Suburbaan	3960	0
-Suburbaan	3961	0
-Suburbaan	3962	2
-Suburbaan	3963	0
-Suburbaan	3964	0
-Suburbaan	3965	0
-Suburbaan	3966	0
-Suburbaan	4771	0
-Suburbaan	4772	0
-Suburbaan	4773	1
-Suburbaan	4774	0
-Suburbaan	4775	0
-Suburbaan	4776	0
-Suburbaan	4777	1
-Suburbaan	4778	0
-Suburbaan	4779	1
-Suburbaan	4780	0
-Suburbaan	4781	0
-Suburbaan	4782	0
-Suburbaan	4783	2
-Suburbaan	4784	0
-Suburbaan	4785	3
-Suburbaan	4786	0
-Suburbaan	4787	0
-Suburbaan	4788	0
-Suburbaan	24811	1
-Suburbaan	24812	0
-Suburbaan	24813	0
-Suburbaan	24814	1
-Suburbaan	24815	0
-Suburbaan	24816	0
-Suburbaan	25807	0
-Suburbaan	25808	0
-Suburbaan	25809	0
-Suburbaan	25810	0
-Suburbaan	25811	0
-Suburbaan	25812	0
-Suburbaan	29005	0
-Suburbaan	29006	0
-Suburbaan	29007	0
-Suburbaan	29009	0
-Suburbaan	29011	0
-Suburbaan	29012	0
-Suburbaan	29013	0
-Suburbaan	29014	0
-Suburbaan	29015	0
-Suburbaan	29016	0
-Suburbaan	29023	0
-Suburbaan	29024	0
-Suburbaan	29025	0
-Suburbaan	29027	0
-Suburbaan	29029	0
-Suburbaan	29030	0
-Suburbaan	29031	0
-Suburbaan	29032	0
-Suburbaan	29033	0
-Suburbaan	29034	0
-Suburbaan	37741	0
-Suburbaan	37742	0
-Suburbaan	37743	0
-Suburbaan	37744	0
-Suburbaan	37745	0
-Suburbaan	37746	0
-Suburbaan	38221	0
-Suburbaan	38222	0
-Suburbaan	38223	0
-Suburbaan	38224	0
-Suburbaan	38225	0
-Suburbaan	38226	0
-Suburbaan	38917	0
-Suburbaan	38918	0
-Suburbaan	38919	0
-Suburbaan	38920	0
-Suburbaan	38921	0
-Suburbaan	38922	0
+ObservationID	Count
+3931	2
+3932	1
+3933	0
+3934	1
+3935	0
+3936	0
+3937	0
+3938	0
+3939	1
+3940	1
+3941	1
+3942	3
+3943	0
+3944	2
+3945	3
+3946	4
+3947	1
+3948	2
+3949	0
+3950	0
+3951	0
+3952	0
+3953	0
+3954	0
+3955	0
+3956	0
+3957	0
+3958	0
+3959	0
+3960	0
+3961	0
+3962	2
+3963	0
+3964	0
+3965	0
+3966	0
+4771	0
+4772	0
+4773	1
+4774	0
+4775	0
+4776	0
+4777	1
+4778	0
+4779	1
+4780	0
+4781	0
+4782	0
+4783	2
+4784	0
+4785	3
+4786	0
+4787	0
+4788	0
+24811	1
+24812	0
+24813	0
+24814	1
+24815	0
+24816	0
+25807	0
+25808	0
+25809	0
+25810	0
+25811	0
+25812	0
+29005	0
+29006	0
+29007	0
+29009	0
+29011	0
+29012	0
+29013	0
+29014	0
+29015	0
+29016	0
+29023	0
+29024	0
+29025	0
+29027	0
+29029	0
+29030	0
+29031	0
+29032	0
+29033	0
+29034	0
+37741	0
+37742	0
+37743	0
+37744	0
+37745	0
+37746	0
+38221	0
+38222	0
+38223	0
+38224	0
+38225	0
+38226	0
+38917	0
+38918	0
+38919	0
+38920	0
+38921	0
+38922	0

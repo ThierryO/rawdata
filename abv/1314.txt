@@ -1,127 +1,127 @@
-Stratum	ObservationID	Count
-Moeras en water	205	0
-Moeras en water	206	0
-Moeras en water	207	0
-Moeras en water	208	0
-Moeras en water	209	0
-Moeras en water	210	0
-Moeras en water	1825	0
-Moeras en water	1826	1
-Moeras en water	1827	0
-Moeras en water	1828	0
-Moeras en water	1829	0
-Moeras en water	1830	1
-Moeras en water	17599	0
-Moeras en water	17600	0
-Moeras en water	17601	0
-Moeras en water	17602	0
-Moeras en water	17603	0
-Moeras en water	17604	0
-Moeras en water	17605	0
-Moeras en water	17606	0
-Moeras en water	17607	0
-Moeras en water	17608	0
-Moeras en water	17609	0
-Moeras en water	17610	0
-Moeras en water	29089	0
-Moeras en water	29090	0
-Moeras en water	29091	0
-Moeras en water	29092	0
-Moeras en water	29093	0
-Moeras en water	29094	1
-Moeras en water	29095	0
-Moeras en water	29096	0
-Moeras en water	29097	0
-Moeras en water	29098	1
-Moeras en water	29099	0
-Moeras en water	29100	0
-Moeras en water	30637	0
-Moeras en water	30638	0
-Moeras en water	30639	0
-Moeras en water	30640	0
-Moeras en water	30641	0
-Moeras en water	30642	0
-Moeras en water	30649	0
-Moeras en water	30650	0
-Moeras en water	30651	0
-Moeras en water	30652	0
-Moeras en water	30653	0
-Moeras en water	30654	0
-Moeras en water	33331	0
-Moeras en water	33332	0
-Moeras en water	33333	1
-Moeras en water	33334	1
-Moeras en water	33335	1
-Moeras en water	33336	1
-Moeras en water	33343	0
-Moeras en water	33344	0
-Moeras en water	33345	0
-Moeras en water	33346	0
-Moeras en water	33347	0
-Moeras en water	33348	0
-Moeras en water	34801	0
-Moeras en water	34802	0
-Moeras en water	34803	0
-Moeras en water	34804	0
-Moeras en water	34805	0
-Moeras en water	34806	0
-Moeras en water	36655	1
-Moeras en water	36656	1
-Moeras en water	36657	1
-Moeras en water	36658	1
-Moeras en water	36659	1
-Moeras en water	36660	1
-Moeras en water	36661	0
-Moeras en water	36662	0
-Moeras en water	36663	0
-Moeras en water	36664	1
-Moeras en water	36665	1
-Moeras en water	36666	1
-Moeras en water	38341	0
-Moeras en water	38342	0
-Moeras en water	38343	0
-Moeras en water	38344	0
-Moeras en water	38345	0
-Moeras en water	38346	0
-Moeras en water	38347	0
-Moeras en water	38348	0
-Moeras en water	38349	0
-Moeras en water	38350	0
-Moeras en water	38351	0
-Moeras en water	38352	1
-Moeras en water	41125	0
-Moeras en water	41126	1
-Moeras en water	41127	0
-Moeras en water	41128	0
-Moeras en water	41129	0
-Moeras en water	41130	0
-Moeras en water	41155	1
-Moeras en water	41156	0
-Moeras en water	41157	1
-Moeras en water	41158	1
-Moeras en water	41159	1
-Moeras en water	41160	1
-Moeras en water	41161	0
-Moeras en water	41162	0
-Moeras en water	41163	0
-Moeras en water	41164	1
-Moeras en water	41165	0
-Moeras en water	41166	1
-Moeras en water	42253	0
-Moeras en water	42254	0
-Moeras en water	42255	0
-Moeras en water	42256	0
-Moeras en water	42257	0
-Moeras en water	42258	0
-Moeras en water	43747	1
-Moeras en water	43748	1
-Moeras en water	43749	1
-Moeras en water	43750	1
-Moeras en water	43751	1
-Moeras en water	43752	1
-Moeras en water	43753	0
-Moeras en water	43754	0
-Moeras en water	43755	0
-Moeras en water	43756	0
-Moeras en water	43757	0
-Moeras en water	43758	0
+ObservationID	Count
+205	0
+206	0
+207	0
+208	0
+209	0
+210	0
+1825	0
+1826	1
+1827	0
+1828	0
+1829	0
+1830	1
+17599	0
+17600	0
+17601	0
+17602	0
+17603	0
+17604	0
+17605	0
+17606	0
+17607	0
+17608	0
+17609	0
+17610	0
+29089	0
+29090	0
+29091	0
+29092	0
+29093	0
+29094	1
+29095	0
+29096	0
+29097	0
+29098	1
+29099	0
+29100	0
+30637	0
+30638	0
+30639	0
+30640	0
+30641	0
+30642	0
+30649	0
+30650	0
+30651	0
+30652	0
+30653	0
+30654	0
+33331	0
+33332	0
+33333	1
+33334	1
+33335	1
+33336	1
+33343	0
+33344	0
+33345	0
+33346	0
+33347	0
+33348	0
+34801	0
+34802	0
+34803	0
+34804	0
+34805	0
+34806	0
+36655	1
+36656	1
+36657	1
+36658	1
+36659	1
+36660	1
+36661	0
+36662	0
+36663	0
+36664	1
+36665	1
+36666	1
+38341	0
+38342	0
+38343	0
+38344	0
+38345	0
+38346	0
+38347	0
+38348	0
+38349	0
+38350	0
+38351	0
+38352	1
+41125	0
+41126	1
+41127	0
+41128	0
+41129	0
+41130	0
+41155	1
+41156	0
+41157	1
+41158	1
+41159	1
+41160	1
+41161	0
+41162	0
+41163	0
+41164	1
+41165	0
+41166	1
+42253	0
+42254	0
+42255	0
+42256	0
+42257	0
+42258	0
+43747	1
+43748	1
+43749	1
+43750	1
+43751	1
+43752	1
+43753	0
+43754	0
+43755	0
+43756	0
+43757	0
+43758	0

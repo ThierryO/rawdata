@@ -1,106 +1,106 @@
-Stratum	ObservationID	Count
-Moeras en water	2713	0
-Moeras en water	2714	0
-Moeras en water	2715	0
-Moeras en water	2716	0
-Moeras en water	2717	0
-Moeras en water	2718	0
-Moeras en water	4519	0
-Moeras en water	4520	0
-Moeras en water	4521	0
-Moeras en water	4522	0
-Moeras en water	4523	0
-Moeras en water	4524	0
-Moeras en water	9901	0
-Moeras en water	9902	0
-Moeras en water	9903	0
-Moeras en water	9904	0
-Moeras en water	9905	0
-Moeras en water	9906	0
-Moeras en water	9949	0
-Moeras en water	9950	0
-Moeras en water	9951	0
-Moeras en water	9952	0
-Moeras en water	9953	0
-Moeras en water	9954	0
-Moeras en water	9979	0
-Moeras en water	9980	0
-Moeras en water	9981	0
-Moeras en water	9982	0
-Moeras en water	9983	0
-Moeras en water	9984	0
-Moeras en water	17893	0
-Moeras en water	17894	0
-Moeras en water	17895	0
-Moeras en water	17896	0
-Moeras en water	17897	0
-Moeras en water	17898	1
-Moeras en water	17899	0
-Moeras en water	17900	0
-Moeras en water	17901	0
-Moeras en water	17902	0
-Moeras en water	17903	0
-Moeras en water	17904	0
-Moeras en water	29371	0
-Moeras en water	29372	0
-Moeras en water	29373	0
-Moeras en water	29374	0
-Moeras en water	29375	0
-Moeras en water	29376	0
-Moeras en water	29377	0
-Moeras en water	29378	0
-Moeras en water	29379	0
-Moeras en water	29380	0
-Moeras en water	29381	0
-Moeras en water	29382	0
-Moeras en water	29383	0
-Moeras en water	29384	0
-Moeras en water	29385	1
-Moeras en water	29386	0
-Moeras en water	29387	0
-Moeras en water	29388	0
-Moeras en water	29959	0
-Moeras en water	29960	0
-Moeras en water	29961	0
-Moeras en water	29962	0
-Moeras en water	29963	0
-Moeras en water	29964	0
-Moeras en water	30763	0
-Moeras en water	30764	0
-Moeras en water	30765	0
-Moeras en water	30766	0
-Moeras en water	30767	0
-Moeras en water	30768	0
-Moeras en water	31501	0
-Moeras en water	31502	0
-Moeras en water	31503	0
-Moeras en water	31504	0
-Moeras en water	31505	0
-Moeras en water	31506	0
-Moeras en water	40663	0
-Moeras en water	40664	0
-Moeras en water	40665	0
-Moeras en water	40666	0
-Moeras en water	40667	0
-Moeras en water	40668	0
-Moeras en water	40669	0
-Moeras en water	40670	0
-Moeras en water	40671	0
-Moeras en water	40672	0
-Moeras en water	40673	0
-Moeras en water	40674	0
-Moeras en water	40675	0
-Moeras en water	40676	0
-Moeras en water	40677	0
-Moeras en water	40678	0
-Moeras en water	40679	0
-Moeras en water	40680	0
-Moeras en water	41371	0
-Moeras en water	41373	0
-Moeras en water	41376	2
-Moeras en water	41977	0
-Moeras en water	41979	0
-Moeras en water	41982	0
-Moeras en water	42481	0
-Moeras en water	42483	0
-Moeras en water	42486	0
+ObservationID	Count
+2713	0
+2714	0
+2715	0
+2716	0
+2717	0
+2718	0
+4519	0
+4520	0
+4521	0
+4522	0
+4523	0
+4524	0
+9901	0
+9902	0
+9903	0
+9904	0
+9905	0
+9906	0
+9949	0
+9950	0
+9951	0
+9952	0
+9953	0
+9954	0
+9979	0
+9980	0
+9981	0
+9982	0
+9983	0
+9984	0
+17893	0
+17894	0
+17895	0
+17896	0
+17897	0
+17898	1
+17899	0
+17900	0
+17901	0
+17902	0
+17903	0
+17904	0
+29371	0
+29372	0
+29373	0
+29374	0
+29375	0
+29376	0
+29377	0
+29378	0
+29379	0
+29380	0
+29381	0
+29382	0
+29383	0
+29384	0
+29385	1
+29386	0
+29387	0
+29388	0
+29959	0
+29960	0
+29961	0
+29962	0
+29963	0
+29964	0
+30763	0
+30764	0
+30765	0
+30766	0
+30767	0
+30768	0
+31501	0
+31502	0
+31503	0
+31504	0
+31505	0
+31506	0
+40663	0
+40664	0
+40665	0
+40666	0
+40667	0
+40668	0
+40669	0
+40670	0
+40671	0
+40672	0
+40673	0
+40674	0
+40675	0
+40676	0
+40677	0
+40678	0
+40679	0
+40680	0
+41371	0
+41373	0
+41376	2
+41977	0
+41979	0
+41982	0
+42481	0
+42483	0
+42486	0

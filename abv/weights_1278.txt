@@ -1,4 +1,4 @@
 Stratum	Weight
-Heide en duin	0.360798040420037
-Moeras en water	0.185531077250964
-Suburbaan	0.453670882328999
+Heide en duin	0.354402254372936
+Moeras en water	0.176267054995166
+Suburbaan	0.469330690631898
