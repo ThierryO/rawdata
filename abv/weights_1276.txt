@@ -1,3 +1,0 @@
-Stratum	Weight
-Landbouw	0.936998911214491
-Suburbaan	0.0630010887855093

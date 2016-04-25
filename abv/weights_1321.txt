@@ -1,2 +1,0 @@
-Stratum	Weight
-Bos	1

@@ -1,4 +1,0 @@
-Stratum	Weight
-Bos	0.0466180641133452
-Landbouw	0.917192510424546
-Moeras en water	0.0361894254621086
